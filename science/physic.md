@@ -1,0 +1,1 @@
+# PHYSIC## Nuclear Reaction- Nuclear Fusion- Nuclear Fission- Radioactive Decay- Neutron Capture Reaction- Spallation

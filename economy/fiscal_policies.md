@@ -1,0 +1,1 @@
+# FISCAL POLICIES## BailoutKebijakan pemerintah untuk memberikan bantuan kepada perusahaan yang mengalami kebangkrutan.## Counter-cyclical## State Revenue and Expenditure## Trade-off

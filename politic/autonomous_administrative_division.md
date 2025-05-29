@@ -1,0 +1,1 @@
+# AUTONOMOUS ADMINISTRATIVE DIVISION## First Level- Prefecture- Province- Stare- Region- Autonomous Region- Oblast## Second Level- City- Regional- County- District## Third Level- District- Township- Parish- Gemeinde- Commune## Fourth Level- Village- Block- Hamlet- Ortsteil## Fifth Level- Municipality- Neighborhood
