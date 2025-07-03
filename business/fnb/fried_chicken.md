@@ -1,1 +1,0 @@
-# 🍗 FRIEND CHICKEN RECEIPT- Tepung Terigu - Tepung Tapioka- Tepung Maizena- Cabe Bubuk- Merica Bubuk- Merica Hitam Bubuk- Bawang Putih Bubuk- Seledri Bubuk- Paprika Bubuk- Soda Kue- Garam- Thyme- Basil- Oregano- Jahe

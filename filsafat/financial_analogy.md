@@ -1,0 +1,26 @@
+# FINANCIAL ANALOGY
+
+- Eksposur = Bayangan
+- Likuiditas = Air di Ember
+- Leverage = Tuas
+- Diversifikasi = Menanam di Lahan Berbeda
+- Volatilitas= Gelombang Laut
+- Arus Kas = Aliran Sungai
+- Inflasi = Uap di Air
+- Hedging = Payung
+- Stop Loss = Rem
+- Margin = Uang Jaminan
+- Short Selling = Pinjam Barang untuk Dijual
+- Valuasi = Menentukan Harga
+- Risiko Sistemik = Runtuhnya Menara
+- Yield = Buah dari Pohon
+- Obligasi = Surat Utang Berbunga
+- CAGR = Rata-Rata Kecepatan Pertumbuhan
+- Dividen= Bagi-Bagi Untung
+- Arbitrase = Beli di Pasar A, Jual Cepat di Pasar B
+- Rebelancing = Atur Ulang Komposisi Resep
+- Return On Investment = Untung dibanding Modal
+- Drawdown = Tingkat Penurunan Berat Badan
+- Dollar Cost Averaging = Nabung Rutin tanpa Lihat Harga
+- Forecasting = Ramalan Cuaca
+- Liquidity Trap = Uang Tersebar tapi Takut Belanja
