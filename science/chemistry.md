@@ -1,1 +1,1 @@
-# CHEMISTRY## Natural Substances- Water- Oxygen- Carbon Dioxide- Glucose## Dangerousatural Substance- Syanide- Mercury- Carbon Monoxide- Formalin## Artificial Chemicals- Aspartame- Monosodium Glutamate- Sodium Benzoate- Polietilena- Paracetamol
+# CHEMISTRY## Natural Substances- Water- Oxygen- Carbon Dioxide- Glucose## Dangerousatural Substance- Syanide- Mercury- Carbon Monoxide- Formalin## Artificial Chemicals- Aspartame- Monosodium Glutamate- Sodium Benzoate- Polietilena- Paracetamol## Azodicabonamide## Gluten

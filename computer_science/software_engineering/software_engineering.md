@@ -620,3 +620,259 @@ Argument adalah nilai nyata yang kamu kirim ke dalam function saat memanggilnya.
 ## Looping
 
 Looping adalah proses menjalankan blok kode secara berulang selama kondisi tertentu masih terpenuhi.
+
+## Over-the-air (OTA)
+
+Over-the-air (OTA) adalah metode untuk mendistribusikan data atau pembaruan perangkat lunak ke perangkat secara nirkabel, biasanya melalui koneksi Wi-Fi, seluler, atau Bluetooth.
+
+## Programming Paradigm
+
+Programming paradigm adalah gaya atau pendekatan dalam menulis dan menyusun kode program. Paradigma ini menentukan cara berpikir dan struktur program, seperti bagaimana data dan logika diorganisasi.
+
+1. Imperative
+2. Procedural
+3. Object-oriented Programming
+4. Functional
+5. Declarative
+6. Logic
+
+## Remote Debugging
+
+Remote debugging adalah proses men-debug yang berjalan di komputer lain dari jarak jauh, biasanya melalui jaringan lokal atau internet.
+
+## Operating System
+
+Operating System (OS) atau Sistem Operasi adalah perangkat lunak utama yang mengelola seluruh perangkat keras dan perangkat lunak di dalam komputer atau perangkat digital lainnya.
+
+## Windows Subsystem for Linux (WSL)
+
+Windows Subsystem for Linux (WSL) adalah fitur di sistem operasi Windows yang memungkinkan kamu menjalankan Linux secara langsung di dalam Windows, tanpa perlu mesin virtual atau dual-boot.
+
+## GNU'S Not Unix (GNU)
+
+GNU'S Not Unix (GNU) adalah sebuah proyek sistem operasi free dan open-source yang dimulai oleh Richard Stallman pada tahun 1983.
+
+## Kernel
+
+Kernel adalah inti dari sistem operasi—komponen utama yang menghubungkan perangkat keras dengan perangkat lunak. Ada 3 jenis kernel yang ada saat ini, yaitu:
+
+1. Monolithic Modular
+2. Monolithic
+3. Hybrid
+4. Microkernel
+5. Real-time Kernel
+
+## Device Drivers
+
+Device driver adalah perangkat lunak yang berfungsi sebagai perantara antara sistem operasi dan perangkat keras. Tanpa driver, sistem operasi tidak dapat berkomunikasi atau mengontrol hardware dengan benar.
+
+## Environment Variable
+
+Environment variable adalah pasangan nama-nilai yang digunakan oleh sistem operasi untuk menyimpan informasi penting yang dapat digunakan oleh sistem dan aplikasi yang berjalan.
+
+## Desktop Environment (DE)
+
+Desktop Environment (DE) adalah antarmuka grafis lengkap yang digunakan di sistem operasi, terutama pada Linux dan Unix-like systems, untuk memberikan pengalaman pengguna yang nyaman dan intuitif dalam mengakses file, aplikasi, dan pengaturan sistem.
+Berikut ini adalah beberapa contoh dari desktop environment:
+
+- GNU Network Object Model Environment (GNOME)
+- K Desktop Environment Plasma (KDE Plasma)
+- XFCE
+- LXDE
+- Cinnamon
+- MATE
+- Budgie
+
+## Bootloader
+
+Bootloader adalah program kecil yang dijalankan pertama kali saat perangkat dinyalakan. Sebelum sistem operasi mulai berjalan. Bootloader bertugas memuat kernel OS ke dalam memori, lalu menyerahkan kendali sistem ke OS tersebut.
+
+## Symbol Files
+
+Symbol files adalah file yang berisi informasi simbolik tentang kode program seperti nama fungsi, variabel, dan baris kode sumber yang digunakan untuk proses debugging. File ini membantu developer memahami apa yang sedang terjadi dalam program saat dijalankan atau saat terjadi error.
+
+## Registry
+
+Registry adalah basis data terpusat di sistem operasi Microsoft Windows yang menyimpan konfigurasi sistem, pengaturan perangkat lunak, dan preferensi pengguna.
+
+## Dynamic Link Library
+
+Dynamic Link Library (DLL) adalah file berisi kumpulan kode dan data yang bisa digunakan bersama-sama oleh banyak program di Windows.
+
+## Basic Input/Output System (BIOS)
+
+Basic Input/Output System adalah perangkat lunak tingkat rendah yang tertanam di dalam chip ROM pada motherboard komputer. BIOS adalah program pertama yang dijalankan saat komputer dinyalakan, sebelum sistem operasi mulai bekerja.
+
+## Storage Data Unit
+
+Storage data unit adalah satuan ukuran yang digunakan untuk mengukur jumlah data yang bisa disimpan atau diproses oleh perangkat digital, seperti hard disk, SSD, RAM, atau flash drive. Berikut ini adalah urutan satuan data dari terkecil ke terbesar:
+
+- 1 Binary Unit = 1 Bit
+- 1 Byte = 8 Bits
+- 1 Kilo Byte (KB) = 1024 Bytes
+- 1 Mega Byte (MB) = 1024 KB
+- 1 Giga Byte (GB) = 1024 MB
+- 1 Tera Byte (TB) = 1024 GB
+- 1 Peta Byte (PB) = 1024 TB
+- 1 Exa Byte (EB) = 1024 PT
+- 1 Zetta Byte (ZB) = 1024 EB
+- 1 Yotta Byte (YB) = 1024 ZB
+
+## Number Systems
+
+Number system adalah cara untuk mewakili angka menggunakan simbol atau digit tertentu dalam suatu basis (radix). Setiap sistem bilangan punya aturan dasar dan jumlah simbol berbeda yang digunakan untuk membentuk angka. Berikut ini adalah sistem bilangan dalam komputer:
+
+- Binary (2): `0, q`
+- Octal (8): `0, 1, 2, 3, 4, 5, 6, 7`
+- Decimal (10): `0, 1, 2, 3, 4, 5, 6, 7, 8, 9`
+- Hexadecimal (16): `0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F`
+
+## Database
+
+Database adalah kumpulan data yang disimpan secara sistematis di dalam komputer. Database dapat diakses, dikelola, dan diperbarui dengan mudah. Database digunakan untuk menyimpan informasi yang besar dan kompleks, seperti data pelanggan, transaksi, produk, dan lainnya, dalam berbagai bidang seperti bisnis, pendidikan, teknologi, dan pemerintahan.
+
+## Database Management Systems (DMBS)
+
+Database Management System (DBMS) adalah perangkat lunak yang digunakan untuk membuat, mengelola, dan mengakses database. DBMS memudahkan pengguna untuk menyimpan, mengambil, memperbarui, dan menghapus data dalam database tanpa harus menulis kode pemrograman yang rumit untuk mengatur file satu per satu. Berikut ini adalah platform-platform populer untuk mengelola DBMS:
+
+- MongoDB
+- Redis
+- Neo4j
+
+## Relational Database Management Systems (RDBMS)
+
+Relational Database Management System (RDBMS) adalah jenis sistem manajemen basis data yang menyimpan data dalam bentuk tabel-tabel yang saling berhubungan satu sama lain. Tabel ini memiliki baris dan kolom. Berikut ini adalah platform-platform populer untuk mengelola RDBMS:
+
+- SQLite
+- MySQL
+- Oracle 
+- MariaDB
+- PostgreSQL
+- Microsoft SQL Server
+
+## Primary Key
+
+Primary key adalah kolom dalam sebuah tabel database yang digunakan untuk mengidentifikasi setiap baris data secara unik.
+
+## Foreign Key
+
+Foreign Key adalah kolom dalam sebuah tabel yang digunakan untuk menghubungkan data antar tabel. Foreign key merujuk ke primary key di tabel lain, sehingga membentuk relasi antar tabel dalam database relasional (RDBMS).
+
+## Normalization
+
+Normalization adalah proses mengorganisir data dalam database agar tidak ada duplikasi data, data menjadi konsisten dan struktur tabel menjadi efisien dan mudah dirawat.
+
+## Artificial Intelligence (AI)
+
+Artificial Intelligence (AI) atau Kecerdasan Buatan adalah cabang dari ilmu komputer yang berfokus pada membuat mesin atau program komputer agar dapat berpikir dan bertindak seperti manusia.
+
+## Machine Learning (ML)
+
+Machine Learning (ML) adalah cabang dari kecerdasan buatan yang memungkinkan komputer belajar dari data dan membuat keputusan tanpa diprogram secara eksplisit. Ada beberapa jenis dari machine learning, yaitu:
+
+- Supervised Learning
+- Unsupervised Learning
+- Reinforcement Learning
+
+## Neural Network
+
+Neural network atau jaringan saraf tiruan adalah sebuah metode dalam kecerdasan buatan (AI) yang meniru cara kerja otak manusia dalam memproses informasi. Ada beberapa jenis dari neural network, diantaranya adalah:
+
+1. Feedforward Neural Network (FNN)
+2. Convolutional Neural Network (CNN)
+3. Recurrent Neural Network (RNN)
+4. Long Short-term Memory (LSTM)
+5. Gated Recurrent Unit (GRU)
+6. Radial Basis Function Network (RBFN)
+7. Generative Adversarial Network (GAN)
+8. Auto-encoder
+9. Transformer
+10. Modular Neural Network (MNN)
+
+## Deep Learning
+
+Deep learning adalah cabang dari machine learning yang menggunakan jaringan saraf tiruan berlapis-lapis. Deep learning digunakan untuk memproses data dan membuat keputusan atau prediksi.
+
+## Nearest Neighbor Search (NNS)
+
+Nearest Neighbor Search (NNS) adalah proses dalam ilmu komputer dan machine learning untuk mencari data (atau titik) yang paling mirip, dekat, atau relevan dengan data tertentu, berdasarkan jarak matematis (misalnya Euclidean, Manhattan, cosine similarity, dll).
+
+## Affective Computing
+
+Affective computing adalah bidang dalam kecerdasan buatan (AI) dan ilmu komputer yang berfokus pada mendeteksi, memahami, meniru, dan merespons emosi manusia melalui teknologi.
+
+## Large Language Models (LLM)
+
+Large Language Models (LLM) adalah jenis model kecerdasan buatan (AI) yang dilatih untuk memahami dan menghasilkan teks dalam bahasa manusia dengan tingkat pemahaman yang sangat tinggi.
+
+## Query
+
+Query adalah perintah untuk mengambil, menyisipkan, memperbarui, atau menghapus data di dalam database.
+
+## Database Table
+
+Database table adalah struktur utama tempat menyimpan data secara terorganisir dalam bentuk baris dan kolom, mirip seperti tabel di Excel.
+
+## Comma-separated Values (CSV) 
+
+Comma-separated Values (CSV) adalah format file teks sederhana yang digunakan untuk menyimpan data dalam bentuk tabel. Setiap baris mewakili satu record dan setiap kolom dipisahkan oleh tanda koma.
+
+## JavaScript Object Notation (JSON)
+
+JavaScript Object Notation (JSON) adalah format ringan dan mudah dibaca untuk menyimpan dan bertukar data antar aplikasi.JSON digunakan untuk menyimpan data dalam struktur objek key dan value.
+
+## eXtensible Markup Language (XML)
+
+eXtensible Markup Language (XML) adalah format teks yang digunakan untuk menyimpan dan mentransfer data dengan struktur yang dapat didefinisikan sendiri oleh pengguna. Tidak seperti HTML yang berfungsi untuk menampilkan data, XML hanya berfungsi untuk menyimpan data saja.
+
+## Not Only SQL (NoSQL)
+
+Not Only SQL (NoSQL) adalah jenis sistem manajemen basis data yang tidak menggunakan struktur tabel relasional seperti SQL. NoSQL dirancang untuk menyimpan, mengambil, dan mengelola data yang tidak terstruktur atau semi-terstruktur dengan lebih fleksibel dan skalabel.
+
+## Database Transaction
+
+Database transaction adalah sejumlah operasi database yang dieksekusi sebagai satu kesatuan. Transaksi dianggap berhasil hanya jika semua operasi di dalamnya berhasil dan apabila ada satu saja yang gagal, maka semua operasi akan dibatalkan atau rollback.
+
+## Multiversion Concurrency Control (MVCC)
+
+Multiversion Concurrency Control (MVCC) adalah mekanisme dalam database yang memungkinkan banyak transaksi berjalan secara bersamaan tanpa saling mengganggu. MVCC bekerja dengan cara menyimpan beberapa versi dari data.
+
+## Online Analytical Processing (OLAP)
+
+Online Analytical Processing (OLAP) adalah teknologi dalam sistem basis data yang digunakan untuk menganalisis data dalam jumlah besar secara cepat dan interaktif.
+
+## Online Transaction Processing (OLTP)
+
+Online Transaction Processing (OLTP) adalah sistem basis data yang dirancang untuk menangani transaksi sehari-hari secara cepat, akurat dan andal.
+
+## Vector Database
+
+Vector database adalah jenis basis data khusus yang dirancang untuk menyimpan dan mencari data dalam bentuk vektor.
+
+## Computer Vision (CV)
+
+Computer Vision (CV) adalah cabang dari kecerdasan buatan (AI) yang berfokus pada membuat komputer bisa melihat, memahami, dan mengambil keputusan.
+
+## Natural Language Processing (NLP)
+
+Natural Language Processing (NLP) adalah cabang dari kecerdasan buatan (AI) yang berfokus pada interaksi antara komputer dan bahasa manusia. NLP bertujuan agar komputer bisa memahami, menafsirkan, menghasilkan, dan merespons bahasa manusia secara alami.
+
+## Backpropagation
+
+Backpropagation adalah algoritma inti dalam pelatihan neural network. Backpropagation digunakan untuk menghitung dan memperbaiki kesalahan dengan mengubah bobot pada setiap neuron agar model menjadi lebih akurat.
+
+## Stochastic
+
+Stochastic dalam konteks AI adalah algoritma yang mengandung elemen acak untuk membuat keputusan, mempelajari pola, atau mengeksplorasi solusi.
+
+## Deterministic
+
+Deterministic dalam konteks AI adalah algoritma yang selalu memberikan hasil yang sama jika diberikan input yang sama, tanpa unsur acak.
+
+## Temperature
+
+Temperature dalam konteks AI adalah parameter yang mengatur tingkat kreativitas atau keacakan dalam output model.
+
+## Model Context Protocol (MCP)
+
+Model Context Protocol (MCP) adalah protokol terbuka yang dikembangkan oleh Anthropic untuk menyederhanakan integrasi antara model bahasa besar (LLM) dan berbagai sumber data serta alat eksternal. MCP memungkinkan AI untuk mengakses, memahami, dan berinteraksi dengan data secara real-time, sehingga meningkatkan kemampuan AI dalam menjalankan tugas-tugas kompleks. 
