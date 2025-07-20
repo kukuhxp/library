@@ -1,19 +1,9 @@
-# REAL ESTATE SECTOR
+# REAL ESTATE
+
+Real estate adalah tanah beserta segala sesuatu yang permanen di atasnya seperti bangunan, rumah, gedung, maupun lahan kosong.
 
 ## Flipping Property
 
-## Developing Property
+Flipping property adalah strategi investasi properti di mana seseorang membeli properti dengan harga murah, lalu merenovasinya, dan kemudian menjualnya kembali dalam waktu singkat untuk mendapatkan keuntungan.
 
-## Short-term Rental
 
-## Property Brokerage
-
-## Property Management
-
-## Real-estate Investment
-
-## Real-estate Investment Trust
-
-## Real-estate Crowdfunding
-
-## Virtual Real-estate

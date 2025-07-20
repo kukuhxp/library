@@ -72,3 +72,11 @@ Corporate Credit Index adalah indeks yang mengukur kinerja dan risiko kredit dar
 ## Third-party Funds
 
 Third-party funds atau Dana Pihak Ketiga (DPK) adalah dana yang dihimpun oleh bank dan didapatkan dari masyarakat. Dana ini menjadi salah satu sumber utama pendanaan bank untuk disalurkan kembali dalam bentuk kredit atau investasi lainnya.
+
+## Collateral
+
+Collateral adalah jaminan aset yang diberikan oleh peminjam kepada pemberi pinjaman sebagai jaminan atas pinjaman. Jika peminjam gagal membayar utangnya, maka aset jaminan tersebut bisa diambil atau dijual oleh pemberi pinjaman untuk menutupi kerugian.
+
+## Remittance
+
+Remittance adalah pengiriman uang oleh seseorang, biasanya pekerja migran (TKI/TKW) ke keluarga atau pihak lain di negara asalnya. Remittance dilakukan melalui transfer bank, layanan pengiriman uang atau platform digital.

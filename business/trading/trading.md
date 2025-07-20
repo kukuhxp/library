@@ -251,3 +251,5 @@ Stop out adalah kondisi di mana broker secara otomatis menutup sebagian atau sel
 Liquidation-only Rule adalah aturan yang diberlakukan oleh bursa yang melarang pembukaan posisi baru dan hanya mengizinkan trader untuk menutup atau melikuidasi posisi yang sudah ada.
 
 Ketika aturan ini diterapkan para trader tidak boleh membuka posisi long atau short yang baru. Mereka hanya boleh keluar dari posisi yang sudah dimiliki seperti jual jika kamu di posisi long, beli jika kamu di posisi short.
+
+## Insider Trading

@@ -1,7 +1,5 @@
 # SOFTWARE ENGINEERING
 
-## Software Engineering
-
 Software Engineering adalah bidang ilmu dan praktik yang fokus pada perancangan, pengembangan, pengujian, dan pemeliharaan perangkat lunak secara sistematis, terstruktur, dan efisien.
 
 ## Programming
@@ -113,11 +111,11 @@ Node.js adalah platform runtime JavaScript yang berjalan di luar browser, dibang
 
 Hypertext Preprocessor (PHP) adalah bahasa pemrograman sisi server (server-side) yang digunakan terutama untuk mengembangkan halaman web dinamis dan interaktif. Awalnya PHP singkatan dari Personal Home Page dan sekarang menjadi PHP Hypertext Preprocessor.
 
-## Add-on (End of Part 1)
+## Add-on
 
 Add-on adalah istilah umum untuk komponen tambahan yang diinstal ke dalam sebuah aplikasi atau perangkat lunak untuk menambahkan fitur baru atau meningkatkan fungsionalitasnya.
 
-## Plugins (Start of Part 2)
+## Plugins
 
 Plugin adalah komponen tambahan yang ditambahkan ke sebuah perangkat lunak utama untuk menambah fitur atau fungsionalitas baru tanpa harus mengubah inti dari perangkat lunak tersebut.
 
@@ -224,11 +222,11 @@ Shareware adalah jenis perangkat lunak komersial yang bisa kamu coba secara grat
 
 Freemium adalah model distribusi software atau layanan yang memberikan akses gratis ke fitur dasar, tapi fitur lanjutan atau tambahan hanya bisa diakses dengan membayar.
 
-## Content Management Systems (CMS) (End of Part 2)
+## Content Management Systems (CMS)
 
 Content Management System (CMS) adalah perangkat lunak yang memungkinkan kamu untuk membuat, mengelola, dan mengubah isi website tanpa harus menulis kode dari nol.
 
-## Open Source License (Start of Part 3)
+## Open Source License
 
 Open Source License adalah jenis lisensi perangkat lunak yang mengizinkan siapa saja untuk melihat, menggunakan, memodifikasi, dan mendistribusikan ulang kode sumber dari perangkat lunak tersebut, biasanya secara gratis. Berikut ini adalah beberapa jenis dari opens source license:
 
@@ -342,11 +340,11 @@ Abstract Syntax Tree (AST) adalah representasi berbentuk struktur pohon (tree) d
 
 Linking adalah proses dalam pengembangan perangkat lunak yang menggabungkan berbagai bagian program seperti kode yang dikompilasi, pustaka/libraries dan dependensi lainnya menjadi satu file executable atau program yang bisa dijalankan.
 
-## Geospatial Indexing (End of Part 3)
+## Geospatial Indexing
 
 Geospatial Indexing adalah teknik dalam database untuk mengatur dan mempercepat pencarian data berdasarkan lokasi geografis, seperti koordinat (latitude & longitude).
 
-## Prototype-based Programming Language (Start of Part 4)
+## Prototype-based Programming Language
 
 Prototype-based Programming Language adalah paradigma pemrograman berorientasi objek, di mana objek dibuat berdasarkan objek lain yang disebut prototipe, bukan berdasarkan kelas (class) seperti pada OOP tradisional.
 
@@ -465,11 +463,11 @@ Loop Unrolling adalah teknik optimisasi dalam pemrograman di mana isi loop (peru
 
 Agile adalah sebuah metodologi pengembangan perangkat lunak (software development methodology) yang menekankan pada kolaborasi tim, iterasi cepat, responsif terhadap perubahan, umpan balik terus-menerus dari pengguna.
 
-## Development & Operations (DevOps) (End of Part 4)
+## Development & Operations (DevOps)
 
 Development & Operations (DevOps) adalah gabungan antara pengembangan perangkat lunak (Development) dan operasi sistem (Operations) yang bertujuan untuk mempercepat pengembangan, pengujian, dan peluncuran aplikasi secara otomatis, efisien, dan andal.
 
-## robots txt (Start of Part 5)
+## robots txt
 
 robots.txt adalah file teks sederhana yang digunakan di situs web untuk memberi instruksi kepada web crawler atau bot mesin pencari (seperti Googlebot) tentang bagian mana dari situs yang boleh atau tidak boleh diakses atau diindeks.
 

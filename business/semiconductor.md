@@ -2,10 +2,6 @@
 
 Semiconductor adalah bahan yang kemampuan menghantarkan listriknya berada di antara konduktor dan isolator.
 
-## Vendor
-
-Vendor adalah pihak yang menjual barang atau jasa kepada pihak lain.
-
 ## Silicon
 
 Silikon adalah bahan semikonduktor yang sangat penting dalam dunia elektronik dan teknologi modern.
