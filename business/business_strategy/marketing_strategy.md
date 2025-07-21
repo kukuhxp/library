@@ -14,3 +14,11 @@ Search Engine Optimization (SEO) adalah proses mengoptimalkan sebuah website aga
 ## Email Marketing
 
 Email marketing adalah strategi pemasaran digital dengan cara mengirimkan email secara langsung kepada calon pelanggan atau pelanggan yang sudah ada.
+
+## Affiliate Marketing
+
+Affiliate Marketing adalah strategi pemasaran digital di mana seseorang mendapatkan komisi dengan mempromosikan produk atau layanan milik orang lain.
+
+## Multi Level Marketing (MLM)
+
+Multi Level Marketing (MLM) adalah strategi pemasaran di mana penjualan produk dilakukan oleh jaringan distributor yang juga bisa merekrut orang lain untuk menjadi distributor baru. Setiap anggota bisa mendapatkan komisi dari penjualan pribadinya dan juga komisi dari penjualan tim yang ia rekrut.

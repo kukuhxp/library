@@ -873,4 +873,6 @@ Temperature dalam konteks AI adalah parameter yang mengatur tingkat kreativitas 
 
 ## Model Context Protocol (MCP)
 
-Model Context Protocol (MCP) adalah protokol terbuka yang dikembangkan oleh Anthropic untuk menyederhanakan integrasi antara model bahasa besar (LLM) dan berbagai sumber data serta alat eksternal. MCP memungkinkan AI untuk mengakses, memahami, dan berinteraksi dengan data secara real-time, sehingga meningkatkan kemampuan AI dalam menjalankan tugas-tugas kompleks. 
+Model Context Protocol (MCP) adalah protokol terbuka yang dikembangkan oleh Anthropic untuk menyederhanakan integrasi antara model bahasa besar (LLM) dan berbagai sumber data serta alat eksternal. MCP memungkinkan AI untuk mengakses, memahami, dan berinteraksi dengan data secara real-time, sehingga meningkatkan kemampuan AI dalam menjalankan tugas-tugas kompleks.
+
+. 

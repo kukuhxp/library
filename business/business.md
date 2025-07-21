@@ -2,10 +2,6 @@
 
 Business adalah kegiatan yang dilakukan oleh individu atau kelompok untuk memproduksi, menjual atau mendistribusikan barang/jasa dengan tujuan untuk mendapatkan keuntungan.
 
-## Business Model
-
-Business model adalah cara kerja dari sebuah bisnis untuk menghasilkan uang. Ini mencakup bagaimana perusahaan menciptakan, memberikan dan menangkap nilai dari produk atau jasanya kepada pelanggan.
-
 ## Supply Chain
 
 Supply chain adalah serangkaian proses dan jaringan yang terlibat dalam menghasilkan dan mendistribusikan produk dari bahan mentah sampai ke tangan konsumen akhir.
@@ -21,14 +17,6 @@ Midstream adalah aktivitas yang berkaitan dengan transportasi, penyimpanan dan p
 ## Downstream
 
 Downstream adalah aktivitas yang berkaitan dengan pengolahan akhir produk, distribusi, pemasaran dan penjualan ke konsumen akhir.
-
-## Vendor
-
-Vendor adalah pihak yang menjual barang atau jasa kepada pihak lain.
-
-## Manufacturer
-
-Manufacturer adalah perusahaan yang memproduksi barang dalam jumlah besar yang menggunakan mesin, tenaga kerja, dan proses industri.
 
 ## Restitution
 
@@ -46,18 +34,6 @@ Diamond model adalah kerangka analisis yang dikembangkan oleh Michael Porter unt
 
 Advertising adalah proses mempromosikan produk atau layanan kepada publik dengan tujuan untuk membangun kesadaran, memengaruhi keputusan, dan mendorong tindakan seperti membeli.
 
-## Affiliate Marketing
-
-Affiliate Marketing adalah strategi pemasaran digital di mana seseorang mendapatkan komisi dengan mempromosikan produk atau layanan milik orang lain.
-
-## Dropshipping
-
-Dropshipping adalah model bisnis di mana kamu menjual produk tanpa menyimpan stok sendiri. Saat kamu menerima pesanan dari pembeli, kamu cukup meneruskannya ke supplier dan supplier-lah yang mengirimkan barang langsung ke pelangganmu.
-
-## Advertising Agency
-
-Advertising agency adalah perusahaan yang membantu klien dengan menjalankan kampanye iklan untuk mempromosikan produk-produk mereka kepada publik.
-
 ## Branding
 
 Branding adalah proses membentuk citra dan persepsi sebuah merek di benak konsumen. Branding bukan hanya soal logo atau nama, tapi mencakup kesan, nilai dan pengalaman yang dirasakan orang saat berinteraksi dengan produk atau perusahaan.
@@ -72,27 +48,11 @@ Consortium adalah kemitraan atau aliansi sementara antara dua atau lebih perusah
 
 ## Value Chain
 
-Value chain adalah serangkaian aktivitas yang dilakukan oleh perusahaan untuk menciptakan nilai bagi pelanggannya, dimulai dari tahap awal produksi hingga produk sampai ke tangan konsumen. Konsep ini diperkenalkan oleh Michael Porter pada tahun 1985 dalam bukunya Competitive Advantage.
-
-## Agregator
-
-Agregator adalah pihak yang mengumpulkan informasi, produk, layanan atau konten dari berbagai sumber, lalu menyajikannya dalam satu tempat agar mudah diakses oleh pengguna.
+Value chain adalah aktivitas yang dilakukan oleh perusahaan untuk menciptakan nilai bagi pelanggannya, dimulai dari tahap awal produksi hingga produk sampai ke tangan konsumen. Konsep ini diperkenalkan oleh Michael Porter pada tahun 1985 dalam bukunya Competitive Advantage.
 
 ## Escrow Service
 
 Escrow service adalah layanan pihak ketiga yang dipercaya untuk menampung uang atau aset sementara, sampai syarat-syarat tertentu dalam transaksi antara dua pihak terpenuhi.
-
-## Multi Level Marketing (MLM)
-
-Multi Level Marketing (MLM) adalah strategi pemasaran di mana penjualan produk dilakukan oleh jaringan distributor yang juga bisa merekrut orang lain untuk menjadi distributor baru. Setiap anggota bisa mendapatkan komisi dari penjualan pribadinya dan juga komisi dari penjualan tim yang ia rekrut.
-
-## Mass Customization
-
-Mass customization adalah strategi produksi di mana perusahaan membuat produk dalam jumlah besar, tetapi dengan penyesuaian tertentu sesuai kebutuhan atau keinginan konsumen.
-
-## Make-to-order (MTO)
-
-Make-to-order (MTO) adalah strategi produksi di mana barang baru diproduksi hanya setelah ada pesanan dari pelanggan. Artinya, produk tidak dibuat duluan, melainkan dibuat berdasarkan permintaan spesifik pembeli.
 
 ## Down Payment (DP)
 
@@ -114,10 +74,6 @@ Backorder adalah kondisi ketika suatu produk sedang habis stoknya, tetapi masih 
 
 Order in Advance adalah memesan sesuatu lebih awal sebelum tanggal kebutuhan atau sebelum barang tersedia. Ini mirip dengan pre-order, tetapi lebih umum dan fleksibel penggunaannya.
 
-## Purchase Order (PO)
-
-Purchase Order (PO) adalah dokumen resmi dari pembeli kepada penjual yang berisi permintaan untuk membeli barang atau jasa tertentu. Purchase order berisikan rincian seperti jumlah, harga, tanggal pengiriman, dan syarat pembayaran.
-
 ## Home Industry
 
 Home industry adalah jenis usaha kecil yang dilakukan di rumah atau lingkungan rumah tangga dengan skala produksi terbatas.
@@ -126,13 +82,13 @@ Home industry adalah jenis usaha kecil yang dilakukan di rumah atau lingkungan r
 
 Offshore company adalah perusahaan yang didirikan di luar negara domisili pemiliknya, biasanya di negara lain yang menawarkan keuntungan pajak, privasi dan regulasi yang lebih ringan.
 
+## Offshore Account
+
+Offshore account adalah rekening bank yang dibuka di negara selain negara tempat tinggal atau negara asal pemilik rekening. Biasanya di negara-negara yang menawarkan keuntungan pajak, kerahasiaan atau perlindungan hukum.
+
 ## Transfer Pricing
 
 Transfer pricing adalah praktik penentuan harga jual barang antara perusahaan yang saling terafiliasi. Biasanya dalam satu grup perusahaan multinasional.
-
-## Subscription
-
-Subscription adalah model bisnis di mana pelanggan membayar secara berkala untuk mengakses produk atau layanan selama periode tertentu.
 
 ## Premium
 
@@ -154,14 +110,6 @@ Project adalah pekerjaan yang diberikan oleh client, biasanya memiliki tenggat w
 
 Brief adalah instruksi atau penjelasan dari client mengenai proyek yang harus dikerjakan.
 
-## Proposal
-
-Proposal adalah dokumen atau penawaran dari freelancer kepada client berisi rencana kerja, harga, dan durasi proyek
-
-## Invoice
-
-Invoice adalah dokumen tagihan yang dikirim freelancer kepada client setelah pekerjaan selesai atau sesuai kesepakatan.
-
 ## Net 30 / Net 15
 
 Net 30 / Net 15 adalah sistem pembayaran yang menyatakan pembayaran dilakukan maksimal 30 atau 15 hari setelah invoice dikirim.
@@ -177,10 +125,6 @@ Contract adalah perjanjian tertulis yang mengikat freelancer dan client secara h
 ## Non-disclosure Agreement (NDA)
 
 Non-disclosure Agreement (NDA) adalah kesepakatan untuk menjaga kerahasiaan informasi proyek.
-
-## Statement of Work (SOW)
-
-Statement of Work (SOW) adalah dokumen yang menjelaskan ruang lingkup pekerjaan, timeline, dan deliverables.
 
 ## Bidding
 
@@ -229,3 +173,19 @@ Crowdfunding adalah metode penggalangan dana di mana banyak orang menyumbangkan 
 ## Auction
 
 ## P2P Lending
+
+## Markup
+
+## Cut Corners
+
+## Bilateral
+
+## Multilateral
+
+## Cash-intensive Bussiness
+
+## Shell Company
+
+## Tender
+
+## Take Home Pay

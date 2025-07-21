@@ -10,18 +10,6 @@ Silikon adalah bahan semikonduktor yang sangat penting dalam dunia elektronik da
 
 Cleanroom adalah ruang dengan kontrol ketat terhadap jumlah partikel debu, kelembapan, suhu, dan kontaminasi.
 
-## Fabrication-less (Fabless)
-
-Fabrication-less (Fabless) adalah model bisnis di industri semikonduktor di mana perusahaan merancang chip, tetapi tidak memiliki pabrik sendiri untuk memproduksinya
-
-## Foundry
-
-Foundry adalah perusahaan yang memiliki pabrik untuk memproduksi chip berdasarkan desain dari perusahaan lain atau biasanya perusahaan fabless.
-
-## Integrated Device Manufacturer (IDM)
-
-Integrated Device Manufacturer (IDM) adalah perusahaan yang mendesain, memproduksi, dan menjual chip semikonduktor sendiri. Semuanya dilakukan secara terintegrasi dalam satu perusahaan.
-
 ## Extreme Ultraviolet (EUV) Lithography
 
 Extreme Ultraviolet (EUV) Lithography adalah teknologi pencetakan pola sirkuit elektronik pada wafer semikonduktor menggunakan cahaya ultraviolet ekstrem dengan panjang gelombang 13,5 nanometer.

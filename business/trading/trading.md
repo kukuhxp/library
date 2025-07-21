@@ -253,3 +253,51 @@ Liquidation-only Rule adalah aturan yang diberlakukan oleh bursa yang melarang p
 Ketika aturan ini diterapkan para trader tidak boleh membuka posisi long atau short yang baru. Mereka hanya boleh keluar dari posisi yang sudah dimiliki seperti jual jika kamu di posisi long, beli jika kamu di posisi short.
 
 ## Insider Trading
+
+## ETD
+
+## Market Data Feed 
+
+## Proce Tick
+
+## Volume
+
+## OHLC
+
+## Electronic Trading System (ETS)
+
+## Order Management System (OMS)
+
+## Execution Management System (EMS)
+
+## Financial Information Exchange (FIX)
+
+## INET Technology
+
+## Matching Engine
+
+## Eqlipse Platform
+
+## Nasdaq Information Interface Service (NOIIS)
+
+## Order Validation
+
+## Routing Logic
+
+## Order Matching
+
+## STP
+
+## ECN
+
+## DMA
+
+## Market Maker (MM)
+
+## Ouote
+
+## Requote
+
+## Dept of Market (DOM)
+
+## Tier-1 Bank

@@ -41,3 +41,7 @@ Gold Rush adalah periode ketika banyak orang secara massal pergi ke suatu daerah
 ## Negative Correlation
 
 Negative correlation adalah hubungan antara dua variabel di mana saat nilai salah satu variabel naik, nilai variabel lainnya cenderung turun, dan sebaliknya. Contohnya, Jika nilai USD (DXY) naik, maka harga emas biasanya turun. Jika keduanya (USD dan emas)  mengalami penurunan bersamaan, maka dipastikan harga emas turun karena aksi jual dan bukan terjadi karena perubahan kurs mata uang. Begitu juga dengan saham dan obligasi, ketika pasar saham turun, investor lari ke obligasi dan menyebabkan harga obligasi naik.
+
+## Interbank
+
+Interbank adalah transaksi keuangan yang terjadi antar bank, baik dalam negeri maupun internasional. Transaksi ini biasanya melibatkan pinjam-meminjam dana, pertukaran mata uang, pembayaran dan kliring antar bank.

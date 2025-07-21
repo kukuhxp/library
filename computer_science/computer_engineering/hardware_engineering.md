@@ -4,6 +4,18 @@
 
 ## VHDL
 
+## Integrated Circuit (IC)
+
+## Circuit Board
+
+## Chipset
+
+## Processor
+
+## Mainboard
+
+## Chip
+
 ## Field-programmable Gate Array (FPGA)
 
 ## HDL
@@ -46,3 +58,17 @@
 2. Elaboration
 3. Synthesis
 4. Netlist
+
+## Virtual Reality (VR)
+
+## Augmented Reality (AR)
+
+## Extended Reality (XR)
+
+## Mixed Reality (MR)
+
+## PCI
+
+## IDE
+
+## SATA
