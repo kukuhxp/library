@@ -29,6 +29,6 @@ Harga naik karena supply barang menurun dan permintaan meningkat.
 
 ## Diminishing Returns
 
-Diminishing Returns (hasil yang menurun) adalah konsep dalam ekonomi dan produktivitas yang menyatakan bahwa:
+Diminishing returns adalah konsep dalam ekonomi dan produktivitas yang menyatakan bahwa:
 
-_"Jika kamu terus menambah satu faktor produksi (misalnya tenaga kerja atau waktu) sementara faktor lain tetap, maka tambahan output yang dihasilkan akan semakin berkurang seiring waktu."_
+"Jika kamu terus menambah satu faktor produksi (misalnya tenaga kerja atau waktu) sementara faktor lain tetap, maka tambahan output yang dihasilkan akan semakin berkurang seiring waktu."

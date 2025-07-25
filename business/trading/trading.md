@@ -246,58 +246,85 @@ Segregated account adalah rekening terpisah yang digunakan oleh broker atau lemb
 
 Stop out adalah kondisi di mana broker secara otomatis menutup sebagian atau seluruh posisi kamu karena margin level kamu turun di bawah batas minimum yang ditentukan.
 
-## Liquidity Position
+## Liquidation-only Rule
 
-Liquidation-only Rule adalah aturan yang diberlakukan oleh bursa yang melarang pembukaan posisi baru dan hanya mengizinkan trader untuk menutup atau melikuidasi posisi yang sudah ada.
+Liquidation-only rule adalah aturan yang diberlakukan oleh bursa yang melarang pembukaan posisi baru dan hanya mengizinkan trader untuk menutup atau melikuidasi posisi yang sudah ada.
 
 Ketika aturan ini diterapkan para trader tidak boleh membuka posisi long atau short yang baru. Mereka hanya boleh keluar dari posisi yang sudah dimiliki seperti jual jika kamu di posisi long, beli jika kamu di posisi short.
 
-## Insider Trading
-
 ## ETD
+
+Exchange-traded Derivatives adalah kontrak derivatif seperti futures atau options yang diperdagangkan di bursa resmi (exchange).
 
 ## Market Data Feed 
 
-## Proce Tick
+Market data feed adalah aliran data pasar keuangan secara real-time atau hampir real-time.
 
-## Volume
+## Price Tick
 
-## OHLC
+Price tick adalah perubahan harga terkecil yang diperbolehkan dalam suatu instrumen keuangan saat diperdagangkan di pasar.
 
-## Electronic Trading System (ETS)
+## Open High Low Close (OHLC) 
 
-## Order Management System (OMS)
+Open High Low Close (OHLC) adalah empat data utama yang digunakan dalam grafik harga. Data ini menunjukkan pergerakan harga dalam satu periode waktu tertentu, bisa per hari, per jam, per menit, dll. Berikut ini adalah penjelasan dari OHLC:
 
-## Execution Management System (EMS)
+O - Open, harga pembukaan pada awal periode
+H - High, harga tertinggi yang dicapai selama periode tersebut
+L - Low, harga terendah selama periode tersebut
+C - Close, harga penutupan saat akhir periode
 
-## Financial Information Exchange (FIX)
+## Liquidity Aggregator
 
-## INET Technology
+Liquidity aggregator adalah sistem atau teknologi dalam dunia trading yang berfungsi untuk menggabungkan likuiditas dari berbagai penyedia ke dalam satu platform, agar trader mendapatkan harga terbaik dan eksekusi tercepat.
 
-## Matching Engine
+## Island ECN (INET)
 
-## Eqlipse Platform
+Island ECN (INET) adalah sebuah platform Electronic Communication Network (ECN) untuk trading saham secara elektronik yang dulu sangat populer dan sekarang menjadi bagian dari sistem teknologi NASDAQ.
+
+## Nasdaq Eqlipse
+
+Nasdaq eqlipse adalah sebuah suite platform teknologi pasar modal yang mencakup berbagai fungsi sepanjang siklus perdagangan, mulai dari trading, clearing, hingga settlement dan intelijen data pasar.
 
 ## Nasdaq Information Interface Service (NOIIS)
 
-## Order Validation
+Nasdaq Information Interface Service (NOIIS) adalah solusi Application Service Provider (ASP) yang dirancang untuk memudahkan institusi keuangan mengakses berbagai sumber informasi pasar melalui satu antarmuka tunggal, tanpa perlu integrasi langsung dengan banyak penyedia data.
 
-## Routing Logic
+## Direct Market Access (DMA) 
 
-## Order Matching
+Direct Market Access (DMA) adalah fasilitas yang memungkinkan trader atau investor institusional untuk mengakses langsung buku order bursa, tanpa melalui perantara broker secara manual.
 
-## STP
+## Depth of Market (DOM)
 
-## ECN
+Depth of Market (DOM) adalah tampilan visual dari order book yang menunjukkan jumlah order beli dan jual yang ada di pasar pada berbagai tingkat harga untuk suatu aset.
 
-## DMA
+## Dark Pool
+
+Dark pool adalah platform trading non-publik yang memungkinkan institusi besar melakukan transaksi dalam jumlah besar secara rahasia untuk menghindari dampak harga di pasar terbuka.
 
 ## Market Maker (MM)
 
+Market Maker (MM) adalah pelaku pasar yang secara aktif memberikan kuotasi harga beli dan harga jual untuk suatu aset dengan tujuan menyediakan likuiditas dan menjaga kelancaran pasar.
+
 ## Ouote
+
+Quote adalah penawaran harga beli (bid) dan harga jual (ask) yang diberikan untuk suatu aset.
 
 ## Requote
 
-## Dept of Market (DOM)
+Requote adalah kondisi saat broker tidak dapat mengeksekusi order pada harga yang diminta oleh trader, lalu menawarkan harga baru (quote baru) kepada trader tersebut untuk dikonfirmasi ulang.
 
 ## Tier-1 Bank
+
+Tier-1 bank adalah istilah yang digunakan untuk menyebut bank-bank terbesar dan paling bereputasi di dunia.
+
+## Madoff Scandal
+
+Madoff Scandal adalah skandal penipuan investasi terbesar dalam sejarah modern, yang dilakukan oleh Bernard L. Madoff, seorang tokoh Wall Street dan mantan ketua NASDAQ. Ia menjalankan skema Ponzi selama puluhan tahun dan menipu investor senilai sekitar $65 miliar.
+
+## London Whale
+
+London whale adalah julukan bagi Bruno Iksil, seorang trader di divisi Chief Investment Office (CIO) milik JPMorgan Chase di London, yang bertanggung jawab atas kerugian lebih dari $6,2 miliar pada tahun 2012 akibat posisi derivatif yang sangat besar dan berisiko tinggi.
+
+## The Fall of FTX
+
+The Fall of FTX adalah skandal besar yang menimpa FTX, salah satu bursa kripto terbesar di dunia, pada akhir 2022. Peristiwa ini mengguncang seluruh ekosistem kripto dan menjadi salah satu skandal keuangan terbesar dalam sejarah modern.

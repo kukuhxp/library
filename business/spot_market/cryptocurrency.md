@@ -214,3 +214,7 @@ Wrapped BTC (wBTC) adalah versi tokenized dari Bitcoin yang berjalan di blockcha
 ## Double Spending
 
 Double spending adalah upaya untuk menggunakan koin digital yang sama lebih dari satu kali atau dengan kata lain mengirim koin yang sama dalam dua transaksi berbeda.
+
+## Oracle
+
+Oracle adalah sistem pihak ketiga yang menyediakan data eksternal ke dalam smart contract di blockchain.

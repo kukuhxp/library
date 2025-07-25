@@ -18,42 +18,20 @@ Statement of Work (SOW) adalah dokumen yang menjelaskan ruang lingkup pekerjaan,
 
 ## Company Establishment Deed
 
-## Business Identification Number
+Company establishment deed (adalah dokumen hukum resmi yang menyatakan pembentukan suatu badan usaha dan menetapkan dasar hukum eksistensinya.
 
 ## Trading Business License
 
+Trading Business License atau Surat Izin Usaha Perdagangan (SIUP) adalah izin resmi yang diberikan oleh pemerintah atau otoritas terkait kepada individu atau badan usaha agar dapat menjalankan kegiatan perdagangan secara legal, baik dalam bentuk perdagangan barang maupun jasa.
+
+## Business Identification Number (BIN)
+
+Business Identification Number (BIN) atau Nomor Induk Berusaha (NIB) adalah nomor identitas resmi dan unik yang diberikan oleh pemerintah kepada setiap pelaku usaha sebagai tanda bahwa usahanya terdaftar dan legal secara hukum.
+
 ## Company Registration Certificate
 
-## Domicile Certificate
-
-## Company Taxpayer Identification Number
-
-## Building Permit
-
-## Halal Certification
-
-## Registered Trademark Certificate
-
-## Company Bank Account
-
-## Financial Statements
-
-## Bookkeeping Records
-
-## Tax Payment Receipts
-
-## Employee Work Contracts
-
-## Standard Operating Procedures (SOP)
+Company registration certificate adalah dokumen resmi yang dikeluarkan oleh otoritas pemerintah yang menyatakan bahwa suatu perusahaan telah didaftarkan secara legal dan sah untuk menjalankan usaha.
 
 ## Memorandum of Understanding (MoU)
 
-## BPOM Certification
-
-## Industrial Business License
-
-## Draft
-
-## Memo
-
-## Blueprint
+Memorandum of Understanding (MoU) adalah dokumen tertulis yang menyatakan adanya kesepahaman awal antara dua pihak atau lebih mengenai suatu kerja sama, sebelum dibuat perjanjian hukum yang mengikat secara penuh.

@@ -375,3 +375,7 @@ National Association of Securities Dealers Automated Quotations (NASDAQ) adalah 
 ## Securities and Exchange (SEC)
 
 Securities and Exchange Commission (SEC) adalah lembaga pemerintah Amerika Serikat yang bertugas mengawasi dan mengatur bursa saham.
+
+## Security Token Offering (STO)
+
+Security Token Offering (STO) adalah metode penggalangan dana di mana perusahaan menerbitkan token digital di blockchain yang mewakili saham atau aset keuangan nyata. Token ini disebut security token, dan tunduk pada regulasi sekuritas.

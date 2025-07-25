@@ -26,7 +26,7 @@
 
 ## Tax Payer
 
-## Taxpayer Identification Number
+## Taxpayer Identification Number (TIN)
 
 ## Regional Tax
 

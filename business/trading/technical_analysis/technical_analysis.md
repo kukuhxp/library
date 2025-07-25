@@ -197,6 +197,12 @@ Wyckoff adalah metode analisis teknikal yang dikembangkan oleh Richard D. Wyckof
 
 ## Key Level
 
+Key level adalah harga penting di chart yang menjadi acuan utama bagi trader untuk membuat keputusan beli atau jual. Key level merupakan level nilai sebelumnya yang pernah menjadi area support, resistance, round numbers, atau previous high/low.
+
 ## All Time High
 
+All Time High (ATH) adalah harga tertinggi yang pernah dicapai oleh suatu aset sepanjang sejarah perdagangannya.
+
 ## Ranging
+
+Ranging adalah kondisi ketika harga bergerak sideways dalam rentang tertentu yang tidak jelas naik maupun turun. Harga terjebak di antara level support dan resistance dan berulang kali memantul di antara keduanya.

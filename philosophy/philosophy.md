@@ -1,4 +1,4 @@
-# LIFE
+# PHILOSOPHY
 
 - Cintailah pekerjaanmu bukan perusahaanmu
 

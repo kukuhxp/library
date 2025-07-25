@@ -26,10 +26,20 @@ Electronic Broking Services (EBS) adalah salah satu platform trading forex yang 
 
 ## FXall
 
+FXall adalah platform electronic milik London Stock Exchange Group (LSEG) untuk trading mata uang atau forex. Platform ini melayani klien institusional seperti bank, manajer aset, atau hedge fund.
+
 ## Currenex
+
+Currenex adalah platform trading elektronik untuk pasar foreign exchange yang dirancang khusus untuk klien institusional seperti bank, hedge fund, manajer aset, dan broker. Platform ini terkenal karena menyediakan akses langsung ke pasar antar bank (interbank market) dengan likuiditas tinggi dan eksekusi super cepat.
 
 ## FlexTrade
 
+FlexTrade adalah perusahaan teknologi keuangan yang mengembangkan solusi trading elektronik seperti Execution Management System (EMS) dan Order Management System (OMS) untuk klien institusional besar.
+
 ## Portware
 
+Portware adalah Execution Management System (EMS) canggih yang dirancang khusus untuk klien institusional seperti manajer aset, hedge fund, quantitative trading desks, dan tim trading di aset global.
+
 ## Tora
+
+TORA adalah platform cloud-based canggih yang menyediakan solusi menyeluruh untuk order & execution management (OEMS), portfolio management (PMS), transaction cost analysis (TCA), dan risk & compliance dalam satu sistem terpadu. Awalnya berdiri independen pada tahun 2004, dan kini telah diakuisisi oleh London Stock Exchange Group (LSEG) pada Februari 2022 senilai $325 juta.

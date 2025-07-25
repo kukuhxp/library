@@ -154,38 +154,74 @@ Portfolio adalah kumpulan hasil kerja sebelumnya untuk menunjukkan kemampuan fre
 
 Crowdfunding adalah metode penggalangan dana di mana banyak orang menyumbangkan uang dalam jumlah kecil melalui platform online untuk mendanai suatu proyek.
 
+## Strengths Weaknesses Opportunities Threats (SWOT)
+
+Strengths Weaknesses Opportunities Threats (SWOT) adalah alat analisis strategis yang digunakan untuk mengevaluasi posisi suatu organisasi, bisnis, produk, atau bahkan individu, dengan melihat faktor internal dan eksternal.
+
 ## Buy Now Pay Later (BNPL)
+
+Buy Now Pay Later (BNPL) adalah metode pembayaran yang memungkinkan konsumen membeli barang atau jasa sekarang dan membayarnya di kemudian hari. 
 
 ## Software as a Service (Saas)
 
+Software as a Service (SaaS) adalah model layanan di mana perangkat lunak disediakan melalui internet, bukan diinstal langsung di komputer pengguna. Pengguna cukup mengakses aplikasi melalui browser atau aplikasi client, dan membayar berdasarkan langganan.
+
 ## Infrastructure as a Service (IaaS)
+
+Infrastructure as a Service (IaaS) adalah model layanan cloud di mana penyedia cloud menyewakan infrastruktur TI virtual, seperti server, storage, jaringan, dan sistem operasi melalui internet. Pengguna bisa mengelola sumber daya ini sendiri tanpa harus membeli atau merawat perangkat keras fisik.
 
 ## Platform as a Service (PaaS)
 
+Platform as a Service (PaaS) adalah model layanan cloud di mana penyedia cloud menyediakan platform siap pakai untuk membangun dan mengelola aplikasi tanpa perlu mengelola server secara langsung.
+
 ## Domain Aftermarket
 
-## Distributor
+Domain aftermarket adalah pasar sekunder tempat nama-nama domain yang sudah dimiliki seseorang dijual kembali kepada pembeli lain, biasanya dengan harga lebih tinggi daripada harga registrasi awal.
 
 ## Feedback
 
+Feedback adalah umpan balik yang diberikan seseorang kinerja orang lain dengan tujuan untuk memberi tahu, memperbaiki, atau meningkatkan layanan mereka.
+
 ## Donate
+
+Donate atau donasi adalah tindakan memberi sesuatu secara sukarela, seperti uang, barang, atau waktu, untuk membantu orang lain tanpa mengharapkan imbalan.
 
 ## Auction
 
+Auction atau lelang adalah proses jual beli di mana barang atau jasa dijual kepada penawar tertinggi, melalui penawaran harga dalam waktu tertentu.
+
 ## P2P Lending
 
-## Markup
+P2P lending adalah platform pinjam-meminjam uang secara online yang menghubungkan langsung antara lender dan borrower, tanpa melalui lembaga keuangan tradisional seperti bank.
+
+## Mark-up
+
+Mark-up atau pengelembungan adalah sebuah tindakan untuk melambungkan suatu harga atau anggaran. Biasanya para pemangku kepentingan melakukan penggelembungan harga secara sengaja untuk menaikkan anggaran.
 
 ## Cut Corners
 
-## Bilateral
-
-## Multilateral
-
-## Cash-intensive Bussiness
-
-## Shell Company
+Cut corners adalah idiom dalam bahasa Inggris yang berarti melakukan sesuatu dengan cara yang lebih mudah, cepat, atau murah, tetapi mengorbankan kualitas, keselamatan, atau standar yang seharusnya.
 
 ## Tender
 
+Tender adalah proses pengajuan penawaran untuk menyediakan barang, jasa, atau proyek, biasanya dilakukan oleh perusahaan atau pemerintah melalui lelang terbuka atau terbatas. Dalam dunia bisnis dan pemerintahan, tender digunakan untuk memilih penyedia vendor/kontraktor yang menawarkan harga terbaik dan kualitas sesuai kebutuhan.
+
 ## Take Home Pay
+
+Take home pay adalah jumlah gaji bersih yang diterima karyawan setelah dipotong berbagai kewajiban, seperti pajak, iuran BPJS, pinjaman, atau potongan lainnya. Ini adalah uang yang benar-benar dibawa pulang oleh karyawan dan bisa digunakan secara bebas.
+
+## Cash-intensive Bussiness
+
+Cash-intensive business adalah sebuah bisnis yang sebagian besar transaksi keuangannya menggunakan uang tunai. Karena transaksi bisnis tersebut tidak menggunakan sistem elektronik perbankan, maka bisnis tersebut sangat rentan dari pencucian uang atau penghindaran pajak.
+
+## Shell Company
+
+Shell company atau perusahaan cangkang adalah suatu perusahaan yang berizin resmi secara hukum, tetapi tidak aktif dalam operasional perusahaan. Perusahaan ini hanya legal secara kasat mata di atas kertas, tetapi tempat usaha, para karyawan dan alat-alat operasional mereka bersifat fiktif. Umumnya, shell company digunakan oleh para pemangku kepentingan untuk menyembunyikan modus operandi mereka, seperti pencucian uang, penghindaran pajak dan manipulasi data.
+
+## Draft
+
+Draft adalah versi awal atau rancangan sementara dari suatu dokumen, tulisan, atau perjanjian yang masih bisa direvisi, diperbaiki, atau didiskusikan sebelum menjadi versi final.
+
+## Memorandum (Memo)
+
+Memorandum adalah pesan tertulis singkat dan formal yang digunakan dalam lingkungan organisasi atau perusahaan untuk menyampaikan informasi, instruksi, atau pengumuman internal secara efisien dan langsung.

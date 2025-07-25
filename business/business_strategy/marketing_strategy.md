@@ -22,3 +22,7 @@ Affiliate Marketing adalah strategi pemasaran digital di mana seseorang mendapat
 ## Multi Level Marketing (MLM)
 
 Multi Level Marketing (MLM) adalah strategi pemasaran di mana penjualan produk dilakukan oleh jaringan distributor yang juga bisa merekrut orang lain untuk menjadi distributor baru. Setiap anggota bisa mendapatkan komisi dari penjualan pribadinya dan juga komisi dari penjualan tim yang ia rekrut.
+
+## Segmentation Targeting Positioning (STP)
+
+Segmentation Targeting Positioning (STP) adalah sebuah kerangka strategi pemasaran yang digunakan untuk memahami pasar, memilih target pelanggan yang paling sesuai, dan menentukan cara menyampaikan nilai produk agar menarik bagi mereka.
