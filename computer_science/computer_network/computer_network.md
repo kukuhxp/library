@@ -258,3 +258,9 @@ Internet Speed Unit adalah satuan yang digunakan untuk mengukur kecepatan transf
 - 1 Terabits (Tb) = 1000 Gb / 125 GB
 
 ## Web Socket
+
+WebSocket adalah protokol komunikasi yang memungkinkan koneksi dua arah secara terus-menerus antara klien (browser, aplikasi) dan server melalui satu koneksi TCP.
+
+## Fair Usage Policy (FUP)
+
+Fair Usage Policy (FUP) adalah batas pemakaian data wajar yang ditetapkan oleh penyedia layanan internet untuk paket unlimited. Walaupun kamu membeli paket unlimited internet, penggunaan kamu tetap dibatasi oleh FUP agar koneksi tetap adil untuk semua pengguna.

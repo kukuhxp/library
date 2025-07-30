@@ -43,3 +43,7 @@ Portware adalah Execution Management System (EMS) canggih yang dirancang khusus 
 ## Tora
 
 TORA adalah platform cloud-based canggih yang menyediakan solusi menyeluruh untuk order & execution management (OEMS), portfolio management (PMS), transaction cost analysis (TCA), dan risk & compliance dalam satu sistem terpadu. Awalnya berdiri independen pada tahun 2004, dan kini telah diakuisisi oleh London Stock Exchange Group (LSEG) pada Februari 2022 senilai $325 juta.
+
+## MQL5
+
+MetaQuotes Language 5 (MQL5) adalah bahasa pemrograman yang digunakan untuk membuat robot expert advisor, indikator teknikal kustom, skrip, dan library untuk platform trading MetaTrader 5.

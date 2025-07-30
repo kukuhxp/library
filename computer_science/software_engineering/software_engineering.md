@@ -875,4 +875,10 @@ Temperature dalam konteks AI adalah parameter yang mengatur tingkat kreativitas 
 
 Model Context Protocol (MCP) adalah protokol terbuka yang dikembangkan oleh Anthropic untuk menyederhanakan integrasi antara model bahasa besar (LLM) dan berbagai sumber data serta alat eksternal. MCP memungkinkan AI untuk mengakses, memahami, dan berinteraksi dengan data secara real-time, sehingga meningkatkan kemampuan AI dalam menjalankan tugas-tugas kompleks.
 
-. 
+## Coder Decoder (Codec)
+
+Codec adalah perangkat lunak atau perangkat keras yang digunakan untuk mengompresi dan mendekompresi file media seperti video, audio, dan gambar.
+
+## Software Rendering
+
+Software rendering adalah proses menghasilkan gambar grafik 2D atau 3D hanya dengan CPU, tanpa bantuan akselerasi grafis dari GPU. Semua perhitungan grafis, mulai dari menggambar garis, bentuk, hingga shading dan transformasi 3D, dilakukan oleh perangkat lunak yang berjalan di CPU.

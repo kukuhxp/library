@@ -1,7 +1,0 @@
-# COMPRESSION ALGORITHM
-
-## AV1
-
-##  H.264
-
-## VP9

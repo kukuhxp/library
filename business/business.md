@@ -225,3 +225,11 @@ Draft adalah versi awal atau rancangan sementara dari suatu dokumen, tulisan, at
 ## Memorandum (Memo)
 
 Memorandum adalah pesan tertulis singkat dan formal yang digunakan dalam lingkungan organisasi atau perusahaan untuk menyampaikan informasi, instruksi, atau pengumuman internal secara efisien dan langsung.
+
+## Pitching
+
+Pitching adalah kegiatan menyampaikan ide atau rencana bisnis secara singkat dan meyakinkan kepada orang lain, biasanya untuk mendapatkan modal dari investor.
+
+## Minimal Viable Product (MVP)
+
+Minimum Viable Product (MVP) adalah versi paling dasar dari sebuah produk yang hanya memiliki fitur inti.

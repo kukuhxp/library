@@ -74,3 +74,7 @@ Quantitative trading adalah strategi trading yang menggunakan model matematika, 
 ## Risk Management
 
 Risk management adalah strategi dan teknik yang digunakan untuk mengelola potensi kerugian dalam aktivitas trading agar akun tetap bertahan dalam jangka panjang, terlepas dari seberapa sering profit atau loss terjadi. Gunakan stop loss dan hindari over trading adalah kunci dari risk management.
+
+## Delta Hedging
+
+Delta hedging adalah strategi manajemen risiko dalam trading derivatif yang bertujuan untuk menetralkan risiko dari pergerakan harga aset dasar.

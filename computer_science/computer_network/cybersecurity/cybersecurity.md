@@ -113,3 +113,19 @@ Exfiltration adalah tahap di mana data dicuri dan dikirim keluar dari sistem tar
 ## Covering Tracks
 
 Covering tracks adalah tindakan untuk menutupi jejak setelah melakukan aktivitas tertentu, terutama yang bersifat ilegal atau rahasia. Dalam konteks hacking atau cybersecurity, covering tracks berarti menutupi atau menghapus bukti-bukti agar aktivitas peretasan tidak bisa dilacak kembali ke pelaku.
+
+## Bypass Internet
+
+Bypass Internet adalah upaya mengakses internet di luar jalur resmi yang disediakan oleh ISP dengan menghindari batasan, sensor, atau pembatas kuota.
+
+## SNI Bug
+
+SNI Bug adalah domain yang masih bisa diakses gratis oleh ISP, meskipun kuota internet 0. Domain ini bisa dimanfaatkan untuk numpang lewat koneksi melalui aplikasi seperti HTTP Injector, V2Ray, AnonyTun, dll.
+
+## Server Name Indication (SNI)
+
+Server Name Indication (SNI) adalah bagian dari protokol TLS/SSL yang menginformasikan nama domain yang ingin diakses oleh klien saat membuat koneksi aman.
+
+## Tunneling
+
+Tunneling adalah teknik dalam jaringan komputer untuk mengirim data secara tersembunyi melalui jalur lain. Dengan teknik melewati batasan atau sensor jaringan, data yang ditransmisikan dikemas dalam protokol lain, sehingga bisa menyamar agar tidak diblokir oleh firewall atau pembatas jaringan seperti ISP.
