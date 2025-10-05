@@ -27,3 +27,12 @@ Artinya, perusahaan fokus untuk menjual lebih banyak produk ke pelanggan yang su
 ## Market Development
 
 Market development adalah strategi pertumbuhan di mana perusahaan mencoba menjual produk yang sudah ada ke pasar baru. Dengan kata lain, produk tidak berubah, tapi target pasarnya diperluas, baik secara geografis, demografis atau segmen konsumen.
+
+## Tiered Pricing
+
+Tiered pricing adalah strategi penetapan harga di mana harga per unit barang atau layanan berubah berdasarkan jumlah yang dibeli.
+Biasanya, semakin banyak pelanggan membeli, harga per unitnya menurun karena mereka masuk ke tingkat yang lebih murah.
+
+## Bulk Pricing
+
+Bulk pricing adalah strategi penetapan harga di mana pembeli mendapatkan harga lebih murah per unit jika membeli dalam jumlah besar.

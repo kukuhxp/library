@@ -8,8 +8,16 @@ Raspberry Pi adalah komputer mini seukuran kartu kredit yang murah dan bisa digu
 
 ## Banana Pi
 
+Banana Pi adalah single-board computer (SBC) yang mirip konsepnya dengan Raspberry Pi, tapi dibuat oleh perusahaan Sinovoip.
+
 ## BeagleBone
+
+BeagleBone adalah single-board computer (SBC) seperti Raspberry Pi atau Banana Pi, tapi dengan fokus lebih ke embedded system dan industrial applications.
 
 ## NVIDIA Jetson Nano
 
+NVIDIA Jetson Nano adalah single-board computer (SBC) yang fokus pada AI, machine learning, dan computer vision.
+
 ## Orange Pi
+
+Orange Pi adalah single-board computer (SBC) yang mirip konsepnya dengan Raspberry Pi atau Banana Pi, tapi dibuat oleh perusahaan Shenzhen Xunlong Software. Orange Pi menawarkan berbagai model yang bisa digunakan untuk proyek IoT, media center, robotika, dan server kecil.

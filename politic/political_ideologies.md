@@ -25,3 +25,5 @@
 ## Populism
 
 ## Separatism
+
+## Meritocracy

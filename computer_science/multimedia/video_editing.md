@@ -6,6 +6,9 @@ FFmpeg adalah alat open-source powerful yang digunakan untuk memproses file mult
 
 ## Videography
 
+Videography atau videografi adalah seni dan teknik merekam video untuk berbagai tujuan seperti film, iklan, dokumentasi, atau media sosial.
+
+Berikut ini adalah beberapa teknik dalam videografi:
 - Stop Motion
 - Slow Motion
 - Time-lapse

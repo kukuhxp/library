@@ -129,3 +129,15 @@ Server Name Indication (SNI) adalah bagian dari protokol TLS/SSL yang menginform
 ## Tunneling
 
 Tunneling adalah teknik dalam jaringan komputer untuk mengirim data secara tersembunyi melalui jalur lain. Dengan teknik melewati batasan atau sensor jaringan, data yang ditransmisikan dikemas dalam protokol lain, sehingga bisa menyamar agar tidak diblokir oleh firewall atau pembatas jaringan seperti ISP.
+
+## Remote Code Execution (RCE)
+
+Remote Code Execution (RCE) adalah kondisi di mana penyerang bisa menjalankan kode/payload arbitrer pada mesin/jalur eksekusi target dari jarak jauh.
+
+## Multi-factor Authentication (MFA)
+
+Multi-factor Authentication (MFA) adalah metode autentikasi yang mengharuskan pengguna membuktikan identitasnya menggunakan lebih dari satu faktor keamanan. Tujuannya adalah meningkatkan keamanan dibanding hanya menggunakan password. Ada 3 jenis dari multi-factor authentication, yaitu:
+
+- Something You Know
+- Something You Have
+- Something You Are

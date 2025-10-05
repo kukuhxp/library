@@ -17,6 +17,8 @@
 
 ## Oligarchy
 
+## Kleptocracy
+
 ## Anarchy
 
 ## Bureaucracy
