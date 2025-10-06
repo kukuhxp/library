@@ -375,3 +375,11 @@ Securities and Exchange Commission (SEC) adalah lembaga pemerintah Amerika Serik
 ## Security Token Offering (STO)
 
 Security Token Offering (STO) adalah metode penggalangan dana di mana perusahaan menerbitkan token digital di blockchain yang mewakili saham atau aset keuangan nyata. Token ini disebut security token, dan tunduk pada regulasi sekuritas.
+
+## PHLX Gold/Silver Sector Index
+
+PHLX Gold/Silver Sector Index adalah indeks saham yang melacak performa perusahaan tambang emas dan perak. Komponen utama dari PHLX, yaitu Newmont Corporation (NEM), Barrick Gold (GOLD), Agnico Eagle Mines, Coeur Mining.
+
+## Equity Indices
+
+Equity Indices adalah indeks pengukuran gabungan dari performa sekelompok saham yang mewakili sebagian atau keseluruhan pasar saham suatu negara, sektor, atau tema tertentu. Contohnya, S&P 500 adalah indeks yang mengukur performa 500 perusahaan besar di Amerika Serikat. Selain S&P 500, ada beberapa equity index lainnya, seperti Dow Jones 30 untuk mengukur performa 30 saham blue chip dan Nasdaq 100 untuk mengukur performa 100 saham perusahaan teknologi.

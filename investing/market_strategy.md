@@ -102,12 +102,35 @@ Risk management adalah strategi dan teknik yang digunakan untuk mengelola potens
 
 Delta hedging adalah strategi manajemen risiko dalam trading derivatif yang bertujuan untuk menetralkan risiko dari pergerakan harga aset dasar.
 
-## Accumulation
+## Scaling Out
+
+Scaling out adalah strategi investasi di mana kamu mengambil keuntungan secara bertahap, bukan menutup seluruh posisi sekaligus.
+
+## Contrarian Approach
+
+Contrarian approach adalah strategi melawan arus pasar. Artinya, kamu bertindak berlawanan dengan sentimen mayoritas investor. Strategi ini didasarkan pada keyakinan bahwa emosi pasar sering membuat harga bergerak terlalu jauh dari nilai fundamentalnya.
+
+Pasar biasanya berlebihan, saat banyak orang optimis, harga cenderung overvalued; saat banyak orang panik, harga bisa undervalued. Contrarian investor mencoba membeli saat orang lain takut, dan menjual saat orang lain serakah.
+
+## Momentum Trading
+
+Momentum trading adalah strategi investasi yang mengikuti tren pasar, kebalikan dari contrarian approach. Intinya adalah ikut arus daripada melawan arus.
 
 ## Dark Pools
 
-## Spoofing & Layering
+Dark pools adalah platform perdagangan saham atau aset lain yang tidak terlihat oleh publik. Mereka memungkinkan investor besar untuk membeli atau menjual saham dalam jumlah besar tanpa memengaruhi harga pasar secara langsung.
 
 ## Core-satellite
 
+Core-satellite strategy adalah strategi investasi yang populer untuk membangun portofolio yang seimbang antara stabilitas dan pertumbuhan. Strategi ini banyak digunakan oleh investor jangka panjang.
+
+Contoh:
+Portofolio 100 juta
+Core 70% (70 juta): index ETF saham besar dan obligasi pemerintah, karena pertumbuhan stabil.
+Satellite 30% (30 juta): saham teknologi kecil dan crypto, karena peluang return tinggi.
+
+Core menjaga portofolio tetap aman, satelit memberi potensi keuntungan ekstra.
+
 ## Sentiment Play
+
+Sentiment play adalah strategi investasi yang memanfaatkan sentimen pasar jangka pendek untuk mendapatkan keuntungan. Berbeda dengan strategi jangka panjang yang fokus pada fundamental, sentiment play lebih menekankan pada reaksi emosional investor terhadap berita, rumor, atau tren pasar.

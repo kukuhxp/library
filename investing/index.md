@@ -120,10 +120,6 @@ Safe haven adalah instrumen investasi yang dianggap aman saat terjadi ketidakpas
 
 Stop hunting adalah sebuah aksi di pasar keuangan di mana harga digerakkan secara sengaja ke level-level yang banyak dipasang stop loss oleh trader ritel, dengan tujuan menyapu posisi mereka sebelum harga kembali ke arah semula.
 
-## Risk-off
-
-Risk-off adalahkondisi dimana para investor menghindari aset-aset berisiko dan lebih memilih aset yang dianggap aman. Ini biasanya terjadi ketika ada kekhawatiran terhadap kondisi ekonomi, geopolitik, atau keuangan global.
-
 ## Copy Trading
 
 Copy Trading adalah metode trading di mana kamu secara otomatis menyalin transaksi trader lain ke akunmu sendiri. Jadi, ketika trader yang kamu ikuti membuka posisi beli atau jual, akunmu akan langsung melakukan hal yang sama secara real-time.
@@ -522,6 +518,7 @@ Intangible Assets atau aset tidak berwujud adalah aset perusahaan yang tidak mem
 6. Kecerdasan
 
 ## Tangible Assets
+
 Tangible Assets atau aset berwujud adalah aset yang memiliki bentuk fisik dan dapat dilihat, disentuh, serta digunakan secara langsung dalam operasi perusahaan untuk menghasilkan pendapatan.
 
 Ada 3 jenis dari tangible aset, yaitu:
@@ -529,20 +526,22 @@ Ada 3 jenis dari tangible aset, yaitu:
 2. Current Tangible Assets: Kas, Piutang Usaha.
 3. Investment Property: Gedung atau Rumah Sewa.
 
-## Scaling Out
-
 ## Partial Profit-taking
+
+Partial profit-taking adalah mengambil sebagian keuntungan dari posisi yang sedang profit, sementara sisa posisi tetap terbuka untuk mendapatkan potensi keuntungan tambahan.
 
 ## Store of Value
 
+Store of value atau penyimpan nilai adalah fungsi dari uang atau aset yang memungkinkan nilai daya belinya tetap terjaga dari waktu ke waktu. Artinya, kamu bisa menyimpan kekayaan hari ini dan menggunakannya lagi di masa depan tanpa kehilangan nilai secara signifikan.
+
 ## Net Investment Returns Contribution (NIRC)
+
+Net Investment Returns Contribution (NIRC) adalah kontribusi hasil investasi bersih. Istilah yang digunakan terutama oleh pemerintah Singapura untuk menggambarkan porsi hasil investasi dari aset negara yang digunakan untuk membiayai pengeluaran publik.
 
 ## Capital Gain
 
+Capital gain adalah keuntungan yang diperoleh dari kenaikan nilai suatu aset investasi ketika aset tersebut dijual dengan harga lebih tinggi daripada harga belinya.
+
 ## Discounted Cash Flow (DCF)
 
-## Net Asset Value
-
-## Irrational Exuberance
-
-## Convergence to Intrinsic Value
+Discounted Cash Flow (DCF) adalah metode penilaian atau valuation method yang digunakan untuk menentukan nilai sekarang (present value) dari suatu aset, perusahaan, atau proyek berdasarkan proyeksi arus kas masa depan atau future cash flows yang didiskon menggunakan tingkat pengembalian yang diharapkan.

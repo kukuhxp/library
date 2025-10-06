@@ -144,14 +144,6 @@ Death Cross adalah sinyal penurunan harga dalam analisis teknikal yang muncul sa
 
 Pivot point adalah harga acuan yang digunakan untuk menentukan potensi level support dan resistance pada hari/trading selanjutnya.
 
-## Trend Following
-
-Trend following adalah strategi trading atau investasi yang fokus untuk mengikuti arah tren pasar, baik itu uptrend maupun downtrend. Ada 3 jenis trend, yaitu:
-
-1. Bullish
-2. Bearish
-3. Sideways
-
 ## Heatmap
 
 Heatmap adalah visualisasi order book yang menunjukkan penempatan order limit di berbagai level harga dalam bentuk warna, biasanya dari terang ke gelap atau dari hijau ke merah.
@@ -184,21 +176,6 @@ Volume profile adalah alat analisis teknikal yang menunjukkan distribusi volume 
 
 Bollinger Bands adalah indikator yang digunakan untuk mengukur volatilitas pasar dan membantu mengidentifikasi kondisi overbought atau oversold. Indikator ini terdiri dari tiga garis yang membungkus harga.
 
-## Wyckoff
-
-Wyckoff adalah metode analisis teknikal yang dikembangkan oleh Richard D. Wyckoff pada awal abad ke-20. Metode ini digunakan untuk memahami perilaku pelaku pasar besar seperti institusi atau smart money untuk mengidentifikasi fase pergerakan harga di pasar finansial, seperti saham, forex, dan crypto. Tujuan dari metode wyckoff antara lain adalah mengetahui kapan pelaku besar sedang membeli (akumulasi) atau menjual (distribusi), menghindari jebakan pasar dan yang terpenting yaitu masuk ke pasar bersama smart money, bukan melawan mereka.
-
-4 Fase Utama dalam Teori Wyckoff:
-
-1. Akumulasi: Pelaku besar mulai membeli perlahan saat harga datar (sideways), sebelum naik
-2. Markup: Harga mulai naik karena akumulasi sudah selesai
-3. Distribusi: Pelaku besar mulai menjual saat harga tinggi, pasar masih terlihat naik
-4. Markdown: Harga mulai turun tajam karena distribusi selesai
-
-## Key Level
-
-Key level adalah harga penting di chart yang menjadi acuan utama bagi trader untuk membuat keputusan beli atau jual. Key level merupakan level nilai sebelumnya yang pernah menjadi area support, resistance, round numbers, atau previous high/low.
-
 ## All Time High
 
 All Time High (ATH) adalah harga tertinggi yang pernah dicapai oleh suatu aset sepanjang sejarah perdagangannya.
@@ -210,3 +187,16 @@ Ranging adalah kondisi ketika harga bergerak sideways dalam rentang tertentu yan
 ## Market Consensus
 
 Market consensus adalah pandangan atau ekspektasi rata-rata dari para pelaku pasar terhadap kondisi atau arah pergerakan suatu aset, indikator ekonomi, atau kebijakan tertentu.
+
+## Gold Demand Calender
+
+Chinese's New Year: 28 Jan - 04 Feb
+Eid al-Fitr Day: 01 Mar - 31 Mar
+Holi Festival: 13 Mar - 14 Mar
+Vaisakhi's Day: 13 Apr - 14 Apr
+Akhsaya Tristiya's Day: 30 Apr - 31 Apr
+India Independence's Day: 15 Aug - 16 Aug
+Chinese Golden Week: 01 Oct - 08 Oct
+Mid-autumn Festival: 06 Oct - 07 Oct
+Diwali Festival: 20 Oct - 21 Oct
+Thanksgiving's Day: 27 Oct - 28 Oct
