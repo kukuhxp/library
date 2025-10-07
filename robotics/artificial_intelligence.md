@@ -41,14 +41,41 @@ Affective computing adalah bidang dalam kecerdasan buatan (AI) dan ilmu komputer
 
 Large Language Models (LLM) adalah jenis model kecerdasan buatan (AI) yang dilatih untuk memahami dan menghasilkan teks dalam bahasa manusia dengan tingkat pemahaman yang sangat tinggi.
 
-
 ## Transformer
+
+Transformer adalah arsitektur model neural network yang menjadi dasar dari banyak sistem kecerdasan buatan modern, termasuk ChatGPT, GPT, BERT, dan lain-lain.
 
 ## Attention
 
+Attention adalah mekanisme yang membuat model fokus pada bagian penting dari data saat memproses informasi.
+
+Contohnya, dalam kalimat “Dia makan karena lapar”, model tahu kata “lapar” berkaitan dengan “dia”, bukan “makan”.
+Jadi, attention membantu AI memahami konteks dan hubungan antar kata agar hasilnya lebih akurat.
+
 ## Tokenization
 
+Tokenization adalah proses memecah teks menjadi potongan-potongan kecil yang disebut token agar bisa dipahami oleh AI.
+
+Contoh:
+Kalimat → “Saya suka apel merah.”
+Token → ["Saya", "suka", "apel", "merah", "."]
+
+Token bisa berupa kata, sub-kata, atau bahkan huruf, tergantung modelnya.
+Tujuannya: supaya komputer bisa memproses bahasa manusia dalam bentuk angka (vektor).
+
 ## Token ID
+
+Token ID adalah nomor unik yang diberikan pada setiap token setelah proses tokenization.
+
+Contoh:
+Kalimat → “Saya suka apel”
+Token → ["Saya", "suka", "apel"]
+Token ID → [1052, 207, 892] (contoh saja)
+
+Jadi, Token ID = versi angka dari token, agar model AI bisa memprosesnya secara matematis.
+
+Singkatnya:
+Teks → Token → Token ID → Diproses oleh model.
 
 ## Byte Pair Encoding (BPE)
 
