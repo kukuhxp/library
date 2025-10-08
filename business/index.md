@@ -323,3 +323,12 @@ Mind Your Own Business (MYOB) adalah software akuntansi yang awalnya dikembangka
 ## Power BI
 
 Power BI adalah software Business Intelligence (BI) dari Microsoft yang digunakan untuk mengolah, menganalisis, dan memvisualisasikan data dalam bentuk dashboard interaktif, laporan, dan grafik.
+
+## Solopreneuer
+
+Solopreneur adalah gabungan dari kata solo (sendiri) dan entrepreneur (wirausahawan). Jadi, solopreneur berarti pengusaha yang menjalankan seluruh bisnisnya sendiri, tanpa karyawan tetap atau tim besar.
+
+Ciri-ciri solopreneur:
+Mengelola semua aspek bisnis sendiri. Mulai dari produksi, pemasaran, keuangan, dll.
+
+Biasanya menggunakan bantuan teknologi atau freelancer bila perlu.

@@ -2,6 +2,30 @@
 
 Banking adalah kegiatan yang dilakukan oleh bank untuk menyediakan layanan keuangan kepada masyarakat dan pemerintah. Inti dari banking adalah menghimpun dana dari masyarakat dan menyalurkannya kembali dalam bentuk pinjaman atau investasi, serta menyediakan berbagai jasa keuangan lainnya.
 
+## Central Bank
+
+Central bank atau bank sentral adalah lembaga keuangan tertinggi di suatu negara yang bertugas mengatur dan menjaga stabilitas sistem keuangan dan nilai mata uang nasional.
+
+Fungsi utama bank sentral:
+
+1. Mengatur jumlah uang beredar melalui kebijakan moneter (misalnya menaikkan atau menurunkan suku bunga).
+
+2. Menetapkan dan melaksanakan kebijakan moneter untuk menjaga stabilitas harga dan pertumbuhan ekonomi.
+
+3. Menjadi bank bagi pemerintah untuk mengelola cadangan devisa, menerbitkan obligasi, dan memproses transaksi pemerintah.
+
+4. Menjadi bank bagi bank untuk menyediakan pinjaman dan menjaga sistem pembayaran antarbank.
+
+5. Mengawasi sistem perbankan dan memastikan bank-bank komersial beroperasi dengan aman dan sehat.
+
+Berikut ini adalah beberapa nama dari bank sentral:
+
+- Federal Reserve (The Fed)
+- ERB (European Central Bank)
+- BoJ (Bank of Japan)
+- PBoC (People Bank of China)
+- RBI (Reserve Bank of India)
+
 ## Temenos
 
 Temenos adalah sebuah perusahaan perangkat lunak yang menyediakan solusi untuk sektor perbankan dan layanan keuangan. Temenos dikenal luas di industri fintech karena menyediakan sistem inti perbankan yang digunakan oleh bank-bank di seluruh dunia.

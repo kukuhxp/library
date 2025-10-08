@@ -31,3 +31,14 @@ Asset Management Company (AMC) atau Perusahaan Manajer Investasi (MI) adalah per
 ## Wealth Management Firm
 
 Wealth Management Firm adalah perusahaan yang menyediakan layanan keuangan secara menyeluruh (holistik) untuk membantu individu yang memiliki kekayaan tinggi atau High-Net-Worth Individuals (HNWI) dalam mengelola kekayaan mereka.
+
+## Pension Fund
+
+Pension fund atau dana pensiun adalah lembaga atau dana yang dibentuk untuk mengelola dan menginvestasikan uang yang disisihkan oleh pekerja dan/atau pemberi kerja guna memberikan penghasilan kepada pekerja setelah pensiun.
+
+Berikut ini adalah beberapa lembaga dari pension fund:
+
+- Dana Pensiun Pemberi Kerja (DPPK)
+- Dana Pensiun Lembaga Keuangan (DPLK)
+- Taspen
+- ASABRI
