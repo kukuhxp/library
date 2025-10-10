@@ -165,3 +165,23 @@ Fear of Missing Out (FOMO) atau kepanikan adalah suatu kondisi di mana orang-ora
 3. Bencana alam.
 4. Krisis ekonomi.
 5. Wabah penyakit.
+
+## Debt-to-GDP
+
+Debt-to-GDP atau rasio utang terhadap Produk Domestik Bruto adalah ukuran yang membandingkan total utang pemerintah dengan total nilai ekonomi negara (PDB).
+
+Rumus:
+Debt-to-GDP (%) = (Total Utang Pemerintah / Produk Domestik Bruto) × 100%
+
+Contoh:
+Utang negara: Rp 7.000 triliun
+GDP negara: Rp 14.000 triliun
+
+Maka:
+7.000 / 14.000 = 0.5 = 50\%
+
+Artinya, utang setara dengan 50% dari seluruh nilai ekonomi negara selama setahun.
+
+## Net Lender
+
+Net lender berarti suatu negara, perusahaan, atau individu yang meminjamkan lebih banyak uang daripada yang dipinjamnya.

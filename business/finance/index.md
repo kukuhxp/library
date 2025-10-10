@@ -2,6 +2,12 @@
 
 Investing adalah proses mengalokasikan uang ke dalam aset atau instrumen dengan harapan akan menghasilkan keuntungan di masa depan.
 
+## Pullback vs Bearish
+
+Pullback adalah penurunan harga sementara yang terjadi di tengah tren naik. Biasanya, pullback hanya berupa koreksi kecil sebelum harga kembali melanjutkan kenaikan. Dalam kondisi ini, tren utama masih bullish dan harga sering memantul dari area support
+
+Sebaliknya, bearish adalah kondisi ketika harga bergerak turun secara berkelanjutan dan membentuk pola lower high serta lower low. Tren bearish menunjukkan arah pasar yang dominan turun, bukan sekadar koreksi sementara. Singkatnya, pullback hanyalah jeda di tren naik, sedangkan bearish menandakan tren turun yang kuat dan berkelanjutan.
+
 ## Compound Interest
 
 Compound interest (bunga majemuk) adalah bunga yang dihitung dari modal awal plus akumulasi bunga sebelumnya. Artinya, bunga yang kamu dapatkan akan ikut menghasilkan bunga lagi di periode berikutnya — inilah efek “bunga berbunga”.
@@ -545,3 +551,27 @@ Capital gain adalah keuntungan yang diperoleh dari kenaikan nilai suatu aset inv
 ## Discounted Cash Flow (DCF)
 
 Discounted Cash Flow (DCF) adalah metode penilaian atau valuation method yang digunakan untuk menentukan nilai sekarang (present value) dari suatu aset, perusahaan, atau proyek berdasarkan proyeksi arus kas masa depan atau future cash flows yang didiskon menggunakan tingkat pengembalian yang diharapkan.
+
+## Price Convergence
+
+Price convergence atau konvergensi harga adalah kondisi di mana harga pasar dan nilai intrinsik akhirnya bertemu atau menyatu.
+
+Harga spekulasi adalah harga yang terbentuk karena ekspektasi, rumor, atau sentimen pasar, bukan karena nilai fundamental. Sedangkan nilai intrinsik adalah nilai sebenarnya dari suatu aset berdasarkan analisis fundamental — seperti arus kas masa depan, pertumbuhan, dan risiko.
+
+Contoh:
+
+1. Contoh positif – Tesla (2019–2021):
+Banyak orang dulu menilai harga saham Tesla terlalu “spekulatif” karena valuasinya tinggi. Tapi seiring waktu, performa dan pendapatan Tesla tumbuh besar, membuat nilai intrinsiknya naik.
+Dalam kasus ini, harga spekulasi berubah menjadi nilai intrinsik karena fundamental akhirnya “mengejar” harga.
+
+2. Contoh negatif – Crypto hype (misalnya 2021):
+Banyak token naik karena hype dan spekulasi tanpa produk nyata.
+Ketika fundamental tak mendukung, harganya jatuh dan tidak pernah menjadi nilai intrinsik.
+
+Kesimpulan:
+
+Harga spekulasi bisa berubah menjadi nilai intrinsik, tapi hanya jika realitas ekonomi mendukung. Jika tidak, maka harga spekulatif akan kembali ke bawah menuju nilai intrinsiknya (reversion to the mean).
+
+## Sunk Cost Fallacy
+
+Sunk cost fallacy atau kesalahan biaya hangus adalah kekeliruan berpikir ketika seseorang terus melanjutkan suatu keputusan atau proyek hanya karena sudah terlanjur mengeluarkan banyak waktu, uang, atau tenaga, padahal secara rasional, melanjutkannya justru merugikan.

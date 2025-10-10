@@ -132,3 +132,7 @@ Video Graphics Array (VGA) adalah standar kartu grafis dan tampilan yang diperke
 ## Overclock
 
 Overclock adalah proses meningkatkan kecepatan kerja komponen komputer seperti CPU, GPU, atau RAM melewati spesifikasi standar pabrikan agar bisa bekerja lebih cepat dari default-nya.
+
+## Real-time Clock (RTC)
+
+Real-time Clock (RTC) chip adalah komponen elektronik yang berfungsi untuk menyimpan dan menjaga waktu secara akurat, bahkan ketika sistem utama (seperti mikrokontroler atau komputer) dimatikan.

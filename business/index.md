@@ -332,3 +332,7 @@ Ciri-ciri solopreneur:
 Mengelola semua aspek bisnis sendiri. Mulai dari produksi, pemasaran, keuangan, dll.
 
 Biasanya menggunakan bantuan teknologi atau freelancer bila perlu.
+
+## Knowledge-based Business (KBB)
+
+Knowledge-based Business (KBB) adalah jenis bisnis yang nilai utamanya berasal dari pengetahuan, keahlian, dan inovasi, bukan dari aset fisik atau modal besar.

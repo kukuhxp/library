@@ -819,3 +819,31 @@ LaTeX adalah sebuah sistem typesetting atau penyusunan dokumen yang sangat popul
 ## Equation Editor
 
 Equation editor adalah fitur pada aplikasi pengolah kata seperti Microsoft Word, Google Docs, atau LaTeX editor yang dipakai untuk menulis rumus matematika, fisika, atau notasi ilmiah dengan format rapi.
+
+## Software Driven UI (SDUI)
+
+Software Driven UI (SDUI) adalah pendekatan dalam pengembangan antarmuka pengguna di mana tampilan aplikasi dikontrol oleh server atau software logic, bukan hanya ditentukan secara statis di sisi klien (seperti di aplikasi atau web).
+
+Dengan SDUI, server mengirimkan struktur, komponen, dan logika tampilan UI dalam bentuk data (biasanya JSON), lalu aplikasi klien merender tampilan berdasarkan data tersebut.
+
+## Feature Flag
+
+Feature Flag (atau disebut juga Feature Toggle) adalah mekanisme untuk mengaktifkan atau menonaktifkan fitur aplikasi secara dinamis tanpa perlu mengubah atau redeploy kode. Dengan feature flag, developer bisa mengontrol perilaku aplikasi lewat konfigurasi (biasanya di server atau dashboard).
+
+Bayangkan kamu punya aplikasi dan sedang mengembangkan fitur Mode Gelap (Dark Mode). Daripada langsung merilis fitur itu ke semua pengguna, kamu bisa menyembunyikannya di balik feature flag.
+
+Jenis Feature Flag
+
+1. Release flag
+Untuk mengontrol perilisan fitur baru secara bertahap.
+Contoh: hanya 10% pengguna yang melihat fitur baru.
+
+2. Experiment flag (A/B testing)
+Untuk menguji versi fitur yang berbeda dan melihat hasil performanya.
+
+3. Ops flag (Operational)
+Untuk mengaktifkan/menonaktifkan komponen penting saat darurat.
+Contoh: mematikan sistem pembayaran saat maintenance.
+
+4. Permission flag
+Untuk memberi akses fitur tertentu hanya ke user tertentu.
