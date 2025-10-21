@@ -5,6 +5,7 @@
 Reinvestment atau reinvestasi adalah strategi menanamkan kembali keuntungan yang sudah didapat agar menghasilkan keuntungan baru. Dengan kata lain, daripada menarik profit dan membelanjakannya, kamu menambahkannya ke modal supaya total dana yang bekerja semakin besar.
 
 Berikut ini adalah proyeksinya:
+
 Equity: Rp60,000,000
 Compound Interest: 5%/month
 Final Equity (1 year): Rp107,751,360
@@ -22,7 +23,7 @@ Value investing adalah strategi investasi berdasarkan nilai fundamental. Para in
 
 Berikut ini adalah konsep dari value investing:
 
-Jika harga pasar kurang dari intrinsic value, maka dianggap undervalued atau peluang beli. Sedangkan jika harga pasar lebih dari intrinsic value, maka dianggap overvalued atau waspada/ jual.
+Jika harga pasar kurang dari intrinsic value, maka dianggap undervalued atau peluang beli, sedangkan jika harga pasar lebih dari intrinsic value, maka dianggap overvalued atau waspada untuk jual.
 
 ## Hedging
 
@@ -134,3 +135,7 @@ Core menjaga portofolio tetap aman, satelit memberi potensi keuntungan ekstra.
 ## Sentiment Play
 
 Sentiment play adalah strategi investasi yang memanfaatkan sentimen pasar jangka pendek untuk mendapatkan keuntungan. Berbeda dengan strategi jangka panjang yang fokus pada fundamental, sentiment play lebih menekankan pada reaksi emosional investor terhadap berita, rumor, atau tren pasar.
+
+## Diversification
+
+Diversification atau diversifikasi adalah strategi untuk menyebar risiko dengan tidak menempatkan semua aset atau investasi di satu tempat saja. Tujuannya adalah jika satu investasi rugi, kerugiannya bisa ditutupi oleh keuntungan dari investasi lain.

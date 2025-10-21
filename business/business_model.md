@@ -21,3 +21,7 @@ Software as a Service (SaaS) adalah model di mana sebuah perusahaan menyediakan 
 ## White-label App
 
 White-label app adalah aplikasi yang dibuat oleh satu perusahaan lalu dijual atau dilisensikan kepada perusahaan lain untuk digunakan kembali dengan merek, logo, dan identitas visual milik perusahaan pembeli. Jadi, perusahaan pembeli tidak perlu membangun aplikasi dari nol, cukup mengganti branding sesuai kebutuhan.
+
+## Algorithmic Business
+
+Algorithmic business atau bisnis berbasis algoritma adalah model bisnis yang mengandalkan algoritma, data, dan otomatisasi untuk mengambil keputusan, memberikan rekomendasi, atau menjalankan operasi bisnis.

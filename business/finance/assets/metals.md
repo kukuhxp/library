@@ -24,3 +24,7 @@ Sustaining Capital Expenditure (Sustaining Capex) adalah pengeluaran modal yang 
 ## General & Administrative (G&A) Expenses
 
 General & Administrative (G&A) Expenses adalah biaya operasional perusahaan yang tidak langsung terkait dengan produksi barang atau jasa, tetapi diperlukan untuk menjalankan bisnis secara keseluruhan.
+
+## Gold Rush
+
+Gold Rush adalah periode ketika banyak orang secara massal pergi ke suatu daerah karena ditemukan emas di sana, dengan harapan menjadi kaya mendadak. Fenomena ini biasanya disertai migrasi besar-besaran, pembukaan tambang, dan ledakan ekonomi lokal.

@@ -4,6 +4,14 @@
 
 Electronic Trading System (ETS) adalah platform elektronik yang memungkinkan proses jual beli aset keuangan yang dilakukan secara otomatis dan digital, tanpa perlu interaksi tatap muka atau via telepon antara pembeli dan penjual.
 
+## Reuters Dealing
+
+Reuters dealing adalah jaringan komunikasi elektronik antarbank yang digunakan untuk melakukan transaksi valuta asing secara langsung antara lembaga keuangan besar. Sistem ini dikembangkan oleh Reuters.
+
+## Society for Worldwide Interbank Financial Telecommunication (SWIFT) Network
+
+SWIFT Network adalah sistem komunikasi global antarbank yang memungkinkan pengiriman instruksi keuangan lintas negara dengan aman dan standar internasional.
+
 ## Order Management System (OMS)
 
 Order Management System (OMS) adalah sistem perangkat lunak yang digunakan untuk mengelola, memantau, dan mengeksekusi pesanan transaksi keuangan secara efisien.

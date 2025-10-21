@@ -103,3 +103,7 @@ Kalau setelah komunikasi tetap tidak ada perubahan, mungkin ini tanda bahwa hubu
 
 5. Jangan lupa mencintai diri sendiri
 Kebahagiaan Anda tidak boleh sepenuhnya bergantung pada orang lain. Semakin Anda kuat dan bahagia dengan diri sendiri, semakin Anda tahu mana hubungan yang benar-benar layak dipertahankan.
+
+## Nonconformist
+
+Nonconformist adalah seseorang yang tidak mengikuti atau menolak untuk menyesuaikan diri dengan norma, aturan, atau kebiasaan yang umum diterima dalam masyarakat.

@@ -10,7 +10,7 @@ Sebaliknya, bearish adalah kondisi ketika harga bergerak turun secara berkelanju
 
 ## Compound Interest
 
-Compound interest (bunga majemuk) adalah bunga yang dihitung dari modal awal plus akumulasi bunga sebelumnya. Artinya, bunga yang kamu dapatkan akan ikut menghasilkan bunga lagi di periode berikutnya — inilah efek “bunga berbunga”.
+Compound interest atau bunga majemuk adalah bunga yang dihitung dari modal awal plus akumulasi bunga sebelumnya. Artinya, bunga yang kamu dapatkan akan ikut menghasilkan bunga lagi di periode berikutnya.
 
 Rumus dasar compound interest:
 A = P \times (1 + r)^t
@@ -74,8 +74,9 @@ Untuk stop loss ideal adalah 2% dari ekuitas.
 
 ## Cut Loss
 
-Cut loss adalah istilah yang digunakan dalam investasi yang artinya menjual suatu aset untuk membatasi kerugian sebelum kerugian tersebut menjadi lebih besar. Cut loss perlu dipertimbangkan baik-baik, agar nantinya kita siap menerima kerugian saat berinvestasi. Berikut ini adalah beberapa pertimbangan saat melakukan cut loss:
+Cut loss adalah istilah yang digunakan dalam investasi yang artinya menjual suatu aset untuk membatasi kerugian sebelum kerugian tersebut menjadi lebih besar. Cut loss perlu dipertimbangkan baik-baik, agar nantinya kita siap menerima kerugian saat berinvestasi.
 
+Berikut ini adalah beberapa pertimbangan saat melakukan cut loss:
 1. Fundamental Perusahaan Memburuk
 Laba bersih menurun terus-menerus dan utang membengkak hingga tidak sehat.
 
@@ -108,14 +109,11 @@ MULTI-ASSET BROKERS PRO:
 - Robinhood
 - Webull
 
-## Drawdown
-
-## Momentum
-
 ## Safe Haven
 
-Safe haven adalah instrumen investasi yang dianggap aman saat terjadi ketidakpastian ekonomi, krisis keuangan, atau gejolak pasar. Investor biasanya memindahkan uang ke safe haven untuk melindungi nilai kekayaan mereka. Berikut ini adalah beberapa aset safe haven:
+Safe haven adalah instrumen investasi yang dianggap aman saat terjadi ketidakpastian ekonomi, krisis keuangan, atau gejolak pasar. Investor biasanya memindahkan uang ke safe haven untuk melindungi nilai kekayaan mereka.
 
+Berikut ini adalah beberapa aset safe haven:
 1. Emas (Gold), karena nilainya stabil selama ribuan tahun
 2. Obligasi AS (US Treasury), karena dijamin pemerintah AS, sangat aman
 3. Dolar AS (USD), karena.mata uang cadangan dunia, likuid dan kuat
@@ -128,7 +126,7 @@ Stop hunting adalah sebuah aksi di pasar keuangan di mana harga digerakkan secar
 
 ## Copy Trading
 
-Copy Trading adalah metode trading di mana kamu secara otomatis menyalin transaksi trader lain ke akunmu sendiri. Jadi, ketika trader yang kamu ikuti membuka posisi beli atau jual, akunmu akan langsung melakukan hal yang sama secara real-time.
+Copy trading adalah metode trading di mana kamu secara otomatis menyalin transaksi trader lain ke akunmu sendiri. Jadi, ketika trader yang kamu ikuti membuka posisi beli atau jual, akunmu akan langsung melakukan hal yang sama secara real-time.
 
 ## Rollover
 
@@ -158,13 +156,13 @@ Contract Size adalah jumlah unit yang diperdagangkan di pasar derivatif dalam be
 
 Broker atau Pialang adalah sebuah perusahaan swasta yang bergerak dalam bidang finansial dengan cara menjual produk investasi berupa pertukaran antar mata uang, komoditas, kripto atau indeks saham. Tugas utama perusahaan broker adalah mencari klien/nasabah dan menghubungkan mereka ke Liquidity Providers atau Market Makers.
 
-## Liquidity Provider
+## Liquidity Provider (LP)
 
-Liquidity Providers atau Market Maker adalah perusahaan yang membuat dan mengelola likuiditas pasar CFD atau Forex. Tanpa liquidity providers, hasil trading kita tidak akan mendapat profit. Liquidity providers dapat berbentuk bank, institusi dan prime broker.
+Liquidity Provider (LP) atau Market Maker (MM) adalah perusahaan yang membuat dan mengelola likuiditas pasar CFD. Tanpa liquidity providers, hasil trading kita tidak akan mendapat profit Liquidity provider dapat berbentuk bank, institusi dan prime broker.
 
 ## Equity
 
-Equity atau Ekuitas adalah modal bergerak. Ketika Anda membuka posisi, maka modal Anda akan bergerak berdasarkan proses pembukaan posisi, jika posisi yang Anda buka berjalan menuju profit, maka ekuitas Anda bertambah dan begitu sebaliknya jika posisi yang Anda buka berjalan menuju loss, maka ekuitas Anda berkurang.
+Equity atau ekuitas adalah modal bergerak. Ketika Anda membuka posisi, maka modal Anda akan bergerak berdasarkan proses pembukaan posisi, jika posisi yang Anda buka berjalan menuju profit, maka ekuitas Anda bertambah dan begitu sebaliknya jika posisi yang Anda buka berjalan menuju loss, maka ekuitas Anda berkurang.
 
 ## Letter Of Transaction
 
@@ -504,13 +502,7 @@ Mereka sering dapat akses ke private placement, IPO besar, obligasi korporasi ya
 
 ## Key Levels
 
-Key level adalah harga penting di chart yang menjadi acuan utama bagi trader untuk membuat keputusan beli atau jual. Key level merupakan level nilai sebelumnya yang pernah menjadi area support, resistance, round numbers, atau previous high/low. Berikut ini adalah beberapa key level dari komoditas dan aset:
-
-Gold: 2,750, 1,750, 1,200, 800, 500, 270
-Silver: 34, 27, 22, 14, 5.8, 5, 4.5
-Oil: 105, 72, 40, 10
-EURUSD: 1.45000, 1.25000, 1.06000, 0.85000
-Bitcoin: 68,000, 19,000
+Key level adalah harga penting di chart yang menjadi acuan utama bagi trader untuk membuat keputusan beli atau jual. Key level merupakan level nilai sebelumnya yang pernah menjadi area support, resistance, round numbers, atau previous high/low.
 
 ## Intangible Assets
 
@@ -575,3 +567,11 @@ Harga spekulasi bisa berubah menjadi nilai intrinsik, tapi hanya jika realitas e
 ## Sunk Cost Fallacy
 
 Sunk cost fallacy atau kesalahan biaya hangus adalah kekeliruan berpikir ketika seseorang terus melanjutkan suatu keputusan atau proyek hanya karena sudah terlanjur mengeluarkan banyak waktu, uang, atau tenaga, padahal secara rasional, melanjutkannya justru merugikan.
+
+## Angel Investor
+
+Angel investor adalah individu kaya yang memberikan modal pribadi kepada startup atau bisnis baru, biasanya pada tahap awal, sebelum perusahaan mendapat pendanaan dari venture capital.
+
+## Liquidation
+
+Liquidation atau likuidasi adalah menutup posisi jual atau beli kembali aset yang sebelumnya dibuka untuk merealisasikan keuntungan atau kerugian.

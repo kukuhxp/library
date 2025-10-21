@@ -185,3 +185,11 @@ Jika punya jejaring kuat, misalnya di partai, bisnis, atau komunitas, bisa menda
 ## Politisi Administratif atau Strategis
 
 Ada juga yang fokus pada strategi, perencanaan, atau lobi politik, sementara orang lain yang tampil ke publik sebagai juru bicara.
+
+## Penyerapan Anggaran
+
+Penyerapan anggaran adalah tingkat realisasi penggunaan dana dari total anggaran yang telah dialokasikan. Secara umum, penyerapan tinggi menunjukkan program pemerintah berjalan sesuai rencana, tapi bukan berarti otomatis baik, karena penyerapan yang terlalu tinggi di akhir tahun bisa mengindikasikan potensi korupsi atau pemborosan.
+
+## Anti-hero
+
+Berbeda dari pahlawan klasik yang mulia dan idealis, anti-hero lebih realistis dan manusiawi.  Mereka bisa marah, dendam, takut, atau serakah. Justru karena ketidaksempurnaannya itu, anti-hero terasa lebih dekat dengan dunia nyata.
