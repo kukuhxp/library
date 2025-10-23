@@ -2,32 +2,18 @@
 
 ## Hawkish
 
-Hawkish adalah kebijakan atau sikap yang mendukung suku bunga tinggi dan pengetatan moneter untuk melawan inflasi.
+Hawkish adalah kebijakan bank sentral yang mendukung suku bunga tinggi dan pengetatan moneter untuk melawan inflasi.
 
 ## Dovish
 
-Dovish adalah kebijakan bank sentral yang cenderung longgar (accommodative), seperti menurunkan suku bunga atau menambah stimulus, demi mendorong pertumbuhan ekonomi dan lapangan kerja.
-
-## Volcker Shock
-
-Volcker shock adalah kebijakan suku bunga sangat tinggi yang diterapkan oleh Paul Volcker pada awal 1980-an untuk menekan inflasi AS yang saat itu melampaui 14%.
-
-## Nixon Shock
-
-Nixon shock adalah serangkaian kebijakan ekonomi yang diumumkan oleh Presiden Amerika Serikat Richard Nixon pada 15 Agustus 1971, yang paling terkenal adalah menghentikan konvertibilitas dolar AS ke emas. Keputusan ini secara efektif mengakhiri sistem Bretton Woods atau sistem nilai tukar tetap pasca Perang Dunia II.
-
-## Stimulus
-
-Stimulus adalah kebijakan atau tindakan yang dilakukan pemerintah/otoritas moneter untuk mendorong pertumbuhan ekonomi ketika aktivitas ekonomi melemah.
+Dovish adalah kebijakan bank sentral yang cenderung longgar, seperti menurunkan suku bunga atau menambah stimulus, demi mendorong pertumbuhan ekonomi dan lapangan kerja.
 
 ## Quantitative Easing (QE)
 
-Quantitative Easing (QE) adalah kebijakan moneter tidak konvensional di mana bank sentral membeli aset keuangan berskala besar untuk menambah likuiditas di sistem keuangan ketika suku bunga sudah sangat rendah.
+Quantitative Easing (QE) atau pelonggaran kuantitatif adalah kebijakan moneter ekspansif yang dilakukan oleh bank sentral untuk menambah jumlah uang beredar dengan cara mencetak uang baru secara digital dan merangsang pertumbuhan ekonomi dengan cara membeli obligasi pemerintah, terutama saat suku bunga sudah sangat rendah (mendekati 0%) dan kebijakan moneter biasa tidak lagi efektif.
 
-## Reform and Opening Up
+## Quantitive Tightening (QT)
 
-Reform and opening up atau gaige kaifang adalah kebijakan ekonomi yang diperkenalkan oleh Deng Xiaoping di Tiongkok pada akhir 1978 untuk mendorong pertumbuhan ekonomi melalui reformasi domestik dan keterbukaan terhadap perdagangan serta investasi asing.
+Quantitative Tightening (QT) atau pengetatan kuantitatif adalah kebijakan moneter yang dilakukan oleh bank sentral untuk mengurangi jumlah uang beredar di perekonomian.
 
-## Dedollarization
-
-Dedollarization adalah kebijakan atau proses di mana suatu negara mengurangi penggunaan mata uang asing dalam perekonomiannya dan mendorong penggunaan mata uang domestik.
+Biasanya, kebijakan ini dilakukan setelah periode Quantitative Easing (QE), di mana bank sentral sebelumnya telah mencetak uang dan membeli aset obligasi pemerintah untuk merangsang ekonomi.

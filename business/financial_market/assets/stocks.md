@@ -348,10 +348,6 @@ Liquidity-driven rally adalah kenaikan harga pasar atau aset yang terjadi karena
 
 Pure alpha adalah keuntungan atau return murni yang dihasilkan dari keahlian manajer investasi atau strategi aktif, bukan karena mengikuti pergerakan pasar (beta).
 
-## Repurchase Aggreement (Repo)
-
-Repurchase Agreement (Repo) adalah perjanjian keuangan di mana satu pihak menjual aset (biasanya surat berharga seperti obligasi) kepada pihak lain, dengan janji akan membeli kembali aset tersebut di kemudian hari dengan harga yang telah disepakati.
-
 ## Leveraged Buyouts (LBO)
 
 Leveraged Buyout (LBO) adalah proses pengambil alihan atau akuisisi suatu perusahaan dengan menggunakan utang dalam jumlah besar, di mana aset perusahaan yang diakuisisi dijadikan jaminan untuk membiayai utang tersebut.

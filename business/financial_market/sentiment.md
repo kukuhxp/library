@@ -1,7 +1,13 @@
 # SENTIMENT
 
-"Buy when others are fearful, sell when others are greedy."
-— Warren Buffett
+Sentimen pasar menggambarkan apakah mayoritas investor saat ini optimis (bullish) atau pesimis (bearish) terhadap arah harga di masa depan.
+
+Ada 3 pantauan yang sering investor dan analis lakukan, yaitu:
+1. Consumer Sentiment Index (CSI)
+2. Put/Call Ratio (PCR)
+3. Fear & Greed Index
+
+Jadi, sentimen pasar bukan data teknis atau fundamental, tetapi psikologi kolektif investor yang sering memengaruhi arah harga jangka pendek.
 
 ## Fear
 

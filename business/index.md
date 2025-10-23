@@ -42,10 +42,6 @@ Advertising adalah proses mempromosikan produk atau layanan kepada publik dengan
 
 Branding adalah proses membentuk citra dan persepsi sebuah merek di benak konsumen. Branding bukan hanya soal logo atau nama, tapi mencakup kesan, nilai dan pengalaman yang dirasakan orang saat berinteraksi dengan produk atau perusahaan.
 
-## Joint Venture
-
-Joint venture adalah bentuk kerja sama bisnis di mana dua atau lebih perusahaan bekerja sama untuk menjalankan proyek atau usaha tertentu. Joint venture dilakukan dengan cara berbagi modal, risiko, keuntungan, dan kendali. Biasanya bersifat sementara atau untuk tujuan khusus, meskipun bisa berlanjut dalam jangka panjang.
-
 ## Consortium 
 
 Consortium adalah kemitraan atau aliansi sementara antara dua atau lebih perusahaan, organisasi, atau pemerintah yang bekerja sama untuk mencapai tujuan bersama, biasanya untuk proyek besar dan kompleks yang tidak bisa ditangani oleh satu pihak saja.

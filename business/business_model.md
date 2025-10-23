@@ -1,6 +1,45 @@
 # BUSINESS MODEL
 
-Business model adalah cara kerja dari sebuah bisnis untuk menghasilkan uang. Ini mencakup bagaimana perusahaan menciptakan, memberikan dan menangkap nilai dari produk atau jasanya kepada pelanggan.
+Business model atau model bisnis adalah cara kerja dari sebuah bisnis untuk menghasilkan uang. Ini mencakup bagaimana perusahaan menciptakan, memberikan dan menangkap nilai dari produk atau jasanya kepada pelanggan.
+
+## Business-to-Business (B2B)
+
+Business-to-Business (B2B) adalah model bisnis di mana perusahaan menjual produk atau jasa kepada perusahaan lain, bukan langsung ke konsumen.
+
+Contoh B2B:
+
+1. Perusahaan pembuat mesin industri menjual mesin ke pabrik lain.
+2. Perusahaan software ERP menjual lisensi ke perusahaan-perusahaan lain.
+3. Distributor grosir menjual barang ke toko-toko retail.
+
+Intinya, transaksinya antar bisnis, bukan ke konsumen individu.
+
+## Business-to-Consumer (B2C)
+
+Business-to-Consumer (B2C) adalah model bisnis di mana perusahaan menjual produk atau jasa langsung ke konsumen akhir.
+
+Contoh B2C:
+
+1. Sebuah perusahaan menjual produknya ke konsumen melalui platform e-commerce.
+2. Restoran menjual makanan langsung ke pelanggan.
+3. Perusahaan streaming seperti Netflix menjual langganan langsung ke pengguna.
+
+Perbedaan utamanya dengan B2B adalah target pasarnya, jika B2B adalah bisnis dari perusahaan ke perusahaan, sedangkan B2C adalah bisnis dari perusahaan ke konsumen individu.
+
+## C2C
+
+Consumer-to-Consumer adalah model bisnis di mana konsumen menjual barang atau jasa langsung ke konsumen lain, biasanya melalui platform perantara (marketplace).
+
+Contoh C2C:
+
+1. Perorangan menjual barang ke perorangan lain melalui platform e-commerce.
+2. Seseorang menjual barang preloved ke orang lain.
+
+Karakteristik utama C2C:
+
+1. Penjual individu, bukan perusahaan.
+2. Pembeli individu, bukan perusahaan.
+3. Platform berperan sebagai perantara atau fasilitator transaksi, bukan penjual langsung.
 
 ## Dropshipping
 

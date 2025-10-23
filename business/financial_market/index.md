@@ -160,6 +160,10 @@ Broker atau Pialang adalah sebuah perusahaan swasta yang bergerak dalam bidang f
 
 Liquidity Provider (LP) atau Market Maker (MM) adalah perusahaan yang membuat dan mengelola likuiditas pasar CFD. Tanpa liquidity providers, hasil trading kita tidak akan mendapat profit Liquidity provider dapat berbentuk bank, institusi dan prime broker.
 
+Market maker secara profesional sebenarnya adalah penyedia likuiditas yang menjaga agar pasar tetap aktif dan order selalu bisa dieksekusi. Mereka beli ketika orang jual, dan jual ketika orang beli, supaya tidak ada kekosongan harga.
+
+Jadi fungsinya penting dan legal di pasar resmi seperti NASDAQ, CME, Binance.
+
 ## Equity
 
 Equity atau ekuitas adalah modal bergerak. Ketika Anda membuka posisi, maka modal Anda akan bergerak berdasarkan proses pembukaan posisi, jika posisi yang Anda buka berjalan menuju profit, maka ekuitas Anda bertambah dan begitu sebaliknya jika posisi yang Anda buka berjalan menuju loss, maka ekuitas Anda berkurang.
@@ -575,3 +579,7 @@ Angel investor adalah individu kaya yang memberikan modal pribadi kepada startup
 ## Liquidation
 
 Liquidation atau likuidasi adalah menutup posisi jual atau beli kembali aset yang sebelumnya dibuka untuk merealisasikan keuntungan atau kerugian.
+
+## Selfoff
+
+Selloff atau penjualan massal adalah aksi jual besar-besaran terhadap suatu aset, sehingga menyebabkan harga aset tersebut turun tajam dalam waktu singkat.

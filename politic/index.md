@@ -193,3 +193,9 @@ Penyerapan anggaran adalah tingkat realisasi penggunaan dana dari total anggaran
 ## Anti-hero
 
 Berbeda dari pahlawan klasik yang mulia dan idealis, anti-hero lebih realistis dan manusiawi.  Mereka bisa marah, dendam, takut, atau serakah. Justru karena ketidaksempurnaannya itu, anti-hero terasa lebih dekat dengan dunia nyata.
+
+## Corporate Social Responsibility (CSR)
+
+Corporate Social Responsibility (CSR) adalah anggaran yang disediakan perusahaan untuk kegiatan tanggung jawab sosial, seperti membantu masyarakat, menjaga lingkungan, dan mendukung pembangunan berkelanjutan.
+
+Tujuannya agar perusahaan tidak hanya mencari keuntungan, tetapi juga memberi manfaat bagi masyarakat dan lingkungan di sekitar operasinya.
