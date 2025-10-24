@@ -199,3 +199,7 @@ Berbeda dari pahlawan klasik yang mulia dan idealis, anti-hero lebih realistis d
 Corporate Social Responsibility (CSR) adalah anggaran yang disediakan perusahaan untuk kegiatan tanggung jawab sosial, seperti membantu masyarakat, menjaga lingkungan, dan mendukung pembangunan berkelanjutan.
 
 Tujuannya agar perusahaan tidak hanya mencari keuntungan, tetapi juga memberi manfaat bagi masyarakat dan lingkungan di sekitar operasinya.
+
+## Pengendalian Sistematik
+
+Rakyat kecil dibuat sibuk hanya untuk mencari makan, sedangkan hak-hak mereka sudah dicuri oleh para petinggi negeri yang haus kekuasaan dan harta.

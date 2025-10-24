@@ -161,27 +161,3 @@ Preferred stocks atau saham preferen adalah sebuah saham yang memiliki karakteri
 ## Liability
 
 Liability atau liabilitas adalah kewajiban perusahaan kepada pihak lain yang harus dilunasi di masa depan, biasanya dalam bentuk pembayaran uang, barang, atau jasa.
-
-## Off Balance Sheet (OBS)
-
-Off-Balance Sheet (OBS) adalah istilah akuntansi dan keuangan untuk menyebut aset atau kewajiban yang tidak dicatat langsung di neraca perusahaan, tetapi masih bisa menimbulkan risiko atau keuntungan bagi perusahaan.
-
-## Special Purpose Vehicle (SPV)
-
-Special Purpose Vehicle (SPV) adalah entitas hukum khusus berbentuk perusahaan anak yang dibuat oleh perusahaan induk dengan tujuan tertentu, biasanya untuk mengisolasi risiko keuangan atau hukum dari induknya.
-
-## Fictitious Revenue
-
-Fictitious revenue adalah pendapatan fiktif atau pendapatan palsu yang dicatat dalam laporan keuangan padahal tidak benar-benar terjadi. Biasanya ini merupakan praktik manipulasi akuntansi atau kecurangan untuk membuat kinerja perusahaan terlihat lebih baik.
-
-## Liability Deferral
-
-Liability deferral adalah praktik akuntansi ketika suatu kewajiban (liability) ditunda pengakuannya sebagai beban (expense) sampai periode yang tepat di masa depan. Dengan kata lain, perusahaan sudah menerima kewajiban, tetapi pencatatannya di laporan laba rugi ditangguhkan agar sesuai dengan prinsip matching atau pendapatan dicocokkan dengan beban dalam periode yang sama.
-
-## Round-tripping
-
-Round-tripping adalah praktik transaksi keuangan atau bisnis yang membuat arus uang/barang berputar kembali ke pihak asal, sehingga tidak ada keuntungan ekonomi nyata, tetapi sering dipakai untuk memanipulasi laporan keuangan atau mempercantik kinerja.
-
-## Write-off Asset
-
-Write-off asset adalah tindakan akuntansi ketika perusahaan menghapus sebagian atau seluruh nilai aset dari pembukuannya karena aset tersebut sudah dianggap tidak lagi memiliki nilai ekonomis atau tidak bisa dipulihkan.

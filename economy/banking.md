@@ -26,6 +26,27 @@ Contoh:
 
 Repurchase Agreement (Repo) adalah perjanjian keuangan di mana satu pihak menjual aset seperti obligasi kepada pihak lain, dengan janji akan membeli kembali aset tersebut di kemudian hari dengan harga yang telah disepakati.
 
+## Giro
+
+Giro adalah jenis simpanan di bank yang bisa ditarik atau dipindahkan kapan saja menggunakan cek, bilyet giro, atau perintah pemindahbukuan.
+
+Berbeda dengan tabungan biasa, giro umumnya digunakan oleh perusahaan, lembaga, dan pemerintah karena memudahkan transaksi dalam jumlah besar dan frekuensi tinggi.
+
+Deskripsi:
+
+1. Pemilik rekening giro biasanya badan usaha atau instansi pemerintah.
+2. Bunga: sangat kecil.
+3. Fleksibilitas bisa menarik uang atau mentransfer kapan saja tanpa batasan jumlah penarikan.
+4. Bukti transaksi menggunakan cek atau bilyet giro (BG).
+
+Tujuan:
+
+Untuk mempermudah transaksi harian dan pembayaran, bukan untuk menabung atau investasi.
+
+Contoh:
+
+Misalnya, Pemprov Jawa Barat memiliki saldo Rp 3,8 triliun dalam rekening giro daerah. Dana itu digunakan untuk membayar proyek, gaji, dan kegiatan rutin. Dana tersebut tidak disimpan sebagai deposito untuk bunga, tetapi tetap tercatat di bank sampai benar-benar dibelanjakan.
+
 ## Reverse Repo Facility (RRP)
 
 Reverse Repo Facility (RRP) adalah instrumen kebijakan moneter yang digunakan bank sentral untuk menarik kelebihan likuiditas dari sistem keuangan secara sementara.
