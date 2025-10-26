@@ -8,6 +8,18 @@ Gratification atau suap adalah sesuatu yang diberikan kepada pejabat atau pegawa
 
 Collusion atau kolusi adalah kerjasama rahasia antara dua pihak atau lebih untuk tujuan yang curang atau melanggar hukum, biasanya untuk menguntungkan diri sendiri dan merugikan pihak lain.
 
+## Leakage
+
+Leakage berarti kebocoran dana publik, yaitu kondisi ketika dana dari pemerintah seperti bantuan sosial, dana desa, atau proyek pembangunan tidak sampai sepenuhnya ke penerima yang seharusnya.
+
+Contoh:
+
+Pemerintah menyalurkan Rp10 miliar untuk bantuan rakyat, tetapi yang benar-benar diterima rakyat hanya Rp7 miliar karena sisanya hilang di tengah jalan akibat korupsi atau penyalahgunaan. Ini disebut budget leakage atau fund leakage.
+
+## Jaul Beli Jabatan
+
+Jual beli jabatan adalah praktik korupsi di mana seseorang membayar sejumlah uang atau memberikan imbalan tertentu agar bisa mendapatkan atau mempertahankan jabatan tertentu, terutama di lingkungan birokrasi atau pemerintahan.
+
 ## Cartel
 
 Cartel adalah kerjasama atau kesepakatan antara beberapa perusahaan yang seharusnya bersaing, tetapi justru bekerja sama untuk mengendalikan pasar. Misalnya dengan menetapkan harga, membatasi produksi, atau membagi wilayah pemasaran.

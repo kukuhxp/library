@@ -89,3 +89,7 @@ Fungsi:
 ## Trias Politika
 
 Trias Politika adalah konsep pembagian kekuasaan negara menjadi tiga cabang utama, yaitu legislatif, eksekutif, dan yudikatif agar kekuasaan tidak terpusat pada satu pihak saja. Tujuannya adalah mencegah penyalahgunaan kekuasaan dan menciptakan sistem pemerintahan yang adil. Konsep ini pertama kali diperkenalkan oleh Montesquieu, seorang filsuf politik asal Prancis, dalam bukunya “L’Esprit des Lois”.
+
+## Guru dan Tenaga Kependidikan (GTK) 
+
+Guru dan Tenaga Kependidikan (GTK) adalah istilah resmi yang digunakan oleh Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Kemendikbudristek) untuk menyebut semua pihak yang berperan dalam penyelenggaraan pendidikan di sekolah, baik yang mengajar langsung maupun yang mendukung proses belajar-mengajar.

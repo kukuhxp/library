@@ -112,3 +112,8 @@ Deterministic dalam konteks AI adalah algoritma yang selalu memberikan hasil yan
 ## Temperature
 
 Temperature dalam konteks AI adalah parameter yang mengatur tingkat kreativitas atau keacakan dalam output model.
+
+## Generalized Knowledge Rollover (GKR)
+
+GKR (Generalized Knowledge Rollover) berarti kemampuan sistem untuk membawa pengetahuan umum yang telah dipelajari sebelumnya ke situasi baru, tanpa harus mempelajari semuanya dari awal.
+Konsep ini dekat dengan transfer learning, generalization, atau knowledge reuse dalam bidang AI dan cognitive science.

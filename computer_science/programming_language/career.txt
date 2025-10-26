@@ -1,10 +1,10 @@
 -------------------------------------------------------------------
-PROGRAMMING BASED
+CAREER
 -------------------------------------------------------------------
 Software Engineer: C++, C#, Java, JavaScript, Python
 Front-end Web Dev: JavaScript
 Back-end Web Dev: PHP, Python, Java, Go, Ruby
 Mobile App Dev: Dart, Kotlin, Java, Swift, React Native
 Game Enginer: C++, C#, Java
-AI: Python, Java, Julia, R, Haskell
+AI Engineering: Python, Java, Julia, R, Haskell
 Cyber Security: C++, Python, Perl

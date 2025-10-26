@@ -1,6 +1,9 @@
 -------------------------------------------------------------------
 STATEMENT
 -------------------------------------------------------------------
+"Jaga kesehatan jaga finansial"
+- Success
+
 "Uangmu untuk membangun apa?"
 - Investing
 

@@ -6,14 +6,26 @@ Social engineering adalah teknik manipulasi psikologis untuk membuat orang melak
 
 Phishing adalah bentuk serangan social engineering di mana penyerang menyamar sebagai pihak tepercaya seperti bank, perusahaan, layanan email, e-commerce, dll. untuk mengelabui korban agar memberikan informasi sensitif seperti username & password, nomor kartu kredit, dan data pribadi.
 
-Jenis-jenis dari serangan phising, adalah:
-- Homographic Phising
-- Email Phising
-- Spear Phising
-- Whaling
-- Smishing
-- Vishing
-- Clone Phising
+Jenis:
+
+1. Homographic Phising
+2. Email Phising
+3. Spear Phising
+4. Whaling
+5. Smishing
+6. Vishing
+7.  Clone Phisin
+
+8. Quishing
+
+Quishing adalah bentuk phishing modern yang menggunakan kode QR (Quick Response) untuk menipu korban agar memberikan data pribadi, kredensial login, atau informasi sensitif lainnya.
+
+Modus:
+
+1. Pelaku membuat kode QR palsu yang tampak sah.
+2. Kode itu ditempel atau disebar di email, brosur, pamflet, meja restoran, atau bahkan di atas QR resmi.
+3. Korban memindai kode QR, lalu diarahkan ke halaman palsu.
+4. Korban login atau memasukkan data, yang kemudian dicuri oleh pelaku.
 
 ## Pretexting
 

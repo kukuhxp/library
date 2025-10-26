@@ -36,6 +36,90 @@ Jenis:
 
 2. Tap MPR yang sudah dicabut/tidak berlaku, misalnya Tap MPR tentang Garis-Garis Besar Haluan Negara (GBHN) yang dihapus setelah amandemen UUD 1945.
 
+## Peraturan Pemerintah Pengganti Undang-Undang.(Perpu)
+
+Peraturan Pemerintah Pengganti Undang-Undang.(Perpu) adalah peraturan yang dibuat oleh Presiden dalam keadaan genting atau darurat, di mana tidak sempat melalui proses legislatif biasa di DPR. Tujuannya untuk mengatur hal-hal penting yang mendesak agar segera ada kepastian hukum.
+
+Setelah diterbitkan, Perpu harus diajukan ke DPR untuk disetujui menjadi undang-undang. Jika DPR menolak, Perpu itu batal. Contoh situasi penggunaan Perpu: bencana besar, krisis ekonomi mendadak, atau hal-hal yang memerlukan keputusan hukum cepat.
+
+## Peraturan Pemerintah (PP)
+
+Peraturan Pemerintah (PP) adalah peraturan yang dibuat oleh pemerintah untuk menjalankan Undang-Undang.
+
+Deskripsi:
+
+1. PP bersifat turunannya UU, artinya PP menjelaskan atau menegaskan bagaimana UU dijalankan.
+2. PP tidak bisa bertentangan dengan UU.
+3. Dibuat oleh Presiden dengan pertimbangan menteri terkait.
+4. PP langsung berlaku setelah diundangkan di Lembaran Negara.
+
+Contoh:
+
+UU mengatur tentang pendidikan, sedangkan PP menjelaskan detail pelaksanaan sistem pendidikan, kurikulum, atau administrasinya.
+
+## Peraturan Presiden (Perpres)
+
+Peraturan Presiden (Perpres) adalah peraturan yang ditetapkan oleh Presiden untuk menjalankan tugas pemerintahan.
+
+Deskripsi:
+
+Perpres dibuat berdasarkan UU atau PP. Artinya, Perpres tidak boleh bertentangan dengan UU atau PP.
+
+Fungsi:
+
+Mengatur hal-hal yang bersifat teknis atau pelaksanaan kebijakan Presiden.
+
+Penerapan:
+
+Berlaku setelah diundangkan, biasanya di Lembaran Negara.
+
+Contoh:
+
+Penunjukan pejabat negara, pengaturan proyek pemerintah, atau kebijakan ekonomi tertentu.
+
+## Peraturan Menteri (Permen)
+
+Peraturan Menteri (Permen) adalah peraturan yang ditetapkan oleh menteri untuk melaksanakan tugas dan kewenangannya sesuai UU, Perppu, PP, atau Perpres.
+
+Deskripsi:
+
+Permen dibuat berdasarkan peraturan yang lebih tinggi seperti UU, PP, atau Perpres.
+
+Fungsi:
+
+Mengatur teknis pelaksanaan kebijakan di bidang kementerian terkait.
+
+Penerapan:
+
+Biasanya spesifik pada tugas kementerian, misalnya standar pelayanan, prosedur administrasi, atau regulasi teknis.
+
+Contoh:
+
+1. Permen Kesehatan mengatur tata cara imunisasi.
+2. Permen Pendidikan mengatur kurikulum sekolah tertentu.
+
+## Peraturan Daerah (Perda)
+
+Peraturan Daerah (Perda) adalah peraturan yang ditetapkan oleh pemerintah daerah bersama DPRD untuk mengatur urusan pemerintahan di tingkat provinsi atau kabupaten/kota.
+
+Deskripsi:
+
+Perda dibuat berdasarkan UU dan peraturan pemerintah, sehingga tidak boleh bertentangan dengan peraturan yang lebih tinggi.
+
+Fungsi:
+
+Menyusun aturan lokal yang spesifik sesuai kebutuhan daerah, misalnya pajak daerah, retribusi, penggunaan lahan, atau kebijakan pendidikan lokal.
+
+Penerapan:
+
+Bisa berlaku di provinsi, kabupaten, atau kota, tergantung siapa yang membuatnya.
+
+Contoh:
+
+1. Perda tentang pengelolaan sampah di kota tertentu.
+2. Perda tentang pajak hotel atau restoran di provinsi tertentu.
+
+
 ## Keputusan Presiden (Keppres)
 
 Keputusan Presiden (Keppres) adalah peraturan atau keputusan yang bersifat administratif dan konkret yang dikeluarkan oleh Presiden untuk melaksanakan tugas dan wewenangnya yang diatur oleh UUD 1945 serta peraturan perundang-undangan lainnya.

@@ -9,7 +9,7 @@ Contoh:
 1. Dinas Kesehatan.
 2. Dinas Pendidikan.
 3. Dinas Kependudukan dan Catatan Sipil (Disdukcapil).
-4. Badan Keuangan Daerah
+4. Badan Keuangan Daerah.
 
 ## Badan Layanan Umum Daerah (BLUD)
 
@@ -19,3 +19,7 @@ Contoh:
 
 1. Rumah Sakit Umum Daerah (RSUD).
 2. Pusat Kesehatan Masyarakat (Puskesmas).
+
+## Dinas Lingkungan Hidup dan Kehutanan (DLHK)
+
+Dinas Lingkungan Hidup dan Kehutanan (DLHK) adalah instansi pemerintah daerah yang bertanggung jawab mengelola urusan lingkungan hidup dan kehutanan di wilayahnya. DLHK merupakan pelaksana kebijakan daerah dalam menjaga kelestarian lingkungan, mengelola hutan, mengawasi pencemaran, serta mengatur pemanfaatan sumber daya alam secara berkelanjutan.

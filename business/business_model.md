@@ -4,33 +4,45 @@ Business model atau model bisnis adalah cara kerja dari sebuah bisnis untuk meng
 
 ## Business-to-Business (B2B)
 
-Business-to-Business (B2B) adalah model bisnis di mana perusahaan menjual produk atau jasa kepada perusahaan lain, bukan langsung ke konsumen.
+Business-to-Business (B2B) adalah model bisnis di mana perusahaan menjual produk atau jasa kepada perusahaan lain, bukan langsung ke konsumen. Intinya, transaksinya antar bisnis, bukan ke konsumen individu.
 
-Contoh B2B:
+Contoh:
 
 1. Perusahaan pembuat mesin industri menjual mesin ke pabrik lain.
 2. Perusahaan software ERP menjual lisensi ke perusahaan-perusahaan lain.
 3. Distributor grosir menjual barang ke toko-toko retail.
 
-Intinya, transaksinya antar bisnis, bukan ke konsumen individu.
-
 ## Business-to-Consumer (B2C)
 
-Business-to-Consumer (B2C) adalah model bisnis di mana perusahaan menjual produk atau jasa langsung ke konsumen akhir.
+Business-to-Consumer (B2C) adalah model bisnis di mana perusahaan menjual produk atau jasa langsung ke konsumen akhir. Perbedaan utamanya dengan B2B adalah target pasarnya, jika B2B adalah bisnis dari perusahaan ke perusahaan, sedangkan B2C adalah bisnis dari perusahaan ke konsumen individu.
 
-Contoh B2C:
+Contoh:
 
 1. Sebuah perusahaan menjual produknya ke konsumen melalui platform e-commerce.
 2. Restoran menjual makanan langsung ke pelanggan.
 3. Perusahaan streaming seperti Netflix menjual langganan langsung ke pengguna.
 
-Perbedaan utamanya dengan B2B adalah target pasarnya, jika B2B adalah bisnis dari perusahaan ke perusahaan, sedangkan B2C adalah bisnis dari perusahaan ke konsumen individu.
+## Consumer-to-Business (C2B)
 
-## C2C
+Consumer-to-Business (C2B) adalah model bisnis di mana individu menawarkan produk atau jasa kepada perusahaan, dan perusahaan tersebut membayar atau menggunakan layanan dari konsumen tersebut.
 
-Consumer-to-Consumer adalah model bisnis di mana konsumen menjual barang atau jasa langsung ke konsumen lain, biasanya melalui platform perantara (marketplace).
+Deskripsi:
 
-Contoh C2C:
+1. Arah transaksi terbalik dari model tradisional (B2C).
+2. Konsumen memiliki kendali atau nilai yang ditawarkan ke bisnis.
+3. Umumnya difasilitasi oleh platform digital.
+
+Contoh:
+
+1. Seorang influencer dibayar oleh perusahaan untuk mempromosikan produk mereka.
+2. Seorang desainer grafis freelance menjual logo buatannya kepada perusahaan melalui platform seperti Fiverr atau 99designs.
+3. Konsumen memberikan ulasan berbayar atau data survei kepada perusahaan.
+
+## Consumer-to-Consumer (C2C)
+
+Consumer-to-Consumer (C2C) adalah model bisnis di mana konsumen menjual barang atau jasa langsung ke konsumen lain, biasanya melalui platform perantara (marketplace).
+
+Contoh:
 
 1. Perorangan menjual barang ke perorangan lain melalui platform e-commerce.
 2. Seseorang menjual barang preloved ke orang lain.

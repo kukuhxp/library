@@ -12,3 +12,6 @@ STATEMENT
 
 "Bunga pinjaman adalah cara mencetak uang baru bagi bank"
 - Bank
+
+"Jangan pernah beri tahu penghasilanmu ke orang lain"
+- Finance
