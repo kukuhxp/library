@@ -1,0 +1,21 @@
+-------------------------------------------------------------------
+RISK PROFILE
+-------------------------------------------------------------------
+Modal Kecil Resiko Rendah
+- Mutual Funds
+- Gold
+
+Modal Kecil Resiko Tinggi
+- CFD
+- Futures
+- Options
+- Forwards
+- Swaps
+- Cryptocurrency 
+
+Modal Besar Resiko Rendah
+- Bond
+- Real Estate
+
+Modal Besar Resiko Tinggi
+- Stocks/ETF

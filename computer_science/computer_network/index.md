@@ -339,3 +339,20 @@ Wi-Fi Standard (IEEE 802.11) adalah standar jaringan nirkabel yang ditetapkan ol
 - 802.11ac/Wi-Fi 5: 1.3 Gbps (5 GHz)
 - 802.11ax/Wi-Fi 6): 9.6 Gbps (2.4 & 5 GHz)
 - 802.11be/Wi-Fi 7: > 30 Gbps (6 GHz)
+
+## Top-level Domain (TLD)
+
+Top-Level Domain (TLD) adalah bagian paling akhir dari sebuah nama domain di internet, yaitu huruf-huruf setelah tanda titik terakhir (.) dalam sebuah alamat web.
+
+Contoh:
+
+Commercial (.com): Perusahaan, bisnis, situs umum.
+Organization (.org): Organisasi non-profit, komunitas, yayasan.
+Network (.net): Layanan internet, teknologi, startup IT
+Education (.edu): Institusi pendidikan.
+Government (.gov): Lembaga pemerintahan.
+Military (.mil): Militer (khusus Amerika Serikat).
+Company (.co): Alternatif dari .com, sering dipakai startup.
+Indian Ocean (.io): Populer di kalangan startup teknologi.	
+Business (.biz): Usaha kecil atau toko online.
+Information (.info): Situs berisi informasi umum.

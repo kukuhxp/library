@@ -74,3 +74,18 @@ Contoh:
 2. Otoritas Jasa Keuangan (OJK) sebagai pengawasan sektor keuangan.
 3. Komisi Pemberantasan Korupsi (KPK) sebagai pemberantasan korupsi.
 4. Komisi Pemilihan Umum (KPU) sebagai penyelenggaraan pemilu.
+
+## Satuan Pelayanan Pemenuhan Gizi (SPPG)
+
+Satuan Pelayanan Pemenuhan Gizi (SPPG) adalah unit ini didirikan sebagai bagian dari program nasional untuk mendistribusikan makanan bergizi, terutama melalui program Program Makan Bergizi Gratis (MBG) kepada kelompok sasaran seperti siswa sekolah, ibu hamil, ibu menyusui, dan balita. 
+
+Fungsi:
+
+1. Menjadi dapur umum atau unit operasional yang menyiapkan dan mendistribusikan makanan bergizi sesuai standar BGN. 
+2. Memastikan menu yang disajikan memenuhi gizi, higienis, dan aman sesuai standar. 
+3. Membuka kemitraan dengan berbagai lembaga seperti yayasan, perusahaan, instansi untuk operasionalnya. 
+4. Mendorong peran ekonomi lokal melalui penyediaan tenaga kerja dan bahan baku lokal.
+
+## Trias Politika
+
+Trias Politika adalah konsep pembagian kekuasaan negara menjadi tiga cabang utama, yaitu legislatif, eksekutif, dan yudikatif agar kekuasaan tidak terpusat pada satu pihak saja. Tujuannya adalah mencegah penyalahgunaan kekuasaan dan menciptakan sistem pemerintahan yang adil. Konsep ini pertama kali diperkenalkan oleh Montesquieu, seorang filsuf politik asal Prancis, dalam bukunya “L’Esprit des Lois”.

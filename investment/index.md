@@ -12,59 +12,61 @@ Sebaliknya, bearish adalah kondisi ketika harga bergerak turun secara berkelanju
 
 Compound interest atau bunga majemuk adalah bunga yang dihitung dari modal awal plus akumulasi bunga sebelumnya. Artinya, bunga yang kamu dapatkan akan ikut menghasilkan bunga lagi di periode berikutnya.
 
-Rumus dasar compound interest:
+Rumus:
+
 A = P \times (1 + r)^t
 
 Keterangan:
+
 A = jumlah akhir (modal + bunga)
 P = modal awal (principal)
 r = tingkat bunga per periode (dalam desimal, misal 5% = 0,05)
 t = jumlah periode waktu
 
 Contoh:
+
 menabung Rp1.000.000 dengan bunga 10% per tahun selama 3 tahun.
-
-Perhitungan:
 A = 1.000.000 \times (1 + 0,1)^3 = 1.000.000 \times 1,331 = 1.331.000
-
 Jadi setelah 3 tahun, tabunganmu menjadi Rp1.331.000, bukan Rp1.300.000 seperti pada bunga sederhana.
 
 ## Return
 
 Return adalah tingkat keuntungan atau kerugian yang diperoleh dari suatu investasi dalam periode tertentu. Sederhananya, return = hasil investasi.
 
-Rumus Umum Return
+Rumus:
+
 Return = ((Nilai Akhir - Nilai Awal) / Nilai_Awal) * 100%
 
-Contohnya:
-Kamu investasi Rp10.000.000
-Setelah 1 tahun menjadi Rp11.000.000
+Contoh:
 
+Kamu investasi Rp10.000.000, setelah 1 tahun menjadi Rp11.000.000. Maka perhitungannya adalah
 Return = ((11,000,000 - 10,000,000) / 10,000,000) * 100%
 Return = 10%
 
-Berikut ini adalah return realistis untuk spekulasi dan investasi;
-1. Speculation
-Retail trader realistis: 2% - 5% per bulan.
+## Variable Return
 
-2. Investing
-Investor menargetkan return tahunan.
-Stocks: 10% per tahun.
-Bond: 3% – 6% per tahun.
+CFD: 2% - 5% per bulan.
+Money Market Mutual Fund: 3 - 7% per tahun.
+ETF: 3% - 7% per tahun.
 Gold: 4% - 8% per tahun.
-ETF: 3% - 7% per tahun
-Deposit: 
+Stocks: 5 - 10% per tahun.
+Bitcoin: 20% - 80% per tahun.
 
-Investor legendaris seperti Warren Buffett menghasilkan sekitar 20% per tahun selama puluhan tahun, dan itu sudah dianggap luar biasa.
+## Fixed Return
+
+Fixed Mutual Fund
+Deposit
+Bond
+P2P Lending
 
 ## Real Return
 
 Real return adalah tingkat pengembalian investasi setelah memperhitungkan inflasi. Artinya, real return menunjukkan seberapa besar peningkatan daya beli yang sebenarnya kamu dapat dari investasi, bukan hanya kenaikan nominal.
 
 Contoh:
+
 Return investasi = 8% per tahun
 Inflasi = 3% per tahun
-
 Jadi real return kamu sekitar 4,85%, artinya daya beli meningkat sebesar itu setelah inflasi diperhitungkan.
 
 ## Stop Loss
@@ -77,6 +79,7 @@ Untuk stop loss ideal adalah 2% dari ekuitas.
 Cut loss adalah istilah yang digunakan dalam investasi yang artinya menjual suatu aset untuk membatasi kerugian sebelum kerugian tersebut menjadi lebih besar. Cut loss perlu dipertimbangkan baik-baik, agar nantinya kita siap menerima kerugian saat berinvestasi.
 
 Berikut ini adalah beberapa pertimbangan saat melakukan cut loss:
+
 1. Fundamental Perusahaan Memburuk
 Laba bersih menurun terus-menerus dan utang membengkak hingga tidak sehat.
 
@@ -96,12 +99,14 @@ Kalau tadinya bisa tahan fluktuasi, tapi sekarang butuh dana lebih cepat, maka k
 
 Broker/Pialang/Sekuritas adalah sebuah perusahaan yang menghubungkan para trader ke pasar saham. Umumnya, broker akan memberikan brban biaya untuk transaksi bid dan ask. Broker merupakan anggita bursa yang telah terdaftar di bursa saham. Broker mempunyai sebuah kode keanggotaan, seperti kode XL untuk broker Stockbit dan kode CC untuk broker Ajaib.
 
-FX/CFD BROKERS PRO:
+CFD BROKERS PRO:
+
 - CMC Markets
 - Swissquote
 - XTB
 
 MULTI-ASSET BROKERS PRO:
+
 - Charles Schwab
 - E*Trade
 - IG Group
@@ -114,6 +119,7 @@ MULTI-ASSET BROKERS PRO:
 Safe haven adalah instrumen investasi yang dianggap aman saat terjadi ketidakpastian ekonomi, krisis keuangan, atau gejolak pasar. Investor biasanya memindahkan uang ke safe haven untuk melindungi nilai kekayaan mereka.
 
 Berikut ini adalah beberapa aset safe haven:
+
 1. Emas (Gold), karena nilainya stabil selama ribuan tahun
 2. Obligasi AS (US Treasury), karena dijamin pemerintah AS, sangat aman
 3. Dolar AS (USD), karena.mata uang cadangan dunia, likuid dan kuat

@@ -210,3 +210,17 @@ Managed float atau dirty float adalah sistem nilai tukar di mana mata uang sebag
 ## Currency Board
 
 Currency board adalah sistem moneter di mana mata uang domestik dijamin 100% oleh mata uang asing atau aset cadangan tertentu, sehingga nilai tukarnya tetap secara otomatis tanpa perlu intervensi aktif dari bank sentral.
+
+## Debt Restructuring
+
+Debt restructuring adalah proses penyesuaian ulang kondisi utang suatu pihak—bisa perusahaan, individu, atau negara—dengan tujuan mempermudah pembayaran dan menghindari default (gagal bayar).
+
+Deskripsi:
+
+1. Perpanjangan jangka waktu utang atau tenor extension, dengan waktu pembayaran utang diperpanjang sehingga cicilan lebih ringan.
+
+2. Penurunan tingkat bunga atau interest rate reduction, dengan bunga utang diturunkan agar beban pembayaran lebih ringan.
+
+3. Pengurangan pokok utang atau principal reduction atau haircuts, dengan sebagian utang dihapus atau dikurangi.
+
+4. Konversi utang menjadi ekuitas atau debt-to-equity swap), dengan utang diubah menjadi saham perusahaan, sehingga pemberi utang menjadi pemilik sebagian.
