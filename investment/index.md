@@ -33,6 +33,14 @@ Jadi setelah 3 tahun, tabunganmu menjadi Rp1.331.000, bukan Rp1.300.000 seperti 
 
 Return adalah tingkat keuntungan atau kerugian yang diperoleh dari suatu investasi dalam periode tertentu. Sederhananya, return = hasil investasi.
 
+Instrument:
+
+1. Fixed Income Mutual Fund
+2. Deposit
+3. Bond
+4. P2P Lending
+5. Dividend Stocks
+
 Rumus:
 
 Return = ((Nilai Akhir - Nilai Awal) / Nilai_Awal) * 100%
@@ -43,21 +51,17 @@ Kamu investasi Rp10.000.000, setelah 1 tahun menjadi Rp11.000.000. Maka perhitun
 Return = ((11,000,000 - 10,000,000) / 10,000,000) * 100%
 Return = 10%
 
-## Variable Return
+# Capital Gain
 
-CFD: 2% - 5% per bulan.
-Money Market Mutual Fund: 3 - 7% per tahun.
-ETF: 3% - 7% per tahun.
-Gold: 4% - 8% per tahun.
-Stocks: 5 - 10% per tahun.
-Bitcoin: 20% - 80% per tahun.
+Capital gain adalah keuntungan yang diperoleh dari kenaikan nilai suatu aset investasi ketika aset tersebut dijual dengan harga lebih tinggi daripada harga belinya.
 
-## Fixed Return
+Instrument:
 
-Fixed Mutual Fund
-Deposit
-Bond
-P2P Lending
+1. Money Market Mutual Fund
+2. Exchange-traded Fund (ETF)
+3. Stocks
+4. Gold/Silver
+6. Bitcoin/Cryptocurrency
 
 ## Real Return
 
@@ -546,10 +550,6 @@ Store of value atau penyimpan nilai adalah fungsi dari uang atau aset yang memun
 
 Net Investment Returns Contribution (NIRC) adalah kontribusi hasil investasi bersih. Istilah yang digunakan terutama oleh pemerintah Singapura untuk menggambarkan porsi hasil investasi dari aset negara yang digunakan untuk membiayai pengeluaran publik.
 
-## Capital Gain
-
-Capital gain adalah keuntungan yang diperoleh dari kenaikan nilai suatu aset investasi ketika aset tersebut dijual dengan harga lebih tinggi daripada harga belinya.
-
 ## Discounted Cash Flow (DCF)
 
 Discounted Cash Flow (DCF) adalah metode penilaian atau valuation method yang digunakan untuk menentukan nilai sekarang (present value) dari suatu aset, perusahaan, atau proyek berdasarkan proyeksi arus kas masa depan atau future cash flows yang didiskon menggunakan tingkat pengembalian yang diharapkan.
@@ -589,3 +589,7 @@ Liquidation atau likuidasi adalah menutup posisi jual atau beli kembali aset yan
 ## Selfoff
 
 Selloff atau penjualan massal adalah aksi jual besar-besaran terhadap suatu aset, sehingga menyebabkan harga aset tersebut turun tajam dalam waktu singkat.
+
+## Do Your Own Research (DYOR)
+
+Do Your Own Research (DYOR) adalah istilah yang merujuk pada nasihat agar untuk melakukan penelitian atau analisa pasar secara mandiri, bukan karena mengikuti arahan orang lain.

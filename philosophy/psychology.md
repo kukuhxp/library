@@ -79,7 +79,6 @@ Kalau tempramennya sudah mengarah ke perilaku yang merugikan (kasar, merendahkan
 
 Boleh katakan, “Saya mau mendengarkan, tapi tolong bicara dengan lebih tenang.”
 
-
 7. Fokus ke Solusi, Bukan Emosi
 Arahkan pembicaraan ke solusi praktis, bukan saling menyalahkan.
 
@@ -107,3 +106,37 @@ Kebahagiaan Anda tidak boleh sepenuhnya bergantung pada orang lain. Semakin Anda
 ## Nonconformist
 
 Nonconformist adalah seseorang yang tidak mengikuti atau menolak untuk menyesuaikan diri dengan norma, aturan, atau kebiasaan yang umum diterima dalam masyarakat.
+
+## Sympathy
+
+Sympathy atau simpati adalah perasaan iba, peduli, atau ikut merasakan kesedihan dan penderitaan orang lain. Secara sederhana, simpati berarti kamu merasa sedih karena orang lain sedang sedih, meskipun kamu tidak mengalami hal yang sama secara langsung.
+
+Contoh:
+
+Saat temanmu kehilangan orang yang dicintai, kamu berkata, “Aku ikut berduka ya, semoga kamu kuat.”. Itu adalah bentuk simpati.
+
+## Empathy
+
+Empathy atau empati adalah kemampuan untuk memahami dan merasakan apa yang dirasakan orang lain, seolah-olah kamu berada di posisi mereka. Kalau simpati berarti “aku kasihan padamu”, maka empati berarti “aku bisa merasakan apa yang kamu rasakan.”
+
+Jenis:
+
+1. Empati Kognitif
+Kemampuan untuk memahami perasaan dan sudut pandang orang lain.
+Contoh: “Aku tahu kamu marah karena merasa tidak dihargai.”
+
+2. Empati Affectif
+Kemampuan untuk merasakan emosi orang lain dalam dirimu.
+Contoh: Kamu ikut merasa sedih saat temanmu menangis, padahal itu bukan masalahmu langsung.
+
+3. Empati Compassionate Empathy
+Bukan hanya memahami dan merasakan, tapi juga ingin membantu.
+Contoh: Kamu melihat seseorang kesulitan, lalu tergerak untuk menolongnya.
+
+Contoh:
+
+Bayangkan temanmu gagal dalam ujian. Kalau kamu berkata, “Kasihan banget, semoga kamu nggak sedih lagi.”, itu adalab simpati. Tapi kalau kamu berkata, “Aku tahu rasanya gagal, aku juga pernah di posisi itu, rasanya sakit banget.”, itu adalah empati.
+
+## Antipathy
+
+Antipathy atau antipati adalah perasaan tidak suka, benci, atau penolakan yang kuat terhadap seseorang atau sesuatu. Secara sederhana, antipati adalah kebalikan dari simpati.

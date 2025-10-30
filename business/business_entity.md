@@ -168,7 +168,21 @@ Pension fund atau dana pensiun adalah lembaga atau dana yang dibentuk untuk meng
 
 Contoh:
 
-- Dana Pensiun Pemberi Kerja (DPPK)
-- Dana Pensiun Lembaga Keuangan (DPLK)
-- Taspen
-- ASABRI
+1. Dana Pensiun Pemberi Kerja (DPPK)
+2. Dana Pensiun Lembaga Keuangan (DPLK)
+3. Taspen
+4. ASABRI
+
+## Sovereign Wealth Fund (SWF)
+
+Sovereign Wealth Fund (SWF) atau Dana Kekayaan Negara adalah kumpulan aset atau dana yang dimiliki dan dikelola oleh pemerintah suatu negara untuk tujuan investasi jangka panjang.
+
+Biasanya, dana ini berasal dari surplus anggaran, pendapatan ekspor sumber daya alam, dividen saham, atau cadangan devisa.
+
+Contoh:
+
+1. Norges Bank Investment Management
+2. Temasek
+
+
+

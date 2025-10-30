@@ -347,3 +347,53 @@ Dunia memang diciptakan dalam kondisi seperti ini (buruk). Orang-orang yang kaya
 • Membuat mayoritas manusia tetap sakit secara mental dan fisik.
 • Bekerja sama dengan para politisi.
 • Bermain monopoli di dunia bisnis.
+
+## Term of Service (TOS)
+
+Term of Service (TOS) atau Ketentuan Layanan adalah perjanjian antara pengguna dan penyedia layanan yang mengatur aturan penggunaan layanan tersebut.
+
+## Disclaimer
+
+Disclaimer adalah pernyataan penafian tanggung jawab artinya, sebuah kalimat atau dokumen yang dibuat untuk menjelaskan batas tanggung jawab seseorang, perusahaan, atau situs web terhadap informasi atau layanan yang mereka berikan.
+
+Disclaimer digunakan agar pembuat konten, penulis, atau penyedia layanan tidak disalahkan jika terjadi kesalahpahaman, kerugian, atau dampak negatif akibat penggunaan informasi mereka.
+
+## Pricing
+
+Pricing atau penetapan harga, yaitu proses menentukan berapa harga yang harus dibayar oleh konsumen untuk membeli suatu produk atau jasa.
+
+Penjelasan:
+
+1. Hitung Biaya Produksi (Cost)
+Harga dasar harus menutup semua biaya:
+
+Rumus:
+
+Total biaya per unit = (Total biaya tetap + Total biaya variabel) ÷ Jumlah unit
+
+Keterangan:
+
+- Biaya tetap (fixed cost) = sewa tempat, gaji karyawan, listrik, dll.
+- Biaya variabel (variable cost) =  bahan baku, ongkos kirim, kemasan, dll
+
+2. Tentukan Margin Keuntungan
+Tambahkan keuntungan yang diinginkan per produk.
+Misal kamu ingin untung 30% dari biaya produksi.
+
+Rumus:
+
+Harga jual = Biaya per unit × (1 + Margin keuntungan)
+
+Contoh:
+
+Biaya per unit = Rp50.000
+Margin = 30% → 0.3
+Harga jual = Rp50.000 × 1.3 = Rp65.000
+
+3. Lihat Harga Pasar / Kompetitor
+Cari tahu berapa harga barang sejenis di pasaran. Jika harga kamu jauh di atas, pastikan ada nilai tambah seperti kualitas lebih tinggi, desain eksklusif, ayanan purna jual, dll. Kalau terlalu rendah, bisa jadi kamu tidak menutup biaya atau menciptakan kesan murahan.
+
+4. Perhatikan Target Pasar
+Harga harus sesuai daya beli dan persepsi pelanggan. Segmen premium dengan harga tinggi, tapi kualitas tinggi, sedangkan segmen mass market dengan harga terjangkau, tapi volume tinggi.
+
+5. Gunakan Pricing Strategi
