@@ -1,26 +1,25 @@
 ------------------------------------------------------------------
-HEROKU DEPLOYMENT
+QUESTION & ANSWER
 ------------------------------------------------------------------
-Files:
+Q: Bagaimana untuk men-deploy aplikasi kita di Heroku?
 
-1. Your project files
-2. index.php
-3. composer.json
-------------------------------------------------------------------
-REQUIREMENTS FILES
-------------------------------------------------------------------
-index.php:
+A: Berikut ini adalah tahapan untuk men-deploy aplikasi kita ke Heroku:
+
+Persiapan:
+
+1. Your project files.
+2. index.php:
 
 <?php
   include_once('index.html');
 ?>
 
-composer.json:
+3. composer.json:
 
 `{}`
-------------------------------------------------------------------
-DEPLOYING THE PROJECT
-------------------------------------------------------------------
+
+Tahapan:
+
 1. Open your terminal and go to ypur inside project folder.
 2. If you haven't create the repo in your project, create the repo with using git command: `git init`
 3. Add all file to stage: `git add --all`
