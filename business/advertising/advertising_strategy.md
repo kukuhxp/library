@@ -8,33 +8,16 @@ Tahapan:
 
 1. Awareness
 Tahap di mana konsumen mengetahui keberadaan produk atau merek.
-Tujuannya adalah menarik perhatian.
-
-Contoh:
-
-Melihat iklan smartphone baru di media sosial.
+Tujuannya adalah menarik perhatian. Contoh, melihat iklan smartphone baru di media sosial.
 
 2. Interest
-Setelah sadar, konsumen mulai tertarik dan ingin tahu lebih banyak.
-
-Contoh:
-
-Mencari review atau spesifikasi smartphone tersebut di YouTube.
+Setelah sadar, konsumen mulai tertarik dan ingin tahu lebih banyak. Contoh, mencari review atau spesifikasi smartphone tersebut di YouTube.
 
 3. Desire
-Konsumen mulai ingin memiliki produk itu karena merasa cocok atau butuh.
-
-Contoh:
-
-Mulai berpikir, “Smartphone ini kamera dan fiturnya pas banget buatku.”
+Konsumen mulai ingin memiliki produk itu karena merasa cocok atau butuh. Contoh, mulai berpikir, “Smartphone ini kamera dan fiturnya pas banget buatku.”
 
 4. Action
-Tahap akhir di mana konsumen mengambil keputusan membeli.
-
-Contoh:
-
-Membeli smartphone tersebut secara online.
-
+Tahap akhir di mana konsumen mengambil keputusan membeli. Contoh, membeli smartphone tersebut secara online.
 
 ## Hierarchy of Effects
 
@@ -44,58 +27,23 @@ Model ini menunjukkan bahwa pembelian tidak terjadi secara langsung, melainkan m
 
 Tahapan:
 
-1. Awareness
-Konsumen mulai tahu bahwa produk atau merek itu ada.
+1. Awareness (Cognitive)
+Konsumen mulai tahu bahwa produk atau merek itu ada. Contoh, melihat iklan sepatu Nike.
 
-Contoh:
+2. Knowledge (Cognitive)
+Konsumen mencari informasi dan memahami produk lebih dalam. Contoh, membaca detail sepatu di website.
 
-Melihat iklan sepatu Nike.
+3. Liking (Affective)
+Konsumen mulai menyukai produk secara emosional. Contoh, tertarik dengan desain dan gaya Nike.
 
-2. Knowledge
-Konsumen mencari informasi dan memahami produk lebih dalam.
+4. Preference (Affective)
+Konsumen membandingkan dengan merek lain dan mulai memiliki pilihan favorit. Contoh, memilih Nike daripada Adidas.
 
-Contoh:
+5. Conviction (Affective)
+Konsumen yakin bahwa produk itu pilihan terbaik. Contoh, yakin sepatu Nike cocok untuk olahraga.
 
-Membaca detail sepatu di website.
-
-3. Liking
-Konsumen mulai menyukai produk secara emosional
-
-Contoh:
-
-Tertarik dengan desain dan gaya Nike.
-
-4. Preference
-Konsumen membandingkan dengan merek lain dan mulai memiliki pilihan favorit.
-
-Contoh:
-
-Memilih Nike daripada Adidas.
-
-5. Conviction
-Konsumen yakin bahwa produk itu pilihan terbaik
-
-Contoh:
-
-Yakin sepatu Nike cocok untuk olahraga.
-
-6. Purchase
-Konsumen mengambil tindakan membeli produk.
-
-Contoh:
-
-Membeli sepatu Nike di toko online.
-
-3 Tingkat Utama dalam Model Ini:
-
-1. Cognitive
-Konsumen mengetahui dan memahami produk (Awareness, Knowledge).
-
-2. Affective
-Konsumen mulai menyukai dan lebih percaya pada produk (Liking, Preference, Conviction)
-
-3. Conative
-Konsumen akhirnya membeli produk (Purchase).
+6. Purchase (Conative)
+Konsumen mengambil tindakan membeli produk. Contoh, membeli sepatu Nike di toko online.
 
 ## DAGMAR
 
@@ -106,32 +54,16 @@ Model ini diperkenalkan oleh Russell H. Colley pada tahun 1961 melalui bukunya y
 Tahapan;
 
 1. Awareness
-Konsumen menyadari adanya merek atau produk.
-
-Contoh:
-
-Melihat iklan smartphone baru di YouTube.
+Konsumen menyadari adanya merek atau produk. Contoh, melihat iklan smartphone baru di YouTube.
 
 2. Comprehension
-Konsumen memahami informasi, fitur, dan manfaat produk.
-
-Contoh:
-
-Mengetahui bahwa smartphone itu punya kamera 108 MP dan baterai besar.
+Konsumen memahami informasi, fitur, dan manfaat produk. Contoh, mengetahui bahwa smartphone itu punya kamera 108 MP dan baterai besar.
 
 3. Conviction
-Konsumen mulai percaya dan yakin bahwa produk itu layak dibeli
-
-Contoh:
-
-Yakin smartphone itu lebih bagus dibanding pesaing.
+Konsumen mulai percaya dan yakin bahwa produk itu layak dibeli Contoh, yakin smartphone itu lebih bagus dibanding pesaing.
 
 4. Action
-Konsumen akhirnya melakukan pembelian.
-
-Contoh:
-
-Membeli smartphone tersebut di toko online.
+Konsumen akhirnya melakukan pembelian. Contoh, membeli smartphone tersebut di toko online.
 
 ## Integrated Marketing Communication (IMC)
 
