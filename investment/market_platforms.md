@@ -67,3 +67,7 @@ Citi Velocity adalah platform trading dan riset elektronik milik Citigroup (Citi
 ## Autobahn
 
 Autobahn adalah platform trading elektronik milik Deutsche Bank untuk klien institusional.
+
+## P2P Lending
+
+P2P lending adalah platform pinjam-meminjam uang secara online yang menghubungkan langsung antara lender dan borrower, tanpa melalui lembaga keuangan tradisional seperti bank.

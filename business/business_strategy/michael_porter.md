@@ -2,6 +2,10 @@
 
 Michael Porter adalah seorang profesor dari Harvard Business School yang sangat terkenal dalam dunia bisnis dan manajemen strategi. Ia dikenal sebagai bapak strategi kompetitif dan telah banyak berkontribusi melalui teori-teorinya yang digunakan secara luas dalam dunia bisnis, pemerintahan, hingga organisasi non-profit.
 
+## Diamond Model
+
+Diamond model adalah kerangka analisis yang dikembangkan oleh Michael Porter untuk menjelaskan mengapa suatu negara atau wilayah tertentu memiliki keunggulan kompetitif dalam industri tertentu. Model ini disebut juga Porter’s Diamond Model dan digunakan untuk menganalisis daya saing suatu negara atau klaster industri.
+
 ## Porter's Five Forces
 
 Porter's five forces adalah model analisis industri yang dikembangkan oleh Michael E. Porter untuk memahami tingkat persaingan dan daya tarik sebuah industri. Model ini membantu bisnis untuk menganalisis posisi mereka dalam pasar dan merancang strategi kompetitif yang efektif. Ada 5 model analisis yang digunakan oleh Michael Porter, yaitu:

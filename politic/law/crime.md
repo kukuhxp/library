@@ -101,8 +101,16 @@ Contoh: Barang sebenarnya senilai $10.000, tapi invoice yang dikirim ke bea cuka
 
 ## Over-imvoicing
 
-Over-invoicing  adalah praktik mencatat nilai barang atau jasa di faktur lebih tinggi dari harga sebenarnya. Biasanya dilakukan untuk tujuan ilegal seperti pencucian uang, pengalihan dana ke luar negeri, atau penghindaran pajak.
+Over-invoicing adalah praktik mencatat nilai barang atau jasa di faktur lebih tinggi dari harga sebenarnya. Biasanya dilakukan untuk tujuan ilegal seperti pencucian uang, pengalihan dana ke luar negeri, atau penghindaran pajak.
 
 Contoh:
 
 Sebuah perusahaan membeli barang dari luar negeri dengan harga sebenarnya $10.000, tetapi di invoice ditulis $15.000. Selisih $5.000 bisa digunakan untuk mengirim uang ke luar negeri secara terselubung atau dicatat sebagai biaya pembelian agar laba.
+
+## Cut Corners
+
+Cut corners adalah melakukan sesuatu dengan cara yang lebih mudah, cepat, atau murah, tetapi mengorbankan kualitas, keselamatan, atau standar yang seharusnya.
+
+## Cash-intensive Bussiness
+
+Cash-intensive business adalah sebuah bisnis yang sebagian besar transaksi keuangannya menggunakan uang tunai. Karena transaksi bisnis tersebut tidak menggunakan sistem elektronik perbankan, maka bisnis tersebut sangat rentan dari pencucian uang atau penghindaran pajak.

@@ -855,3 +855,7 @@ JavaServer Pages (JSP) adalah teknologi dari Java yang digunakan untuk membuat h
 ## Servlets
 
 Servlet adalah program Java yang berjalan di sisi server dan digunakan untuk menangani permintaan dan memberikan tanggapan dalam aplikasi web.
+
+## Search Engine Optimization (SEO)
+
+Search Engine Optimization (SEO) adalah proses mengoptimalkan sebuah website agar muncul di peringkat atas hasil pencarian mesin pencari.
