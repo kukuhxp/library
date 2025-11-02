@@ -3,152 +3,53 @@ QUESTION & ANSWER
 ------------------------------------------------------------------
 Q: Dari mana sumber data yang dilatih ke GPT?
 
-A: Pertanyaan yang sangat penting — dan inti dari bagaimana GPT bisa “pintar” memahami bahasa manusia. 🧠
+A: GPT dilatih dari campuran besar teks publik, data berlisensi, dan data yang dibuat atau dikurasi oleh manusia.
 
-Jawaban singkatnya:
+1. Tiga Sumber Utama Data Latihan GPT
 
-> GPT dilatih dari campuran besar teks publik, data berlisensi, dan data yang dibuat atau dikurasi oleh manusia.
+A. Publicly Available Data
+Ini mencakup teks yang tersedia secara terbuka di internet, seperti artikel dari situs web umum, forum publik seperti Reddit, Stack Overflow, Wikipedia, buku domain publik seperti Project Gutenberg, dan berita dan blog yang bebas lisensi. Semua data ini bersifat publik, bukan data pribadi atau tertutup.
 
+B. Licensed Data
 
+OpenAI juga membeli atau memiliki lisensi dari berbagai sumber resmi, seperti dataset buku, jurnal, artikel premium, porpus bahasa dari penerbit atau lembaga tertentu, data yang dikurasi dari penyedia dataset komersial. Data-data ini tidak gratis di internet, tetapi diperoleh secara legal melalui kerja sama atau lisensi.
 
-Mari kita bahas secara sistematis dan transparan 👇
+C. Synthetic Data
 
+Ini termasuk data yang dibuat oleh trainer manusia seperti dialog contoh, pertanyaan-jawaban, atau skenario edukatif. Data hasil fine-tuning melalui Reinforcement Learning from Human Feedback (RLHF), di mana manusia menilai jawaban mana yang paling baik, lalu model belajar menirunya.
 
----
+Contoh:
 
-🗂️ 1. Tiga Sumber Utama Data Latihan GPT
-
-🧾 a. Data Publik (Publicly Available Data)
-
-Ini mencakup teks yang tersedia secara terbuka di internet, misalnya:
-
-Artikel dari situs web umum
-
-Forum publik (seperti Reddit, Stack Overflow, Wikipedia, dsb)
-
-Buku domain publik (misal Project Gutenberg)
-
-Berita dan blog yang bebas lisensi
-
-
-🟢 Semua data ini bersifat publik, bukan data pribadi atau tertutup.
-
-
----
-
-📚 b. Data Berlisensi (Licensed Data)
-
-OpenAI juga membeli atau memiliki lisensi dari berbagai sumber resmi, misalnya:
-
-Dataset buku, jurnal, dan artikel premium
-
-Korpus bahasa dari penerbit atau lembaga tertentu
-
-Data yang dikurasi dari penyedia dataset komersial
-
-
-🔒 Data ini tidak gratis di internet, tetapi diperoleh secara legal melalui kerja sama atau lisensi.
-
-
----
-
-🧍‍♂️ c. Data Buatan Manusia (Human-Curated / Synthetic Data)
-
-Ini termasuk:
-
-Data yang dibuat oleh trainer manusia (misalnya dialog contoh, pertanyaan-jawaban, atau skenario edukatif).
-
-Data hasil fine-tuning melalui Reinforcement Learning from Human Feedback (RLHF) — di mana manusia menilai jawaban mana yang paling baik, lalu model belajar menirunya.
-
-
-💬 Contoh:
-Seorang pelatih manusia memberi dua versi jawaban:
-
-> A: “Langit biru karena refleksi laut.”
-B: “Langit tampak biru karena hamburan cahaya (Rayleigh scattering).”
+Seorang pelatih manusia memberi dua versi jawaban.
+A. “Langit biru karena refleksi laut.”
+B. “Langit tampak biru karena hamburan cahaya (Rayleigh scattering).”
 Model dilatih agar memilih B sebagai jawaban yang lebih benar.
 
+2. Apa yang tidak digunakan
+
+GPT tidak dilatih dari data pribadi pengguna ChatGPT seperti Email, pesan pribadi, atau dokumen pribadi, data berhak cipta yang tertutup, konten dari situs yang melarang web scraping.
+
+OpenAI juga menerapkan penyaringan otomatis untuk menghapus informasi pribadi (PII), ujaran kebencian, pornografi, konten berbahaya, dan data tidak relevan atau noise
 
 
+3. Training Data
 
----
+Model tidak menyimpan data mentah, melainkan pola statistik dan hubungan antar kata.
 
-🧠 2. Apa yang tidak digunakan
+Tahapan:
 
-GPT tidak dilatih dari:
+1. Semua teks diubah menjadi token.
+2. Model belajar pola kata mana biasanya muncul setelah kata lain.
+3. Miliaran contoh ini digunakan untuk menyesuaikan parameter agar model bisa memprediksi kata berikutnya secara akurat.
 
-Data pribadi pengguna ChatGPT
+4. Data Scale
 
-Email, pesan pribadi, atau dokumen pribadi
+Model GPT besar seperti GPT-4 atau GPT-5 dilatih dengan ratusan triliun token dari teks multibahasa. Jumlahnya bisa mencapai ratusan terabyte teks mentah. Data itu mencakup berbagai topik seperti sains, budaya, teknologi, sejarah, bisnis, dan percakapan umum.
 
-Data berhak cipta yang tertutup (kecuali ada lisensi resmi)
+5. Trained Data
 
-Konten dari situs yang melarang web scraping (misalnya data pribadi atau sensitif)
+Ketika kamu berbicara dengan ChatGPT, percakapanmu tidak langsung digunakan untuk melatih ulang model. Namun, dengan izin pengguna, sebagian interaksi bisa dianonimkan dan digunakan untuk peningkatan kualitas di masa depan.
 
+Kesimpulan:
 
-OpenAI juga menerapkan penyaringan otomatis untuk menghapus:
-
-Informasi pribadi (PII)
-
-Ujaran kebencian, pornografi, dan konten berbahaya
-
-Data tidak relevan atau noise
-
-
-
----
-
-⚙️ 3. Bagaimana data itu digunakan
-
-Selama pelatihan:
-
-1. Semua teks diubah menjadi token (potongan kata kecil).
-
-
-2. Model belajar pola: kata mana biasanya muncul setelah kata lain.
-
-
-3. Miliaran contoh ini digunakan untuk menyesuaikan parameter (bobot) agar model bisa memprediksi kata berikutnya secara akurat.
-
-
-
-> Model tidak “menyimpan” data mentah — melainkan pola statistik dan hubungan antar kata.
-
-
-
-
----
-
-📏 4. Skala Data
-
-Model GPT besar seperti GPT-4 atau GPT-5 dilatih dengan ratusan triliun token dari teks multibahasa.
-
-Jumlahnya bisa mencapai ratusan terabyte teks mentah.
-
-Data itu mencakup berbagai topik: sains, budaya, teknologi, sejarah, bisnis, dan percakapan umum.
-
-
-
----
-
-🔒 5. Setelah Pelatihan
-
-Ketika kamu berbicara dengan ChatGPT:
-
-Percakapanmu tidak langsung digunakan untuk melatih ulang model.
-
-Namun, dengan izin pengguna, sebagian interaksi bisa dianonimkan dan digunakan untuk peningkatan kualitas di masa depan.
-
-
-
----
-
-✨ Kesimpulan
-
-> GPT belajar dari gabungan data publik, data berlisensi, dan data buatan manusia,
-kemudian diolah dengan neural network raksasa untuk mengenali pola bahasa.
-Model tidak mengingat teks mentah, melainkan hanya pola matematis tentang bagaimana manusia berbicara dan menulis.
-
-
-
-
+GPT belajar dari gabungan data publik, data berlisensi, dan data buatan manusia, kemudian diolah dengan neural network raksasa untuk mengenali pola bahasa. Model tidak mengingat teks mentah, melainkan hanya pola matematis tentang bagaimana manusia berbicara dan menulis.
