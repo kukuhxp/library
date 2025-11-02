@@ -9,7 +9,6 @@ Contoh singkat:
 Data Science = gabungan statistik + komputer + domain khusus.
 Environmental Studies = gabungan ekologi + ekonomi + sosiologi.
 
-
 ## Geospatial Data Processing
 
 Geospatial data processing adalah proses mengelola, menganalisis, dan memvisualisasikan data yang berhubungan dengan lokasi geografis. Data ini biasanya berupa informasi yang memiliki koordinat latitude, longitude atau geometri seperti titik, garis, dan poligon.

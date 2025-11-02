@@ -1,0 +1,103 @@
+-------------------------------------------------------------------
+QUESTION & ANSWER
+-------------------------------------------------------------------
+Q: Bagaimana AI memutuskan sebuah jawaban dari probabilitas obrolan?
+
+A: memutuskan jawaban berdasarkan distribusi probabilitas dari semua kata yang mungkin muncul berikutnya dalam konteks percakapan.
+
+1. AI Melihat Konteks (Context Window)
+
+Sebelum menjawab, AI membaca semua pesan sebelumnya (terbatas oleh context window, misalnya 128.000 token).
+
+Contoh konteks:
+
+> Kamu: Apa ibu kota Jepang?
+
+AI melihat kata “ibu kota Jepang” dan mulai memprediksi kata berikutnya yang paling mungkin menjadi jawaban.
+
+
+
+
+---
+
+🎲 2. AI Menghitung Probabilitas Kata Berikutnya
+
+AI seperti GPT memandang setiap kata dalam kosakata (ribuan kata/token) dan menghitung peluang masing-masing untuk muncul selanjutnya.
+
+Misalnya setelah kalimat:
+
+> “Ibu kota Jepang adalah”
+
+
+
+AI menghitung probabilitas seperti ini:
+
+Token (kata)	Probabilitas
+
+Tokyo	0.91
+Osaka	0.04
+Kyoto	0.02
+Nagoya	0.01
+…	…
+
+
+Model memutuskan bahwa “Tokyo” paling mungkin berdasarkan seluruh konteks dan pola bahasa yang dipelajarinya.
+
+
+---
+
+⚙️ 3. Pemilihan Kata: Deterministik atau Sampling
+
+Ada dua cara model memilih dari distribusi probabilitas itu:
+
+a. Deterministik (Greedy Search)
+
+Model langsung memilih kata dengan probabilitas tertinggi.
+➡️ Jawaban konsisten tapi bisa terasa “kering” atau berulang.
+
+b. Sampling (Temperature, Top-k, Top-p)
+
+Model mengambil secara acak berdasarkan peluang — tapi masih dikontrol agar tetap masuk akal.
+
+Temperature rendah (0.2) → lebih kaku, logis.
+
+Temperature tinggi (0.8) → lebih kreatif, bervariasi.
+
+Top-p (nucleus sampling) → hanya memilih dari  top p% kata dengan peluang tertinggi.
+
+
+
+---
+
+🧩 4. AI Ulangi Proses Ini Berkali-kali
+
+Setelah memilih kata pertama (“Tokyo”), model memperbarui konteks:
+
+> “Ibu kota Jepang adalah Tokyo”
+
+
+
+Lalu menghitung lagi probabilitas kata berikutnya:
+
+Token	Probabilitas
+
+.	0.80
+yang	0.05
+dan	0.03
+…	…
+
+
+Dan begitu seterusnya hingga kalimat dianggap selesai.
+
+
+---
+
+🧮 5. Hasil Akhir = Rangkaian Prediksi Probabilistik
+
+Jadi jawaban panjang seperti:
+
+> “Ibu kota Jepang adalah Tokyo.”
+
+
+
+… sebenarnya hasil dari ratusan hingga ribuan langkah prediksi probabilitas berantai.
