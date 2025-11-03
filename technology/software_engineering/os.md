@@ -1,7 +1,5 @@
 # OPERATING SYSTEM
 
-## Operating System
-
 Operating System (OS) atau Sistem Operasi adalah perangkat lunak utama yang mengelola seluruh perangkat keras dan perangkat lunak di dalam komputer atau perangkat digital lainnya.
 
 ## Windows Subsystem for Linux (WSL)
@@ -54,3 +52,34 @@ Registry adalah basis data terpusat di sistem operasi Microsoft Windows yang men
 ## Dynamic Link Library (DLL)
 
 Dynamic Link Library (DLL) adalah file berisi kumpulan kode dan data yang bisa digunakan bersama-sama oleh banyak program di Windows.
+
+## Basic Input/Output System (BIOS)
+
+Basic Input/Output System adalah perangkat lunak tingkat rendah yang tertanam di dalam chip ROM pada motherboard komputer. BIOS adalah program pertama yang dijalankan saat komputer dinyalakan, sebelum sistem operasi mulai bekerja.
+
+## Storage Data Unit
+
+Storage data unit adalah satuan ukuran yang digunakan untuk mengukur jumlah data yang bisa disimpan atau diproses oleh perangkat digital, seperti hard disk, SSD, RAM, atau flash drive. Berikut ini adalah urutan satuan data dari terkecil ke terbesar:
+
+- 1 Binary Unit = 1 Bit
+- 1 Byte = 8 Bits
+- 1 Kilo Byte (KB) = 1024 Bytes
+- 1 Mega Byte (MB) = 1024 KB
+- 1 Giga Byte (GB) = 1024 MB
+- 1 Tera Byte (TB) = 1024 GB
+- 1 Peta Byte (PB) = 1024 TB
+- 1 Exa Byte (EB) = 1024 PT
+- 1 Zetta Byte (ZB) = 1024 EB
+- 1 Yotta Byte (YB) = 1024 ZB
+
+## Path
+
+Path adalah alamat lengkap atau lokasi suatu file atau folder di dalam sistem file komputer.
+
+## Root
+
+Root adalah istilah yang digunakan dalam dunia komputer dan jaringan, biasanya merujuk pada tingkat tertinggi akses atau kontrol dalam sebuah sistem.
+
+## Bloatware
+
+Bloatware adalah perangkat lunak yang sudah terinstal sebelumnya di perangkat seperti laptop, HP, atau tablet yang tidak dibutuhkan oleh pengguna, jarang digunakan dan seringkali memperlambat performa perangkat.

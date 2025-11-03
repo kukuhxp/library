@@ -1,7 +1,0 @@
-# IMPLICATION
-
-## MicroPython
-
-## IronPython
-
-## Jython

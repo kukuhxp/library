@@ -1,38 +1,27 @@
-------------------------------------------------------------------
-QUESTION & ANSWER
-------------------------------------------------------------------
-Q: Bagaimana untuk men-deploy aplikasi kita di Heroku?
+# DEPLOYMENT
 
-A: Berikut ini adalah tahapan untuk men-deploy aplikasi kita ke Heroku:
+Deployment adalah proses mengirim dan menjalankan aplikasi di lingkungan nyata seperti server, cloud, atau perangkat agar bisa digunakan oleh orang lain.
 
-Persiapan:
+Jenis:
 
-1. Your project files.
-2. index.php:
+1. Manual Deployment
+Mengunggah file-file ke server secara manual dengan menggunakan Shell, SSH atau FTP.
 
-<?php
-  include_once('index.html');
-?>
+2. Automated Deployment
+Mengunggah file-file ke server secara otomatis dengan menggunakan Jenkins, GitHub Actions, atau CI/CD pipeline.
 
-3. composer.json:
+3. Continuous Deployment
+Setiap kali ada update di kode, sistem otomatis langsung me-deploy versi terbaru.
 
-`{}`
+## Version Control System (VCS)
 
-Tahapan:
+Version Control System (VCS) adalah sistem yang digunakan untuk mencatat, mengelola, dan melacak perubahan terhadap kode atau file proyek seiring waktu.
 
-1. Open your terminal and go to ypur inside project folder.
-2. If you haven't create the repo in your project, create the repo with using git command: `git init`
-3. Add all file to stage: `git add --all`
-4. Commit all staged files: `git commit -m ['your message"]`
-5. Login to your Heroku account with command: `heroku login`
-_If there appear "ip mismatch" message in browser, use command: `heroku login -i`_
-6. Click press any key to open your browser.
-7. Click login button, before you click the button, you must log in to the Heroku website.
-8. Close your browser and back to terminal.
-9. Crete the heroku app: `heroku create`
-10. There will be 2 outputs:
-- Unique app name.herokuapp.com
-- remote url
-11. Upload your repo to heroku: `git push heroku [your repo name]`
-12. Wait until finish.
-13. Done.
+Contoh:
+
+1. Git.
+2. GitHub.
+
+## Jenkins
+
+Jenkins adalah sebuah alat otomatisasi open-source yang digunakan terutama untuk Continuous Integration (CI) dan Continuous Delivery (CD) dalam pengembangan perangkat lunak.

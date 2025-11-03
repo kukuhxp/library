@@ -6,15 +6,11 @@ Flowchart adalah diagram visual yang menggambarkan alur proses atau langkah-lang
 
 ## Wireframe
 
-Wireframe adalah sketsa atau rancangan awal dari tampilan antarmuka (UI) sebuah aplikasi atau website yang menunjukkan struktur, layout, dan elemen utama tanpa detail visual seperti warna atau gambar.
+Wireframe adalah rancangan awal dari tampilan antarmuka sebuah aplikasi atau website yang menunjukkan struktur, layout, dan elemen utama tanpa detail visual seperti warna atau gambar.
 
 ## Mockup
 
-Mockup adalah representasi visual statis dari tampilan akhir sebuah aplikasi, website, atau produk, yang menunjukkan desain secara detail, termasuk warna, font, ikon, gambar, dan tata letak.
-
-## Responsive Web Design (RWD)
-
-Responsive Web Design (RWD) adalah teknik desain web yang membuat tampilan situs otomatis menyesuaikan dengan ukuran layar dan perangkat yang digunakan pengunjung, baik itu ponsel, tablet, laptop, atau desktop.
+Mockup adalah representasi visual statis dari tampilan akhir sebuah aplikasi, website, atau produk, yang menunjukkan desain secara detail.
 
 ## Layout
 
@@ -22,22 +18,40 @@ Layout adalah susunan atau tata letak elemen-elemen seperti teks, gambar, tombol
 
 ## Carousel
 
-Carousel adalah komponen tampilan yang memungkinkan pengguna melihat beberapa konten dalam satu area secara bergulir (slide) baik secara otomatis maupun manual.
+Carousel adalah komponen tampilan yang memungkinkan pengguna melihat beberapa konten dalam satu area secara bergulir, baik secara otomatis maupun manual.
 
 ## Pagination
 
-Pagination adalah proses membagi konten panjang menjadi beberapa halaman, sehingga pengguna bisa menavigasi konten secara bertahap melalui tombol seperti “1, 2, 3, Next, Previous”.
-
-## CSS-only UI
-
-CSS-only UI adalah membuat komponen antarmuka (UI) seperti tombol, navigasi, modals, sliders, tooltips, dll hanya menggunakan HTML dan CSS, tanpa JavaScript. Teknik ini bergantung pada selector CSS, pseudo-class, dan checkbox/radio hacks untuk membuat interaktivitas dasar.
+Pagination adalah proses membagi konten panjang menjadi beberapa halaman, sehingga pengguna bisa menavigasi konten secara bertahap melalui tombol nomor urut, next dan previous.
 
 ## Software Driven UI (SDUI)
 
-Software Driven UI (SDUI) adalah pendekatan dalam pengembangan antarmuka pengguna di mana tampilan aplikasi dikontrol oleh server atau software logic, bukan hanya ditentukan secara statis di sisi klien (seperti di aplikasi atau web).
+Software Driven UI (SDUI) adalah pendekatan dalam pengembangan antarmuka pengguna di mana tampilan aplikasi dikontrol oleh server atau software logic, bukan hanya ditentukan secara statis di sisi klien.
 
-Dengan SDUI, server mengirimkan struktur, komponen, dan logika tampilan UI dalam bentuk data (biasanya JSON), lalu aplikasi klien merender tampilan berdasarkan data tersebut.
+Dengan SDUI, server mengirimkan struktur, komponen, dan logika tampilan UI dalam bentuk data, lalu aplikasi klien merender tampilan berdasarkan data tersebut.
+
+Kelebihan:
+
+1. Update Ui Tanpa Update Aplikasi
+Jika ingin mengubah tampilan atau layout, cukup ubah di server, tidak perlu rilis versi baru app.
+
+2. Konsistensi Antar Platform
+Server bisa mengirim data yang sama untuk Android, iOS, atau web.
+
+3. Fleksibilitas
+Bisa menyesuaikan UI untuk user berbeda tanpa mengubah kode app.
+
+Kekurangan:
+
+1. Ketergantungan Pada Server
+Jika server lambat atau down, UI bisa gagal render.
+
+2. Keterbatasan Kontrol Lokal
+Beberapa efek UI kompleks mungkin sulit dilakukan hanya dari data server.
+
+3. Debugging Lebih Sulit
+Karena UI bisa berubah dari server, tracking bug bisa lebih rumit.
 
 ## Drag & Drop
 
-Drag and drop adalah fitur antarmuka pengguna (UI) yang memungkinkan kamu memindahkan suatu elemen di layar ke tempat lain dengan cara klik, tahan dan geser.
+Drag and drop adalah fitur antarmuka pengguna yang memungkinkan kamu memindahkan suatu elemen di layar ke tempat lain dengan cara klik, tahan dan geser.

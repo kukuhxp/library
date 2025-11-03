@@ -6,7 +6,7 @@ Front-end Developer adalah pengembang perangkat lunak yang bertanggung jawab unt
 
 ## Back-end Developer
 
-Back-end Developer adalah pengembang perangkat lunak yang bertanggung jawab atas bagian belakang (server-side) dari aplikasi atau website, yaitu bagian yang tidak langsung terlihat oleh pengguna, tetapi sangat penting untuk menjalankan fungsionalitas sistem.
+Back-end Developer adalah pengembang perangkat lunak yang bertanggung jawab atas bagian belakang dari aplikasi atau website, yaitu bagian yang tidak langsung terlihat oleh pengguna, tetapi sangat penting untuk menjalankan fungsionalitas sistem.
 
 ## Full-stack Developer
 
@@ -14,7 +14,7 @@ Full-stack Developer adalah pengembang perangkat lunak yang menguasai dan bekerj
 
 ## Hyperlink
 
-Hyperlink atau Link adalah tautan yang menghubungkan satu halaman web ke halaman lain, baik dalam situs yang sama maupun ke situs lain di internet.
+Hyperlink atau link adalah tautan yang menghubungkan satu halaman web ke halaman lain, baik dalam situs yang sama maupun ke situs lain di internet.
 
 ## Content Management Systems (CMS)
 
@@ -22,7 +22,7 @@ Content Management System (CMS) adalah perangkat lunak yang memungkinkan kamu un
 
 ## Web Application Programming Interface (Web API) 
 
-Web Application Programming Interface (Web API) adalah antarmuka (interface) yang memungkinkan aplikasi atau sistem saling berkomunikasi melalui internet menggunakan protokol web seperti HTTP/HTTPS.
+Web Application Programming Interface (Web API) adalah antarmuka yang memungkinkan aplikasi atau sistem saling berkomunikasi melalui internet menggunakan protokol web seperti HTTP/HTTPS.
 
 ## Search Engine Optimization (SEO)
 
@@ -38,11 +38,11 @@ robots.txt adalah file teks sederhana yang digunakan di situs web untuk memberi 
 
 ## Indexer
 
-Indexer adalah komponen atau mekanisme dalam sistem komputer (terutama dalam mesin pencari dan database) yang berfungsi untuk mengumpulkan, menganalisis, dan menyimpan informasi secara terstruktur agar mudah dicari atau diakses kembali.
+Indexer adalah komponen atau mekanisme dalam sistem komputer yang berfungsi untuk mengumpulkan, menganalisis, dan menyimpan informasi secara terstruktur agar mudah dicari atau diakses kembali.
 
 ## Ranking Engine
 
-Ranking Engine (atau Ranking Algorithm/Module) adalah komponen dari sistem pencarian atau rekomendasi yang bertugas untuk mengurutkan hasil pencarian atau rekomendasi berdasarkan relevansi, kualitas, atau skor tertentu.
+Ranking engine adalah komponen dari sistem pencarian atau rekomendasi yang bertugas untuk mengurutkan hasil pencarian atau rekomendasi berdasarkan relevansi, kualitas, atau skor tertentu.
 
 ## API Routes
 
@@ -55,3 +55,5 @@ Cookies adalah file kecil yang disimpan di perangkat pengguna oleh situs web, be
 ## Googlebot
 
 Googlebot adalah program otomatis yang digunakan untuk menjelajahi dan mengindeks halaman-halaman di internet. Googlebot bertugas untuk mengumpulkan informasi dari berbagai situs web agar bisa dimasukkan ke dalam indeks pencarian Google, sehingga ketika seseorang melakukan pencarian, Google bisa menampilkan hasil yang relevan.
+
+## WebAssembly (WASM)

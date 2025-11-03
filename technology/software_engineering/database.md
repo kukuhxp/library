@@ -39,10 +39,6 @@ Query adalah perintah untuk mengambil, menyisipkan, memperbarui, atau menghapus 
 
 Database table adalah struktur utama tempat menyimpan data secara terorganisir dalam bentuk baris dan kolom, mirip seperti tabel di Excel.
 
-## Comma-separated Values (CSV) 
-
-Comma-separated Values (CSV) adalah format file teks sederhana yang digunakan untuk menyimpan data dalam bentuk tabel. Setiap baris mewakili satu record dan setiap kolom dipisahkan oleh tanda koma.
-
 ## Not Only SQL (NoSQL)
 
 Not Only SQL (NoSQL) adalah jenis sistem manajemen basis data yang tidak menggunakan struktur tabel relasional seperti SQL. NoSQL dirancang untuk menyimpan, mengambil, dan mengelola data yang tidak terstruktur atau semi-terstruktur dengan lebih fleksibel dan skalabel.
@@ -66,3 +62,7 @@ Online Transaction Processing (OLTP) adalah sistem basis data yang dirancang unt
 ## Query Processor
 
 Query Processor adalah komponen dalam sistem basis data (database) yang bertugas untuk menerima, memahami, mengoptimalkan, dan mengeksekusi query (perintah pencarian atau manipulasi data) yang ditulis oleh pengguna, biasanya dalam bahasa SQL.
+
+## Geospatial Indexing
+
+Geospatial Indexing adalah teknik dalam database untuk mengatur dan mempercepat pencarian data berdasarkan lokasi geografis, seperti koordinat latitude & longitude.
