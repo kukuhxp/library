@@ -44,7 +44,7 @@ Palladium bubble (2016–2021) adalah gelembung spekulatif yang terjadi saat har
 
 ## Bitcoin Bubble (2017)
 
-Bitcoin bubble (2017) terjadi saat harga Bitcoin melonjak dari $1.000 ke hampir $20.000 karena euforia investor, lalu jatuh ke $6.000 – $7.000 awal 2018.
+Bitcoin bubble (2017) adalah gelembung spekulatif yang terjadi saat harga Bitcoin melonjak dari $1.000 ke hampir $20.000 karena euforia investor, lalu jatuh ke $6.000–$7.000 pada awal 2018.
 
 ## GameStop Sell Squeeze (2021)
 

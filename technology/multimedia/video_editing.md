@@ -13,3 +13,11 @@ Berikut ini adalah beberapa teknik dalam videografi:
 - Slow Motion
 - Time-lapse
 - Hyper-lapse
+
+## Coder Decoder (Codec)
+
+Codec adalah perangkat lunak atau perangkat keras yang digunakan untuk mengompresi dan mendekompresi file media seperti video, audio, dan gambar.
+
+## Software Rendering
+
+Software rendering adalah proses menghasilkan gambar grafik 2D atau 3D hanya dengan CPU, tanpa bantuan akselerasi grafis dari GPU. Semua perhitungan grafis, mulai dari menggambar garis, bentuk, hingga shading dan transformasi 3D, dilakukan oleh perangkat lunak yang berjalan di CPU.

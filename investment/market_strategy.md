@@ -4,7 +4,7 @@
 
 Reinvestment atau reinvestasi adalah strategi menanamkan kembali keuntungan yang sudah didapat agar menghasilkan keuntungan baru. Dengan kata lain, daripada menarik profit dan membelanjakannya, kamu menambahkannya ke modal supaya total dana yang bekerja semakin besar.
 
-Berikut ini adalah proyeksinya:
+Contoh:
 
 Equity: Rp60,000,000
 Compound Interest: 5%/month
@@ -12,7 +12,9 @@ Final Equity (1 year): Rp107,751,360
 
 ## Value Investing
 
-Value investing adalah strategi investasi berdasarkan nilai fundamental. Para investor wajib menggunakan psikologi investasi yang baik seperti:
+Value investing adalah strategi investasi berdasarkan nilai fundamental.
+
+Strategi:
 
 1. Hindari sikap FOMO
 2. Hindari kondisi euforia saat berinvestasi 
@@ -21,13 +23,15 @@ Value investing adalah strategi investasi berdasarkan nilai fundamental. Para in
 5. Pilih aset-aset yang memiliki nilai intrinsik
 6. Mengutamakan investasi berbasis return
 
-Berikut ini adalah konsep dari value investing:
+Kesimpulan:
 
 Jika harga pasar kurang dari intrinsic value, maka dianggap undervalued atau peluang beli, sedangkan jika harga pasar lebih dari intrinsic value, maka dianggap overvalued atau waspada untuk jual.
 
 ## Hedging
 
-Hedging adalah strategi untuk melindungi nilai investasi dari risiko kerugian, terutama akibat pergerakan harga yang tidak diinginkan. Untuk melindungi nilai dari sebuah aset diperlukan beberapa instrumen keuangan seperti:
+Hedging adalah strategi untuk melindungi nilai investasi dari risiko kerugian, terutama akibat pergerakan harga yang tidak diinginkan.
+
+Instruments:
 
 1. Kontrak berjangka (futures)
 2. Opsi (options)
@@ -66,9 +70,9 @@ Short selling adalah strategi trading di mana kamu meminjam dan menjual aset sep
 
 Arbitrage trading adalah strategi trading yang memanfaatkan perbedaan harga suatu aset di dua atau lebih pasar berbeda untuk mendapatkan keuntungan tanpa risiko.
 
-Cara kerja dari arbitrage trading, sebagai berikut:
+Strategi:
 
-1. Trader menemukan perbedaan harga untuk aset yang sama di dua tempat (misal saham di dua bursa berbeda).
+1. Trader menemukan perbedaan harga untuk aset yang sama di dua bursa berbeda.
 2. Membeli di pasar yang lebih murah.
 3. Menjual di pasar yang lebih mahal.
 4. Mendapatkan keuntungan dari selisih harga tanpa risiko harga turun karena transaksi dilakukan hampir bersamaan.
@@ -77,7 +81,8 @@ Cara kerja dari arbitrage trading, sebagai berikut:
 
 Momentum ignition adalah strategi trading atau kondisi pasar di mana trader atau pelaku pasar mencoba memicu pergerakan harga yang kuat dan cepat dengan melakukan serangkaian order beli atau jual secara agresif, sehingga mendorong trader lain ikut masuk dan memperkuat tren tersebut.
 
-Cara kerja dari momentum ignition, sebagai berikut:
+Strategi:
+
 1. Trader besar mulai melakukan order besar secara cepat.
 2. Harga bergerak tajam naik atau turun.
 3. Trader lain yang melihat pergerakan ini ikut membeli atau menjual untuk memperkuat tren.
@@ -117,18 +122,15 @@ Pasar biasanya berlebihan, saat banyak orang optimis, harga cenderung overvalued
 
 Momentum trading adalah strategi investasi yang mengikuti tren pasar, kebalikan dari contrarian approach. Intinya adalah ikut arus daripada melawan arus.
 
-## Dark Pools
-
-Dark pools adalah platform perdagangan saham atau aset lain yang tidak terlihat oleh publik. Mereka memungkinkan investor besar untuk membeli atau menjual saham dalam jumlah besar tanpa memengaruhi harga pasar secara langsung.
-
 ## Core-satellite
 
-Core-satellite strategy adalah strategi investasi yang populer untuk membangun portofolio yang seimbang antara stabilitas dan pertumbuhan. Strategi ini banyak digunakan oleh investor jangka panjang.
+Core-satellite strategy adalah strategi investasi yang populer untuk membangun portofolio yang seimbang antara stabilitas dan pertumbuhan. Strategi ini banyak digunakan oleh investor jangka panjang. Startegi ini berpegang pada 2 portofolio, yaitu core dan satelite.
 
 Contoh:
-Portofolio 100 juta
-Core 70% (70 juta): index ETF saham besar dan obligasi pemerintah, karena pertumbuhan stabil.
-Satellite 30% (30 juta): saham teknologi kecil dan crypto, karena peluang return tinggi.
+
+Portofolio 100 juta, maka persentase core-nya adalah 70% atau 70 juta yang berisikan index ETF, saham besar dan obligasi pemerintah, karena pertumbuhan stabil. Sedangkan untuk persentase satellite-nya adalah 30% atau 30 juta yang berisikan saham teknologi kecil dan crypto, karena peluang return tinggi.
+
+Kesimpulan:
 
 Core menjaga portofolio tetap aman, satelit memberi potensi keuntungan ekstra.
 
@@ -139,3 +141,40 @@ Sentiment play adalah strategi investasi yang memanfaatkan sentimen pasar jangka
 ## Diversification
 
 Diversification atau diversifikasi adalah strategi untuk menyebar risiko dengan tidak menempatkan semua aset atau investasi di satu tempat saja. Tujuannya adalah jika satu investasi rugi, kerugiannya bisa ditutupi oleh keuntungan dari investasi lain.
+
+## Asset Play
+
+Asset play adalah strategi membeli saham perusahaan yang punya aset berharga, tapi belum dihargai dengan benar oleh pasar. Dengan kata lain, kamu beli perusahaan di bawah nilai asetnya dan berharap suatu saat nilai aset tersebut diakui pasar.
+
+Contoh:
+
+Buffett membeli perusahaan peta bernama Sanborn Map. Nilai pasarnya adalah $45 per saham, tapi aset investasinya adalah $65 per saham. Ia akuisisi, likuidasi investasinya, dan dapat keuntungan besar.
+
+## Vulture Investing
+
+Vulture investing atau investasi burung nasar adalah strategi investasi di mana investor membeli aset, perusahaan, atau surat utang yang sedang berada dalam kesulitan keuangan dengan harga sangat murah, dengan harapan nilai aset tersebut akan pulih atau meningkat di masa depan.
+
+Disebut vulture atau burung nasar karena seperti burung nasar yang mencari bangkai, investor jenis ini mengincar perusahaan yang hampir mati secara finansial, misalnya bangkrut, gagal bayar utang, atau asetnya dijual di bawah harga pasar.
+
+Strategi:
+
+1. Fokus Pada Aset Distress
+Misalnya obligasi gagal bayar, perusahaan pailit, atau properti yang disita.
+
+2. Membeli Dengan Diskon Besar
+Aset dibeli dengan harga sangat rendah, kadang hanya sebagian kecil dari nilai wajarnya.
+
+3. Berani Mengambil Risiko Tinggi
+Karena tidak semua perusahaan bangkrut bisa diselamatkan atau pulih.
+
+4. Pendekatan Analisis Nilai
+Investor mencari hidden value atau aset tersembunyi atau potensi restrukturisasi yang bisa meningkatkan nilai.
+
+5. Sering Terlibat Dalam Restrukturisasi
+Investor bisa berperan aktif dalam membenahi perusahaan untuk memulihkan nilainya.
+
+Contoh:
+
+1. Sebuah perusahaan penerbangan bangkrut dan menjual pesawatnya seharga 30% dari nilai buku. Investor vulture membeli pesawat itu, lalu menjualnya kembali ketika harga pasar pulih.
+
+2. Membeli obligasi perusahaan gagal bayar dengan harga 20 sen per dolar, lalu menunggu saat perusahaan direstrukturisasi dan obligasi itu kembali bernilai 80 sen per dolar.

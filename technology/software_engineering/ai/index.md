@@ -1,51 +1,67 @@
-# MACHINE LEARNING (ML)
+# ARTIFICIAL INTELLIGENCE
 
-Machine Learning (ML) adalah cabang dari kecerdasan buatan yang memungkinkan komputer belajar dari data dan membuat keputusan tanpa diprogram secara eksplisit. Ada beberapa jenis dari machine learning, yaitu:
+Artificial Intelligence (AI) atau Kecerdasan Buatan adalah cabang dari computer science yang berfokus pada membuat mesin atau program komputer agar dapat berpikir dan bertindak seperti manusia.
 
-- Supervised Learning
-- Unsupervised Learning
-- Reinforcement Learning
+## Narrow AI
 
-## Deep Learning
+## String AI
 
-Deep learning adalah cabang dari machine learning yang menggunakan jaringan saraf tiruan berlapis-lapis. Deep learning digunakan untuk memproses data dan membuat keputusan atau prediksi.
+## Machine Learning (ML)
 
-## Probabilistic Language Model
+Machine Learning (ML) adalah cabang dari Artificial Intelligence (AI) yang memungkinkan komputer belajar dari data dan membuat keputusan tanpa diprogram secara eksplisit.
 
-adalah model yang memprediksi kemungkinan atau probabilitas suatu urutan kata muncul dalam sebuah bahasa. Model ini mencoba menebak kata berikutnya berdasarkan seberapa besar peluang kata itu muncul setelah kata-kata sebelumnya.
+Artinya, alih-alih memberi instruksi langkah demi langkah, kita memberi data dan contoh hasil yang benar, lalu komputer belajar sendiri pola di balik data itu untuk membuat keputusan atau prediksi.
 
-Model seperti GPT masih berbasis probabilitas, tapi menggunakan Neural Probabilistic Language Model, di mana probabilitas ditentukan oleh jaringan saraf atau neural network.
-
-Model belajar representasi kata dalam bentuk embedding. Prediksi kata berikutnya dilakukan berdasarkan distribusi probabilitas atas seluruh kosakata.
-
-Kalimat yang dihasilkan model AI sebenarnya adalah hasil dari prediksi probabilistik berantai.
-
-Contoh:
-
-“Saya makan nasi.”
-
-Model probabilistik akan memperkirakan P(“Saya”) atau P(“makan” | “Saya”) atau P(“nasi” | “Saya makan”)
-
-Nilai:
-
-Saya = 0.05
-makan = 0.02
-nasi = 0.03
-Jadi total probabilitas kalimat = 0.05 × 0.02 × 0.03 = 0.00003
+Misalnya kamu ingin komputer mengenali apakah gambar berisi kucing atau anjing. Kamu tidak menulis kode deteksi telinga, mata, atau ekor. Kamu cukup memberi banyak contoh gambar kucing dan anjing. Algoritma ML akan mencari pola sendiri seperti bentuk telinga, warna bulu, dll. Setelah belajar, model bisa memprediksi gambar baru yang belum pernah dilihat.
 
 Jenis:
 
-1. Unigram Model
-Menganggap tiap kata independen. Contoh model sangat sederhana tapi kurang akurat.
+1. Supervised learning, yaitu belajar dari data berlabel.
+2. Unsupervised learning, yaitu belajar dari data tanpa label, mencari pola tersembunyi.
+3. Reinforcement learning, yaitu belajar dari trial and error melalui reward dan punishment.
 
-2. Bigram Model
-Menganggap kata tergantung pada 1 kata sebelumnya.
+Contoh:
 
-3. Trigram Model
-Menganggap kata tergantung pada 2 kata sebelumnya.
+1. Rekomendasi di platform Netflix, YouTube atauSpotify.
+2. Chatbot & Asisten Virtual, seperti ChatGPT.
+3. Deteksi Penipuan di transaksi bank.
+4. Self-driving car.
+5. Pengenalan wajah dan objek pada gambar.
+6. Penerjemahan bahasa otomatis
 
-4. N-gram Model
-Generalisasi dari bigram/trigram. Semakin besar n, semakin banyak konteks yang dipertimbangkan.
+## Deep Learning
+
+Deep Learning (DL) adalah cabang dari Machine Learning (ML) yang menggunakan Artificial Neuron Network (ANN) berlapis-lapis. Deep learning digunakan untuk memproses data dan membuat keputusan atau prediksi. Deep learning tidak memerlukan campur tangan dari manusia untuk belajar mandiri, tapi memerlukan volume data yang sangat besar agar dapat berjalan optimal.
+
+## Computer Vision (CV)
+
+Computer Vision (CV) adalah cabang dari Artificial Intelligence (AI) yang berfokus pada kemampuan komputer untuk melihat, mengenali, dan memahami gambar atau video seperti halnya manusia menggunakan mata dan otak.
+
+Tujuan utamanya adalah agar komputer bisa mengambil keputusan atau melakukan tindakan berdasarkan informasi visual.
+
+Contoh:
+
+1. Face recognition seperti pada Face ID di smartphone.
+2. Self-driving car dapat mengenali rambu lalu lintas, pejalan kaki, dan kendaraan lain.
+3. Medical imaging dapat menganalisis hasil rontgen atau MRI untuk mendeteksi penyakit.
+4. Object detection dapat mengenali benda seperti manusia, hewan, mobil, atau produk di gambar/video.
+5. Optical Character Recognition (OCR) dapat membaca teks dari gambar atau dokumen yang discan.
+
+Tahapan:
+
+1. Input gambar/video ke sistem.
+2. Preprocessing untuk membersihkan dan menyesuaikan data.
+3. Feature extraction untuk mengambil ciri penting dari gambar (seperti bentuk, tepi, pola).
+4. Model Machine Learning / Deep Learning digunakan untuk mengenali atau mengklasifikasikan gambar.
+5. Prediksi yang hasilnya bisa berupa label, koordinat objek, atau keputusan tertentu.
+
+## Natural Language Processing (NLP)
+
+Natural Language Processing (NLP) adalah cabang dari Artificial Intelligence (AI) yang berfokus pada interaksi antara komputer dan bahasa manusia. NLP bertujuan agar komputer bisa memahami, menafsirkan, menghasilkan, dan merespons bahasa manusia secara alami.
+
+## Pytorch
+
+## Tensorflow
 
 ## Nearest Neighbor Search (NNS)
 
@@ -55,17 +71,15 @@ Nearest Neighbor Search (NNS) adalah proses dalam ilmu komputer dan machine lear
 
 Affective computing adalah bidang dalam kecerdasan buatan (AI) dan ilmu komputer yang berfokus pada mendeteksi, memahami, meniru, dan merespons emosi manusia melalui teknologi.
 
-## Large Language Models (LLM)
-
-Large Language Models (LLM) adalah jenis model kecerdasan buatan (AI) yang dilatih untuk memahami dan menghasilkan teks dalam bahasa manusia dengan tingkat pemahaman yang sangat tinggi.
-
 ## Attention
 
-Attention adalah mekanisme yang membuat model fokus pada bagian penting dari data saat memproses informasi.
+Attention adalah mekanisme yang membuat model fokus pada bagian penting dari data saat memproses informasi. Setiap data yang dimasukkan akan diubah menjadi 3 vektor, yaitu Query (Q), Key (K) dan Value (V).
 
 Contoh:
 
-dalam kalimat “Dia makan karena lapar”, model tahu kata “lapar” berkaitan dengan “dia”, bukan “makan”. Jadi, attention membantu AI memahami konteks dan hubungan antar kata agar hasilnya lebih akurat.
+Dalam kalimat “Dia makan karena lapar”, model tahu kata “lapar” berkaitan dengan “dia”, bukan “makan”. Jadi, attention membantu AI memahami konteks dan hubungan antar kata agar hasilnya lebih akurat.
+
+## Multi-heas Attention
 
 ## Tokenization
 
@@ -73,7 +87,7 @@ Tokenization adalah proses memecah teks menjadi potongan-potongan kecil yang dis
 
 Contoh:
 
-Kalimat “Saya suka apel merah.”, diubah menjadi token ["Saya", "suka", "apel", "merah", "."]
+Kalimat “Saya suka apel merah.”, diubah menjadi token, menjadi ["Saya", "suka", "apel", "merah", "."]
 
 ## Token ID
 
@@ -81,7 +95,9 @@ Token ID adalah nomor unik yang diberikan pada setiap token setelah proses token
 
 Contoh:
 
-Kalimat “Saya suka apel”, dipecah menjadi token ["Saya", "suka", "apel"], lalu diubah menjadi token ID [1052, 207, 892]
+Kalimat “Saya suka apel”, dipecah menjadi token, menjadi ["Saya", "suka", "apel"], lalu diubah menjadi token ID, menjadi [1052, 207, 892]
+
+## Layers
 
 ## Embedding Layer
 
@@ -100,14 +116,6 @@ Tiktoken adalah tokenizer resmi buatan OpenAI, digunakan untuk mengubah teks men
 ## Vector Database
 
 Vector database adalah jenis basis data khusus yang dirancang untuk menyimpan dan mencari data dalam bentuk vektor.
-
-## Computer Vision (CV)
-
-Computer Vision (CV) adalah cabang dari kecerdasan buatan (AI) yang berfokus pada membuat komputer bisa melihat, memahami, dan mengambil keputusan.
-
-## Natural Language Processing (NLP)
-
-Natural Language Processing (NLP) adalah cabang dari kecerdasan buatan (AI) yang berfokus pada interaksi antara komputer dan bahasa manusia. NLP bertujuan agar komputer bisa memahami, menafsirkan, menghasilkan, dan merespons bahasa manusia secara alami.
 
 ## Backpropagation
 
@@ -158,9 +166,11 @@ Jenis:
 
 1. Weights
 Mengatur seberapa kuat pengaruh tiap fitur input terhadap output.
+
 2. Biases
 Nilai tambahan agar model bisa menggeser hasil tanpa mengubah input.
-3. Embedding weights
+
+3. Embedding Weights
 Digunakan untuk merepresentasikan kata atau simbol ke dalam bentuk vektor angka.
 
 ## Context Window
@@ -170,10 +180,6 @@ Context window atau jendela konteks adalah jumlah token yang bisa diingat dan di
 Contoh:
 
 Misal sebuah model punya context window 8.000 token, berarti model hanya bisa melihat dan memahami 8.000 token terakhir dari percakapan atau teks yang kamu kirim. Jika percakapan melewati batas itu, bagian paling awal akan tergeser keluar dari jendela konteks.
-
-GPT-3.5 dapat mengingat 4.000–16.000 token.
-GPT-4 dapat mengingat 8.000–32.000 token.
-GPT-5 dapat mengingat 128.000 token.
 
 ## Chain Rule of Probability
 
@@ -192,3 +198,7 @@ GPT-5 dapat mengingat 128.000 token.
 ## Softmax
 
 ## Tokenizer
+
+## Model Context Protocol (MCP)
+
+Model Context Protocol (MCP) adalah protokol terbuka yang dikembangkan oleh Anthropic untuk menyederhanakan integrasi antara model bahasa besar (LLM) dan berbagai sumber data serta alat eksternal. MCP memungkinkan AI untuk mengakses, memahami, dan berinteraksi dengan data secara real-time, sehingga meningkatkan kemampuan AI dalam menjalankan tugas-tugas kompleks

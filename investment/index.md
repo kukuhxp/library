@@ -593,3 +593,7 @@ Selloff atau penjualan massal adalah aksi jual besar-besaran terhadap suatu aset
 ## Do Your Own Research (DYOR)
 
 Do Your Own Research (DYOR) adalah istilah yang merujuk pada nasihat agar untuk melakukan penelitian atau analisa pasar secara mandiri, bukan karena mengikuti arahan orang lain.
+
+## Dark Pools
+
+Dark pools adalah platform perdagangan saham atau aset lain yang tidak terlihat oleh publik. Mereka memungkinkan investor besar untuk membeli atau menjual saham dalam jumlah besar tanpa memengaruhi harga pasar secara langsung.

@@ -136,3 +136,9 @@ Overclock adalah proses meningkatkan kecepatan kerja komponen komputer seperti C
 ## Real-time Clock (RTC)
 
 Real-time Clock (RTC) chip adalah komponen elektronik yang berfungsi untuk menyimpan dan menjaga waktu secara akurat, bahkan ketika sistem utama (seperti mikrokontroler atau komputer) dimatikan.
+
+## Moore's Law
+
+Moore's Law (Hukum Moore) adalah sebuah observasi yang dibuat oleh Gordon Moore, salah satu pendiri Intel, pada tahun 1965. Ia menyatakan bahwa:
+
+"Jumlah transistor pada sebuah chip akan berlipat ganda setiap sekitar 18 hingga 24 bulan, sementara biaya per transistor menurun."

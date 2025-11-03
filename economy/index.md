@@ -48,10 +48,7 @@ Paradox of thrift adalah konsep ekonomi yang menyatakan:
 
 ## Triffin Dilemma
 
-Triffin Dilemma adalah paradoks dalam sistem moneter internasional yang dikemukakan oleh Robert Triffin: Negara yang mata uangnya dijadikan cadangan internasional seperti U.S. Dollar akan menghadapi 2 konflik kepentingan, yaitu:
-
-1. Untuk memenuhi kebutuhan cadangan dunia, negara itu harus membiarkan defisit neraca pembayaran.
-2. Namun, defisit yang terus-menerus melemahkan kepercayaan terhadap mata uang tersebut.
+Triffin Dilemma adalah paradoks dalam sistem moneter internasional yang dikemukakan oleh Robert Triffin. Negara yang mata uangnya dijadikan cadangan internasional seperti U.S. Dollar akan menghadapi 2 konflik kepentingan, yaitu memenuhi kebutuhan cadangan dunia, dan defisit yang terus-menerus melemahkan kepercayaan terhadap mata uang tersebut.
 
 ## Recession
 
@@ -158,7 +155,9 @@ Demand calender atau kalender musiman adalah sebuah informasi yang berisikan tan
 
 ## Fear of Missing Out
 
-Fear of Missing Out (FOMO) atau kepanikan adalah suatu kondisi di mana orang-orang mengalami kepanikan luar biasa yang disebabkan oleh berbagai faktor. Di antaranya adalah sebagai berikut:
+Fear of Missing Out (FOMO) atau kepanikan adalah suatu kondisi di mana orang-orang mengalami kepanikan luar biasa yang disebabkan oleh berbagai faktor.
+
+Penyebab:
 
 1. Kenaikan harga barang secara signifikan yang disebabkan oleh spekulasi.
 2. Ketegangan dalam geopolitik.
@@ -171,16 +170,14 @@ Fear of Missing Out (FOMO) atau kepanikan adalah suatu kondisi di mana orang-ora
 Debt-to-GDP atau rasio utang terhadap Produk Domestik Bruto adalah ukuran yang membandingkan total utang pemerintah dengan total nilai ekonomi negara (PDB).
 
 Rumus:
+
 Debt-to-GDP (%) = (Total Utang Pemerintah / Produk Domestik Bruto) × 100%
 
 Contoh:
-Utang negara: Rp 7.000 triliun
-GDP negara: Rp 14.000 triliun
 
-Maka:
-7.000 / 14.000 = 0.5 = 50\%
-
-Artinya, utang setara dengan 50% dari seluruh nilai ekonomi negara selama setahun.
+Utang negara = Rp7.000 triliun
+GDP negara: = Rp14.000 triliun
+Debt-to-GDP = 7.000 / 14.000 = 0.5 = 50%
 
 ## Net Lender
 
