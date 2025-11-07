@@ -26,6 +26,48 @@ Pengujian oleh pengguna akhir untuk memastikan program sesuai harapan mereka.
 5. Regression Testing
 Dijalankan setelah ada perubahan kode, untuk memastikan tidak ada fitur lama yang rusak akibat update.
 
+## Source Code Compilation
+
+Source code compilation atau kompilasi kode sumber adalah proses mengubah kode sumber yang ditulis oleh programmer seperti C atau Java menjadi kode mesin yang bisa dieksekusi oleh komputer.
+
+Jenis:
+
+1. Ahead-of-time (AOT) Compilation
+2. Just-in-time (JIT) Compilation
+3. Interpereted
+
+## Compiler
+
+Compiler adalah program yang berfungsi untuk menerjemahkan seluruh kode sumber dari bahasa pemrograman tingkat tinggi (seperti C, C++, Java) menjadi bahasa mesin (file biner/executable) sebelum program dijalankan.
+
+## Compiling
+
+Compiling adalah proses mengubah seluruh kode sumber menjadi kode mesin atau binari yang bisa dijalankan oleh komputer.
+
+## Lexical Analysis
+
+Lexical analysis adalah tahap pertama dalam proses kompilasi atau interpretasi kode program, di mana kode sumber dipecah menjadi bagian-bagian kecil yang disebut token.
+
+## Parsing
+
+Parsing adalah proses di mana kode sumber yang sudah dipecah menjadi token oleh lexical analysis akan dianalisis strukturnya berdasarkan aturan tata bahasa oleh bahasa pemrograman tersebut.
+
+## Linking
+
+Linking adalah proses dalam pengembangan perangkat lunak yang menggabungkan berbagai bagian program seperti kode yang dikompilasi, pustaka/libraries dan dependensi lainnya menjadi satu file executable atau program yang bisa dijalankan.
+
+## Interpreter
+
+Interpreter adalah program yang berfungsi untuk membaca dan menjalankan kode sumber secara langsung baris per baris, tanpa perlu mengubahnya menjadi file executable seperti compiler.
+
+## Bytecode
+
+Bytecode adalah kode perantara antara kode sumber dan kode mesin yang dijalankan oleh mesin virtual atau interpreter tertentu, bukan langsung oleh prosesor komputer.
+
+## Machine Code
+
+Machine code adalah bahasa paling dasar yang bisa dimengerti langsung oleh prosesor. Kode ini terdiri dari angka biner, yang memberi instruksi spesifik ke hardware untuk melakukan tugas seperti menghitung, menyimpan data, atau menampilkan output.
+
 ## Feature Flag
 
 Feature flag atau feature toggle adalah mekanisme untuk mengaktifkan atau menonaktifkan fitur aplikasi secara dinamis tanpa perlu mengubah atau redeploy kode. Dengan feature flag, developer bisa mengontrol perilaku aplikasi lewat konfigurasi.

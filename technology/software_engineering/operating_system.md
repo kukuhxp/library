@@ -83,3 +83,19 @@ Root adalah istilah yang digunakan dalam dunia komputer dan jaringan, biasanya m
 ## Bloatware
 
 Bloatware adalah perangkat lunak yang sudah terinstal sebelumnya di perangkat seperti laptop, HP, atau tablet yang tidak dibutuhkan oleh pengguna, jarang digunakan dan seringkali memperlambat performa perangkat.
+
+## Shell
+
+Shell adalah antarmuka antara pengguna dan sistem operasi yang memungkinkan kamu memberi perintah ke komputer untuk menjalankan tugas tertentu. Ada 2 jenis shell pada computer, yaitu Command Line Interface (CLI) dan Graphical User Interface (GUI).
+
+## Command Line Interface (CLI)
+
+Command Line Interface (CLI) adalah antarmuka berbasis teks yang memungkinkan pengguna berinteraksi dengan komputer dengan mengetikkan perintah langsung ke dalam terminal atau console.
+
+Jenis:
+
+- BASH (Shebang: #!/bin/bash)
+- Shell (Shebang: #!/bin/sh)
+- Zsh (Shebang: #!/bin/zsh)
+- Fish (Shebang: #!/bin/env fish)
+- Dash (Shebang: #!/bin/dash)	

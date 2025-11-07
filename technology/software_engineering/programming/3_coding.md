@@ -141,9 +141,58 @@ Paradigma:
 3. Polymorphism
 4. Abstraction
 
+## Interface
+
+Interface adalah perjanjian yang menentukan metode apa saja yang harus dimiliki oleh suatu kelas, tanpa menentukan bagaimana cara kerjanya. Dengan kata lain interface mendefinisikan apa yang harus dilakukan, tapi tidak menjelaskan bagaimana melakukannya.
+
+Contoh:
+
+Misalnya kamu membuat interface bernama Hewan:
+
+interface Hewan {
+    void makan();
+    void bergerak();
+}
+
+Lalu kamu punya dua kelas yang mengimplementasikan interface ini:
+
+class Kucing implements Hewan {
+    public void makan() {
+        System.out.println("Kucing makan ikan");
+    }
+
+    public void bergerak() {
+        System.out.println("Kucing berjalan dengan empat kaki");
+    }
+}
+
+class Burung implements Hewan {
+    public void makan() {
+        System.out.println("Burung makan biji-bijian");
+    }
+
+    public void bergerak() {
+        System.out.println("Burung terbang di udara");
+    }
+}
+
+Setiap kelas wajib memiliki metode makan() dan bergerak(), karena sudah dijanjikan oleh interface Hewan.
+
+
+Tujuan:
+
+1. Standarisasi perilaku antar kelas.
+2. Memisahkan definisi dari implementasi.
+3. Mempermudah pengembangan sistem besar, agar berbagai bagian program bisa bekerja sama dengan aturan yang sama.
+4. Mendukung prinsip OOP (Object-Oriented Programming) seperti abstraction dan polymorphism.
+
+## Programming Interfaces
+
+Programming Interfaces adalah cara sebuah bagian program berinteraksi dengan bagian lain, biasanya melalui fungsi, method, atau API.
+
 ## Application Programming Interfaces (API)
 
-Application programming interface adalah sekumpulan aturan dan protokol yang digunakan untuk berkomunikasi antara satu aplikasi dengan aplikasi.
+Application programming interface (API) adalah sekumpulan aturan dan protokol yang digunakan untuk berkomunikasi antara satu aplikasi dengan aplikasi lainnya.
 
 Jenis:
 
@@ -163,3 +212,17 @@ Hashing adalah proses mengubah data seperti teks, file, angka menjadi serangkaia
 ## Source Code
 
 Source code adalah sekumpulan instruksi tertulis dalam bahasa pemrograman yang dibuat oleh programmer untuk memberi tahu komputer apa yang harus dilakukan.
+
+## Dependency
+
+Dependency adalah komponen, library, atau modul lain yang dibutuhkan oleh suatu program agar bisa berjalan dengan baik
+
+## Library
+
+Library adalah kumpulan fungsi siap pakai yang bisa kamu gunakan untuk menyelesaikan tugas tertentu dalam pemrograman, tanpa perlu menulis semuanya dari nol..
+
+## Framework
+
+Framework adalah kerangka kerja yang sudah disiapkan untuk membantu developer membuat aplikasi dengan lebih cepat dan teratur.
+
+Tanpa framework, kamu harus membuat semua fitur dari nol seperti login, routing, atau koneksi database. Dengan framework, hal-hal itu sudah disediakan. Kamu tinggal menyesuaikan dan menambahkan logika programmu.

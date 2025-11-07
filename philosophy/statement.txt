@@ -4,6 +4,9 @@ STATEMENT
 "Health > Ambition"
 - Health
 
+"Belajarlah untuk menerima hal yang diluar ekspetasimu"
+- Expectation
+
 "Mengejar ambisi harus dengan akal sehat"
 - Ambition
 

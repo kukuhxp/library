@@ -8,11 +8,28 @@ Programming atau pemrograman adalah proses menulis, menguji, dan memelihara kode
 
 ## Programming Language
 
-## Framework
+Programming language atau bahasa pemrograman adalah bahasa khusus yang digunakan untuk memberi instruksi kepada komputer agar melakukan tugas tertentu, seperti menghitung, menampilkan data, menjalankan aplikasi, atau mengontrol perangkat keras.
 
-## Library
+Jenis:
 
-## Module
+1. Low-level Language
+Dekat dengan bahasa mesin, tapi sulit dipahami manusia, tapi eksekusinya sangat cepat. Contohnya, Assembly Language, Machine Code.
+
+2. High-level Language
+Lebih mudah dibaca manusia, karena menyerupai bahasa alami. Harus diterjemahkan ke bahasa mesin melalui compiler atau interpreter.Contohnya, C++, C#, Python, Java, JavaScript.
+
+## Programming Paradigm
+
+Programming paradigm adalah gaya atau pendekatan dalam menulis dan menyusun kode program.
+
+Paradigma:
+
+1. Imperative
+2. Procedural
+3. Object-oriented Programming
+4. Functional
+5. Declarative
+6. Logic
 
 ## Development & Operations (DevOps)
 
@@ -21,14 +38,6 @@ Development & Operations (DevOps) adalah gabungan antara pengembangan perangkat 
 ## Internet of Things (IoT)
 
 Internet of Things (IoT) adalah konsep di mana perangkat fisik seperti lampu, kulkas, kamera, mobil, jam tangan dihubungkan ke internet dan bisa saling bertukar data atau dikendalikan dari jarak jauh.
-
-## Compiler
-
-Compiler adalah program yang berfungsi untuk menerjemahkan seluruh kode sumber dari bahasa pemrograman tingkat tinggi (seperti C, C++, Java) menjadi bahasa mesin (file biner/executable) sebelum program dijalankan.
-
-## Interpreter
-
-Interpreter adalah program yang berfungsi untuk membaca dan menjalankan kode sumber secara langsung baris per baris, tanpa perlu mengubahnya menjadi file executable seperti compiler.
 
 ## Code Editor
 
@@ -47,33 +56,9 @@ Komponen:
 5. Autocomplete/IntelliSense
 6. Syntax Highlighting
 
-## Bytecode
-
-Bytecode adalah kode perantara antara kode sumber dan kode mesin yang dijalankan oleh mesin virtual atau interpreter tertentu, bukan langsung oleh prosesor komputer.
-
-## Machine Code
-
-Machine code adalah bahasa paling dasar yang bisa dimengerti langsung oleh prosesor. Kode ini terdiri dari angka biner, yang memberi instruksi spesifik ke hardware untuk melakukan tugas seperti menghitung, menyimpan data, atau menampilkan output.
-
 ## Garbage Collector (GC)
 
 Garbage Collector (GC) adalah mekanisme otomatis dalam bahasa pemrograman yang bertugas mendeteksi dan menghapus data yang sudah tidak digunakan lagi oleh program, agar memori tetap efisien dan tidak bocor.
-
-## Compiling
-
-Compiling adalah proses mengubah seluruh kode sumber menjadi kode mesin atau binari yang bisa dijalankan oleh komputer.
-
-## Lexical Analysis
-
-Lexical analysis adalah tahap pertama dalam proses kompilasi atau interpretasi kode program, di mana kode sumber dipecah menjadi bagian-bagian kecil yang disebut token.
-
-## Parsing
-
-Parsing adalah proses di mana kode sumber yang sudah dipecah menjadi token oleh lexical analysis akan dianalisis strukturnya berdasarkan aturan tata bahasa oleh bahasa pemrograman tersebut.
-
-## Linking
-
-Linking adalah proses dalam pengembangan perangkat lunak yang menggabungkan berbagai bagian program seperti kode yang dikompilasi, pustaka/libraries dan dependensi lainnya menjadi satu file executable atau program yang bisa dijalankan.
 
 ## Encoding/Decoding
 
@@ -102,29 +87,9 @@ Plugin adalah komponen tambahan yang ditambahkan ke sebuah perangkat lunak utama
 
 Extension adalah komponen tambahan yang ditambahkan ke sebuah web browser untuk menambahkan fitur baru atau memodifikasi fungsionalitas yang sudah ada.
 
-## Session
-
-Session adalah periode interaksi antara pengguna dan sistem yang berlangsung selama pengguna aktif menggunakan layanan tersebut. Konsep ini digunakan untuk melacak, menyimpan, dan mengelola status pengguna sementara waktu, terutama di aplikasi web.
-
 ## Microservice
 
 Microservice adalah pendekatan arsitektur perangkat lunak di mana sebuah aplikasi besar dipecah menjadi komponen-komponen kecil yang berdiri sendiri dan saling berkomunikasi melalui API atau protokol jaringan seperti HTTPS.
-
-## Shell
-
-Shell adalah antarmuka antara pengguna dan sistem operasi yang memungkinkan kamu memberi perintah ke komputer untuk menjalankan tugas tertentu. Ada 2 jenis shell pada computer, yaitu Command Line Interface (CLI) dan Graphical User Interface (GUI).
-
-## Command Line Interface (CLI)
-
-Command Line Interface (CLI) adalah antarmuka berbasis teks yang memungkinkan pengguna berinteraksi dengan komputer dengan mengetikkan perintah langsung ke dalam terminal atau console.
-
-Jenis:
-
-- BASH (Shebang: #!/bin/bash)
-- Shell (Shebang: #!/bin/sh)
-- Zsh (Shebang: #!/bin/zsh)
-- Fish (Shebang: #!/bin/env fish)
-- Dash (Shebang: #!/bin/dash)
 
 ## Graphical User Interface (GUI)
 
@@ -168,13 +133,53 @@ Jenis:
 2. Platform as a Service (PaaS)
 3. Software as a Service (SaaS)
 
-## Programming Interfaces
-
-Programming Interfaces adalah cara sebuah bagian program berinteraksi dengan bagian lain, biasanya melalui fungsi, method, atau API.
-
 ## Domain-specific Language (DSL)
 
 Domain-specific Language (DSL) adalah bahasa pemrograman atau skrip yang dirancang khusus untuk menyelesaikan masalah dalam satu domain atau bidang tertentu, bukan untuk pemrograman umum seperti Python atau Java.
+
+## Interface Definition Language (IDL)
+
+Interface Definition Language (IDL) adalah bahasa yang digunakan untuk mendefinisikan antarmuka atau interface antara komponen perangkat lunak yang saling berkomunikasi, terutama yang ditulis dengan bahasa pemrograman berbeda.
+
+Dengan kata lain, IDL berfungsi sebagai jembatan antar bahasa pemrograman supaya program bisa saling memahami struktur data dan fungsi yang digunakan.
+
+Tujuannya adalah agar sistem yang dibuat dalam bahasa pemrograman yang berbeda bisa berkomunikasi secara mulus, tanpa perlu tahu detail implementasi internal masing-masing.
+
+Tahapan:
+
+1. Kamu menulis definisi interface di file .idl.
+2. IDL compiler menerjemahkan file itu ke dalam bahasa pemrograman tertentu.
+3. Program di tiap bahasa kemudian bisa saling memanggil fungsi atau bertukar data melalui interface tersebut.
+
+Contoh:
+
+interface Kalkulator {
+    float tambah(in float a, in float b);
+    float kurang(in float a, in float b);
+}
+
+Artinya ada interface bernama Kalkulator dengan dua fungsi tambah() untuk menerima dua angka dan mengembalikan hasil penjumlahan, dan fungsi kurang() mengembalikan hasil pengurangan.
+
+Kemudian file .idl ini bisa dikonversi ke versi C++, Java, atau Python agar masing-masing bahasa tahu bentuk fungsi dan tipe datanya.
+
+Penggunaan:
+
+1. Common Object Request Broker Architecture (CORBA)
+Sistem komunikasi antar objek di jaringan.
+
+2. COM/DCOM (Microsoft)
+Untuk komunikasi antar komponen Windows.
+
+3. Web services / gRPC / Thrift / Protocol Buffers
+Semuanya punya varian IDL modern untuk mendefinisikan API antar sistem.
+
+Analogi:
+
+Bayangkan IDL seperti kamus universal antara dua orang yang bicara bahasa berbeda. Selama keduanya mengikuti kamus itu, mereka bisa saling mengerti, meskipun cara mereka berpikir berbeda.
+
+## Prototype-based Programming Language
+
+Prototype-based Programming Language adalah paradigma pemrograman berorientasi objek, di mana objek dibuat berdasarkan objek lain yang disebut prototipe, bukan berdasarkan kelas seperti pada OOP tradisional.
 
 ## Firmware
 
@@ -184,21 +189,13 @@ Firmware adalah perangkat lunak khusus yang ditanamkan langsung ke dalam perangk
 
 Abstract Syntax Tree (AST) adalah representasi berbentuk struktur pohon dari kode program, yang menunjukkan struktur sintaksis dari kode tersebut dalam bentuk yang lebih mudah dianalisis dan diproses oleh mesin.
 
-## Prototype-based Programming Language
-
-Prototype-based Programming Language adalah paradigma pemrograman berorientasi objek, di mana objek dibuat berdasarkan objek lain yang disebut prototipe, bukan berdasarkan kelas (class) seperti pada OOP tradisional.
-
-## Dependency
-
-Dependency adalah komponen, library, atau modul lain yang dibutuhkan oleh suatu program agar bisa berjalan dengan baik.
-
 ## Robust
 
 Robust adalah istilah untuk menggambarkan sebuah program atau sistem yang tetap stabil dan berjalan dengan benar meskipun terjadi kesalahan, input tidak valid, atau kondisi tak terduga.
 
 ## Single-threaded
 
-Single-threaded adalah arsitektur pemrograman di mana suatu program hanya menjalankan satu alur eksekusi (thread) pada satu waktu. Program hanya bisa mengerjakan satu tugas dalam satu waktu atau langkah demi langkah yang secara berurutan.
+Single-threaded adalah arsitektur pemrograman di mana suatu program hanya menjalankan satu alur eksekusi atau thread pada satu waktu. Program hanya bisa mengerjakan satu tugas dalam satu waktu atau langkah demi langkah yang secara berurutan.
 
 ## Agile
 
@@ -224,16 +221,6 @@ General purpose adalah istilah yang mengartikan sebagai hal yang serba guna atau
 
 Embedded system adalah sistem komputer khusus yang dirancang untuk melakukan satu tugas atau beberapa tugas tertentu, dan tertanam di dalam perangkat lain.
 
-## Source Code Compilation
-
-Source Code Compilation atau Kompilasi Kode Sumber adalah proses mengubah kode sumber yang ditulis oleh programmer seperti C atau Java menjadi kode mesin yang bisa dieksekusi oleh komputer.
-
-Jenis:
-
-1. Ahead-of-time (AOT) Compilation
-2. Just-in-time (JIT) Compilation
-3. Interpereted
-
 ## Run-time Environment
 
 Run-time Environment (RTE) adalah sistem tempat sebuah program dijalankan. Ini menyediakan semua sumber daya yang dibutuhkan agar program bisa berjalan dengan benar, seperti Java Virtual Machine (JVM), Node.js dan Web Browser.
@@ -246,26 +233,9 @@ Payment Processing Service adalah layanan yang menangani proses transaksi pembay
 
 Monolith adalah arsitektur perangkat lunak di mana seluruh bagian aplikasi dibangun menjadi satu kesatuan besar, termasuk antarmuka pengguna, logika bisnis, akses database dan fungsi-fungsi internal lainnya.
 
-## Real-time Messaging Protocol (RTMP)
-
-Real-time Messaging Protocol (RTMP) adalah protokol komunikasi yang awalnya dikembangkan oleh Adobe untuk mengalirkan (streaming) audio, video, dan data secara real-time melalui internet.
-
 ## Container
 
 Container adalah lingkungan ringan dan terisolasi yang berisi semua yang dibutuhkan aplikasi untuk berjalan: kode, dependensi, pustaka, dan konfigurasi. Mirip seperti mini komputer virtual, tapi jauh lebih ringan daripada virtual machine.
-
-## Programming Paradigm
-
-Programming paradigm adalah gaya atau pendekatan dalam menulis dan menyusun kode program.
-
-Paradigma:
-
-1. Imperative
-2. Procedural
-3. Object-oriented Programming
-4. Functional
-5. Declarative
-6. Logic
 
 ## Number Systems
 
