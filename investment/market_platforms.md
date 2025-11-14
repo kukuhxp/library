@@ -71,3 +71,11 @@ Autobahn adalah platform trading elektronik milik Deutsche Bank untuk klien inst
 ## P2P Lending
 
 P2P lending adalah platform pinjam-meminjam uang secara online yang menghubungkan langsung antara lender dan borrower, tanpa melalui lembaga keuangan tradisional seperti bank.
+
+## Price Discovery
+
+## Order-driven Market
+
+## Matching Engine
+
+### Partial Fill

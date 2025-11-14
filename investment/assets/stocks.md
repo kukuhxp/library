@@ -304,10 +304,6 @@ Floating Shares = Outstanding Shares - Restricted Shares
 
 Private Placement adalah penawaran saham secara langsung kepada sejumlah kecil investor tertentu, dan bukan melalui pasar publik atau bursa.
 
-## Rebalancing
-
-Rebalancing adalah proses menyesuaikan kembali komposisi portofolio investasi agar tetap sesuai dengan tujuan, profil risiko, atau strategi awal investor.
-
 ## Corporate Actions
 
 Corporate Action adalah tindakan atau keputusan penting yang diambil oleh perusahaan publik (emiten) yang berdampak langsung pada pemegang saham.

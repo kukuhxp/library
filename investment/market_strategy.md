@@ -40,7 +40,7 @@ Instruments:
 
 ## Martingale
 
-Martingale adalah strategi manajemen risiko atau sistem taruhan yang sering digunakan dalam trading maupun perjudian, di mana seseorang menggandakan jumlah posisi setiap kali mengalami kerugian, dengan harapan sekali menang bisa menutup semua kerugian sebelumnya dan mendapat untung.
+Martingale adalah sistem taruhan yang sering digunakan dalam trading maupun perjudian, di mana seseorang menggandakan jumlah posisi setiap kali mengalami kerugian, dengan harapan sekali menang bisa menutup semua kerugian sebelumnya dan mendapat untung.
 
 ## Carry Trade
 
@@ -48,7 +48,16 @@ Carry trade adalah strategi trading di mana trader meminjam mata uang dengan suk
 
 ## Exit Strategy
 
-Exit strategy adalah rencana atau strategi untuk keluar dari sebuah investasi atau posisi trading, baik dengan mengambil keuntungan atau membatasi kerugian.
+Exit strategy adalah strategi investasi yang digunakan oleh para investor besar untuk keluar dari sebuah investasi, baik dengan mengambil keuntungan atau membatasi kerugian.
+
+Ciri-ciri:
+
+1. Harga bergerak sideways, tapi volume jual tinggi.
+2. etiap kenaikan langsung dijual.
+3. Banyak wick atas panjang pada candlestick.
+4. Order besar muncul di book sebagai resistance
+5. Retail mulai FOMO masuk ketika institusi sedang jual.
+
 
 ## All Weather Portfolio
 
@@ -65,6 +74,8 @@ Turtle trading adalah strategi trend-following atau mengikuti tren yang dikemban
 ## Short Selling
 
 Short selling adalah strategi trading di mana kamu meminjam dan menjual aset seperti saham, dengan harapan harganya akan turun, lalu membelinya kembali di harga yang lebih rendah untuk mendapatkan keuntungan dari selisih harga.
+
+Kesimpulannya, short selling adalah selisih antara harga jual dan harga beli, tapi urutannya dibalik dari transaksi biasa. Kalau biasanya long position beli dulu, lalu jual kemudian, keuntungan terjadi kalau harga naik. Maka pada short selling, kita jual dulu dengan meminjam saham di broker saham, lalu beli kemudian di harga rendah, keuntungan terjadi kalau harga turun.
 
 ## Arbitrage Trading
 

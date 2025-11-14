@@ -95,14 +95,6 @@ Proxy atau Proxy Server adalah perantara antara perangkat kamu dan internet. Saa
 
 Maintenance atau Pemeliharaan dalam konteks adalah proses merawat dan memperbarui website agar tetap berjalan dengan baik, aman, dan relevan bagi pengunjung.
 
-## cPanel
-
-cPanel adalah control panel berbasis web yang digunakan untuk mengelola server hosting dan website dengan mudah tanpa harus menjalankan perintah lewat terminal atau coding manual.
-
-## Uniform Resources Locator (URL)
-
-Uniform Resource Locator (URL) adalah alamat lengkap yang digunakan untuk mengakses sumber daya (resource) di internet, seperti halaman web, gambar, video, atau file lainnya.
-
 ## Content Delivery Network (CDN)
 
 Content Delivery Network (CDN) adalah jaringan server yang tersebar di berbagai lokasi geografis yang bekerja sama untuk mengirimkan konten internet seperti gambar, video, halaman web, file JavaScript/CSS kepada pengguna dengan cepat, efisien, dan andal.

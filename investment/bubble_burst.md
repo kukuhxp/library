@@ -46,6 +46,13 @@ Palladium bubble (2016–2021) adalah gelembung spekulatif yang terjadi saat har
 
 Bitcoin bubble (2017) adalah gelembung spekulatif yang terjadi saat harga Bitcoin melonjak dari $1.000 ke hampir $20.000 karena euforia investor, lalu jatuh ke $6.000–$7.000 pada awal 2018.
 
+## WeWork Bubble (2019)
+
+WeWork Bubble (2019) adalah gelembung valuasi ketika perusahaan dinilai hingga $47 miliar, padahal bisnisnya tidak sekuat itu. Model bisnisnya berisiko karena menyewa gedung jangka panjang lalu menyewakannya kembali jangka pendek.
+
+Ketika dokumen IPO dibuka, terungkap bahwa WeWork mengalami kerugian besar dan memiliki masalah manajemen serius di bawah CEO Adam Neumann. Investor kehilangan kepercayaan, IPO dibatalkan, dan valuasi perusahaan anjlok drastis. Ini menjadi contoh jelas dari startup yang dinilai terlalu tinggi tanpa fundamental bisnis yang kuat.
+
+
 ## GameStop Sell Squeeze (2021)
 
 GameStop Short Squeeze (2021) adalah gelembung spekulatif yang terjadi saat harga saham GameStop melonjak dari $20 ke $480 karena aksi beli investor ritel memaksa short seller menutup posisi.

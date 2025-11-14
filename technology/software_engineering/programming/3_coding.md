@@ -3,6 +3,11 @@
 Coding adalah proses menulis instruksi dalam bahasa pemrograman agar komputer bisa memahami dan menjalankan perintah tersebut.
 Perbedaan antara coding dan programming, yaitu coding biasanya merujuk ke aktivitas teknis menulis kode program, sedangkan programming mencakup proses lebih luas, termasuk perencanaan, desain, dan pemecahan masalah.
 
+Paradigm:
+
+1. Declaration
+2. Execution.
+
 ## Syntax
 
 Syntax adalah aturan dan tata cara penulisan kode dalam suatu bahasa pemrograman. Syntax menentukan bagaimana struktur kode harus ditulis agar bisa dimengerti dan dijalankan oleh komputer.
@@ -14,10 +19,6 @@ Variable adalah tempat untuk menyimpan data dalam program. Kamu bisa membayangka
 ## Identifier
 
 Identifier adalah nama yang digunakan untuk menamai elemen dalam program, seperti variabel, fungsi, metode, properti, kelas, objek, konstanta.
-
-## Loosely Typed
-
-Loosely typed atau dynamically typed adalah karakteristik dari bahasa pemrograman di mana variabel tidak perlu dideklarasikan dengan tipe data tertentu secara eksplisit. Tipe data akan ditentukan secara otomatis saat program dijalankan, berdasarkan nilai yang diberikan.
 
 ## Data Types
 

@@ -223,7 +223,15 @@ Embedded system adalah sistem komputer khusus yang dirancang untuk melakukan sat
 
 ## Run-time Environment
 
-Run-time Environment (RTE) adalah sistem tempat sebuah program dijalankan. Ini menyediakan semua sumber daya yang dibutuhkan agar program bisa berjalan dengan benar, seperti Java Virtual Machine (JVM), Node.js dan Web Browser.
+Run-time Environment (RTE) adalah sistem tempat sebuah program dijalankan. Ini menyediakan semua sumber daya yang dibutuhkan agar program bisa berjalan dengan benar.
+
+Contoh:
+
+1. Java - Java Virtual Machine (JVM) / Java Runtime Environment (JRE).
+2. JavaScript - Node.js dan Web Browser.
+3. C++ - Compiler (MinGW).
+4. Python - Interpreter (CPython / Pypy).
+5. PHP - Web Server (Apache).
 
 ## Payment Processing Service
 
@@ -263,3 +271,33 @@ O = \frac{W - K + 2P}{S} + 1, atau sama dengan O = (W - K + 2P) / S + 1
 ## Equation Editor
 
 Equation editor adalah fitur pada aplikasi pengolah kata seperti Microsoft Word, Google Docs, atau LaTeX editor yang dipakai untuk menulis rumus matematika, fisika, atau notasi ilmiah dengan format rapi.
+
+## Bootstraping
+
+Bootstrapping berarti proses awal untuk memulai sistem atau program dari kondisi nol hingga bisa berjalan sepenuhnya. Secara sederhana, bootstrapping adalah tahap menghidupkan sistem dari sesuatu yang sangat sederhana, yaitu kode awal kecil yang kemudian memuat bagian-bagian yang lebih kompleks.
+
+Tahapan:
+
+1. Ketika sebuah program atau sistem komputer dijalankan ada kode kecil yang sudah tertanam seperti firmware atau ROM.
+2. Kode kecil ini disebut bootstrap code atau bootloader.
+3. Tugasnya: memuat kode program yang lebih besar seperti kernel OS ke dalam memori.
+4. Setelah itu, sistem bisa menjalankan program utama sepenuhnya.
+
+Contoh:
+
+1. Sistem Operasi
+Saat kamu menyalakan komputer, BIOS/UEFI menjalankan bootstrap loader. Loader ini memuat kernel OS dari disk ke RAM, lalu kernel mulai berjalan dan kemudian sistem aktif.
+
+2. Bahasa Pemrograman
+Beberapa compiler meng-bootstrapping dirinya sendiri, seperti compiler C awalnya ditulis dalam assembly. Setelah C bisa berjalan, compiler C versi baru ditulis ulang dalam bahasa C itu sendiri. Proses membuat compiler dengan dirinya sendiri disebut self-hosting atau compiler bootstrapping.
+
+3. Framework Web
+Dalam framework seperti Angular atau React, istilah bootstrapping juga dipakai untuk menggambarkan tahap inisialisasi aplikasi, yaitu saat modul utama di-load dan aplikasi dijalankan di browser.
+
+## Software Reverse Engineering (SRE)
+
+## Obfuscation
+
+## Packer
+
+## Anti-tamper

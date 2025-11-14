@@ -65,9 +65,17 @@ Subscription adalah model bisnis di mana pelanggan membayar secara berkala untuk
 
 Fabrication-less (Fabless) adalah model bisnis di industri semikonduktor di mana perusahaan merancang chip, tetapi tidak memiliki pabrik sendiri untuk memproduksinya.
 
-## Software as Service (SaaS)
+## Software as a Service (Saas)
 
-Software as a Service (SaaS) adalah model di mana sebuah perusahaan menyediakan perangkat lunak yang diakses melalui internet, bukan dijual dalam bentuk lisensi sekali bayar. Jadi pengguna cukup berlangganan untuk menggunakan layanan tersebut tanpa harus menginstal atau merawat sistem sendiri.
+Software as a Service (SaaS) adalah model layanan di mana perangkat lunak disediakan melalui internet, bukan diinstal langsung di komputer pengguna. Pengguna cukup mengakses aplikasi melalui browser atau aplikasi client, dan membayar berdasarkan langganan.
+
+## Infrastructure as a Service (IaaS)
+
+Infrastructure as a Service (IaaS) adalah model layanan cloud di mana penyedia cloud menyewakan infrastruktur TI virtual, seperti server, storage, jaringan, dan sistem operasi melalui internet. Pengguna bisa mengelola sumber daya ini sendiri tanpa harus membeli atau merawat perangkat keras fisik.
+
+## Platform as a Service (PaaS)
+
+Platform as a Service (PaaS) adalah model layanan cloud di mana penyedia cloud menyediakan platform siap pakai untuk membangun dan mengelola aplikasi tanpa perlu mengelola server secara langsung.
 
 ## White-label App
 
@@ -76,3 +84,5 @@ White-label app adalah aplikasi yang dibuat oleh satu perusahaan lalu dijual ata
 ## Algorithmic Business
 
 Algorithmic business atau bisnis berbasis algoritma adalah model bisnis yang mengandalkan algoritma, data, dan otomatisasi untuk mengambil keputusan, memberikan rekomendasi, atau menjalankan operasi bisnis.
+
+## Fee-based Management

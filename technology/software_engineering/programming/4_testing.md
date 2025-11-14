@@ -40,9 +40,15 @@ Jenis:
 
 Compiler adalah program yang berfungsi untuk menerjemahkan seluruh kode sumber dari bahasa pemrograman tingkat tinggi (seperti C, C++, Java) menjadi bahasa mesin (file biner/executable) sebelum program dijalankan.
 
+## Disassembler
+
 ## Compiling
 
 Compiling adalah proses mengubah seluruh kode sumber menjadi kode mesin atau binari yang bisa dijalankan oleh komputer.
+
+## Decompiling
+
+## Hex Editing
 
 ## Lexical Analysis
 

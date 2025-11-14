@@ -538,6 +538,12 @@ Ada 3 jenis dari tangible aset, yaitu:
 2. Current Tangible Assets: Kas, Piutang Usaha.
 3. Investment Property: Gedung atau Rumah Sewa.
 
+## Rebalancing
+
+Rebalancing adalah proses menyesuaikan kembali komposisi portofolio investasi agar tetap sesuai dengan tujuan, profil risiko, atau strategi awal investor.
+
+## Profit-taking
+
 ## Partial Profit-taking
 
 Partial profit-taking adalah mengambil sebagian keuntungan dari posisi yang sedang profit, sementara sisa posisi tetap terbuka untuk mendapatkan potensi keuntungan tambahan.
@@ -597,3 +603,7 @@ Do Your Own Research (DYOR) adalah istilah yang merujuk pada nasihat agar untuk 
 ## Dark Pools
 
 Dark pools adalah platform perdagangan saham atau aset lain yang tidak terlihat oleh publik. Mereka memungkinkan investor besar untuk membeli atau menjual saham dalam jumlah besar tanpa memengaruhi harga pasar secara langsung.
+
+## Self-reinforcing Loop
+
+## Stop-loss Cascade

@@ -32,4 +32,6 @@ Fake news adalah informasi palsu atau menyesatkan yang sengaja disebarkan untuk 
 
 ## Painting The Tape
 
-Painting the Tape adalah praktik manipulasi pasar di mana para pelaku melakukan serangkaian transaksi kecil yang tampaknya sah. Tujuannya adalah menciptakan ilusi aktivitas pasar yang tinggi untuk menipu investor lain agar ikut bertransaksi.
+Painting the Tape adalah praktik manipulasi pasar di mana para pelaku melakukan serangkaian transaksi kecil yang tampaknya sah. Tujuannya adalah menciptakan ilusi aktivitas pasar yang tinggi untuk menipu investor lain agar ikut bertransaksi
+
+## Bear Raid

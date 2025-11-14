@@ -185,3 +185,7 @@ Extradition atau ekstradisi adalah proses penyerahan seseorang yang diduga atau 
 ## Special Purpose Vehicle (SPV)
 
 Special Purpose Vehicle (SPV) adalah entitas hukum khusus berbentuk perusahaan anak yang dibuat oleh perusahaan induk dengan tujuan tertentu, biasanya untuk mengisolasi risiko keuangan atau hukum dari induknya.
+
+## Inkracht
+
+Inkracht berasal dari bahasa Belanda tepatnya dari istilah hukum “in kracht van gewijsde”, yang artinya putusan yang telah berkekuatan hukum tetap. Inkracht adalah putusan pengadilan yang sudah final dan tidak bisa lagi diganggu gugat dengan upaya hukum biasa.
