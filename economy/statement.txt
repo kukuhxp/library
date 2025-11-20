@@ -15,3 +15,12 @@ STATEMENT
 
 "Jangan pernah beri tahu penghasilanmu ke orang lain"
 - Finance
+
+"Emas bukanlah alat pembayaran, tapi aset penyimpanan nilai"
+- Gold
+
+"Lebih baik memiliki Hp yang sederhana daripada tidak memiliki sama sekali"
+- Utility
+
+"Ketika manusia sedang miskin mereka menginginkan komunisme, ketika manusia sudah kaya mereka menginginkan kapitalisme"
+- Economic Preference Shift
