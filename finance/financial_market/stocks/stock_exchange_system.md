@@ -36,6 +36,14 @@ Matching engine adalah inti dari sistem perdagangan elektronik yang bertugas unt
 
 Routing Logic adalah algoritma yang digunakan dalam sistem perdagangan elektronik untuk menentukan ke mana sebuah order beli/jual harus dikirim agar mendapat eksekusi terbaik berdasarkan harga, volume, kecepatan, atau prioritas lainnya.
 
+## Running Trade
+
+Running Trade adalah sebuah informasi transaksi yang ditampilkan secara realtime pada aplikasi broker. Informasi yang ditampilkan meliputi volume, waktu, harga dan kode broker. Informasi yang ditampilkan pada running trade adalah transaksi yang sudah tereksekusi.
+
+## Circuit Breaker
+
+Circuit Breaker adalah mekanisme otomatis untuk menghentikan sementara perdagangan ketika terjadi penurunan harga yang sangat drastis dalam waktu singkat.
+
 ## Partial Fill
 
 ## OUCH
@@ -55,7 +63,6 @@ Portware adalah Execution Management System (EMS) canggih yang dirancang khusus 
 ### 3. Tora
 
 Tora adalah platform cloud-based canggih yang menyediakan solusi menyeluruh untuk order & execution management (OEMS), portfolio management (PMS), transaction cost analysis (TCA), dan risk & compliance dalam satu sistem terpadu. Awalnya berdiri independen pada tahun 2004, dan kini telah diakuisisi oleh London Stock Exchange Group (LSEG) pada Februari 2022 senilai $325 juta.
-
 
 ## In-house Management Systems
 

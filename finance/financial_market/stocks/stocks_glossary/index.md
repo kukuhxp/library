@@ -24,7 +24,11 @@ Central Counterparty (CCP) adalah lembaga kliring yang bertugas sebagai perantar
 
 ## Central Securities Depository (CSD)
 
-Central Securities Depository (CSD) adalah lembaga yang menyimpan dan mengelola ase-aset keuangan seperti saham, ETF dan obligasi. Biasanya custodian depository disebut custodian bank atau bank kustodian. 
+Central Securities Depository (CSD) adalah lembaga yang menyimpan dan mengelola ase-aset keuangan seperti saham, ETF dan obligasi. Biasanya custodian depository disebut custodian bank atau bank kustodian.
+
+## Securities and Exchange (SEC)
+
+Securities and Exchange Commission (SEC) adalah lembaga pemerintah Amerika Serikat yang bertugas mengawasi dan mengatur bursa saham.
 
 ## Investor Fund Account
 
@@ -44,7 +48,7 @@ Primary Market atau Pasar Perdana adalah tempat perusahaan publik menjual saham-
 
 ## Secondary Market
 
-Secondary Market atau Pasar Sekunder adalah tempat (bursa saham) para investor retail untuk melakukan aktivitas jual beli saham. Pada secondary market-lah saham-saham mulai berfluktuasi harga.
+Secondary Market atau Pasar Sekunder adalah tempat para investor retail dan institusi keuangan melakukan aktivitas jual beli saham. Pada secondary market-lah saham-saham mulai berfluktuasi harga.
 
 ## Negotiated Market
 
@@ -53,10 +57,6 @@ Negotiated Market atau Pasar Negosiasi adalah pasar over-the-counter (OTC) untuk
 ## Bagger
 
 Bagger adalah sebuah istilah yang merujuk pada kenaikan harga sebuah saham yang naik berkali-kali lipat.
-
-## Running Trade
-
-Running Trade adalah sebuah informasi transaksi yang ditampilkan secara realtime pada aplikasi broker. Informasi yang ditampilkan meliputi volume, waktu, harga dan kode broker. Informasi yang ditampilkan pada running trade adalah transaksi yang sudah tereksekusi.
 
 ## Broker Summary
 
@@ -105,21 +105,6 @@ Recording date adalah tanggal pencatatan para shareholder yang telah membeli sah
 ### 4. Payment Date
 
 Payment date adalah tanggal pembagian dividen ke para shareholder.
-
-
-## Window Dressing
-
-Window Dressing adalah sebuah strategi pemasaran yang dilakukan perusahaan untuk mempercantik laporan keuangan mereka agar menarik di mata para investor. Pada umumnya perusahaan akan mulai melakukan segala cara untuk mempercantik laporan keuangan mereka seperti menurunkan harga saham, mengurangi pengeluaran perusahaan atau menunda pembayaran hutang sampai tahun depan. Tapi, tidak semua usaha yang dilakukan oleh perusahaan pasti berhasil dan mereka akan memaksa laporan keuangan mereka agar tetap cantik.
-
-## Financial Report
-
-Financial Report atau laporan keuangan adalah dokumen keuangan yang diterbitkan oleh perusahaan. Laporan keuangan berisikan data-data aset perusahaan, pemasukan dan pengeluaran perusahaan.
-
-Ada 3 jenis laporan keuangan, yaitu:
-
-1. Laporan Keuangan Tahunan.
-2. Laporan Keuangan Interim.
-3. Laporan Keuangan Bulanan.
 
 ## Santa Claus Rally
 
@@ -183,40 +168,6 @@ Global Depository Receipt (GDR) adalah sebuah instrumen keuangan yang digunakan 
 
 Foreign Institutional Investor (FII) adalah istilah yang merujuk pada suatu entitas yang bergerak di sektor investasi seperti manajer investasi dan bank investasi yang berasal dari luar negeri. Di bursa saham dan bursa kripto mereka disebut sebagai whales.
 
-## Initial Public Offering (IPO)
-
-Initial Public Offering (IPO) adalah suatu proses awal sebuah perusahaan untuk menawarkan saham-saham mereka di bursa saham. Perusahaan yang melakukan IPO akan menjual saham-saham mereka ke instansi-instansi keuangan dan broker saham. Saham IPO tidak akan mengalami perubahan harga selama belum terdaftar di bursa saham tersebut.
-
-## Secondary Offering
-
-Secondary Offering atau Right Issue adalah suatu proses yang dilakukan perusahaan untuk menjual saham tambahan yang sudah listing di bursa saham.
-
-Ada 2 jenis secondary offering, yaitu:
-
-### 1. Dilutive Secondary Offering
-
-Dilutive Secondary Offering adalah proses penerbitan saham tambahan di bursa saham dengan cara menerbitkan saham baru untuk menambah jumlah saham yang beredar.
-
-### 2. Non-deluitive Secondary Offering
-
-Non-delutive secondary offering adalah tindakan yang dilakukan pemegang saham pengendali untuk menjual sahamnya ke publik tanpa menambah jumlah saham yang beredar.
-
-## Listing/Delisting
-
-Listing adalah istilah yang merujuk pada sebuah saham yang baru didaftarkan di sebuah bursa saham dengan melalui proses initial public offering atau IPO. Untuk melakukan listing di sebuah bursa saham, perusahaan harus memenuhi syarat dan kriteria di bursa saham tersebut. Sedangkan delisting adalah istilah yang merujuk pada sebuah saham yang dihapus dari daftar bursa saham. Ada 2 cara untuk sebuah emiten melakukan delisting, yang pertama adalah dengan cara sukarela (voluntary delisting) dan yang kedua adalah dengan cara paksa (forced delisting).
-
-## Dual Listing
-
-Dual Listing adalah istilah yang merujuk pada sebuah saham yang baru didaftarkan dan diterbitkan di dua bursa saham yang berbeda. Selain mendaftarkan saham di bursa saham yang kedua, perusahaan juga harus menerbitkan saham baru mereka di bursa saham yang kedua 
-
-## Cross Listing
-
-Cross Listing adalah istilah yang hampir sama dengan dual listing. Hanya bedanya, proses cross listing tidak melibatkan proses penerbitan saham yang baru di bursa saham yang kedua tersebut.
-
-## Relisting
-
-Relisting adalah istilah yang merujuk pada sebuah saham yang didaftarkan kembali ke bursa saham saham sebelumnya, setelah saham tersebut delisting.
-
 ## Debt to Equity Swap
 
 Debt to Equity Swap adalah suatu proses di mana utang perusahaan akan diubah menjadi saham perusahaan. Upaya ini bertujuan untuk merestrukturisasi keuangan perusahaan akibat tidak dapat melakukan kewajiban membayar utang perusahaan.
@@ -224,26 +175,6 @@ Debt to Equity Swap adalah suatu proses di mana utang perusahaan akan diubah men
 ## Private Placement
 
 Private Placement adalah penawaran saham secara langsung kepada sejumlah kecil investor tertentu, dan bukan melalui pasar publik atau bursa.
-
-## Circuit Breaker
-
-Circuit Breaker adalah mekanisme otomatis untuk menghentikan sementara perdagangan ketika terjadi penurunan harga yang sangat drastis dalam waktu singkat.
-
-## Dividend Trap
-
-Dividend Trap adalah situasi di mana investor tergoda membeli saham hanya karena dividen tinggi, padahal kondisi fundamental perusahaan sebenarnya buruk atau tidak sehat.
-
-## Trading Halt
-
-Trading Halt adalah penghentian sementara perdagangan saham atau instrumen keuangan lainnya di bursa efek.
-
-## Backdoor Listing
-
-Backdoor listing atau reverse takeover atau reverse merger adalah cara sebuah perusahaan swasta menjadi perusahaan publik tanpa melalui proses IPO.
-
-## Free Float
-
-Free Float adalah jumlah saham perusahaan yang beredar di publik dan dapat diperdagangkan secara bebas di pasar saham.
 
 ## Forward-looking Market
 
@@ -259,11 +190,7 @@ Pure alpha adalah keuntungan atau return murni yang dihasilkan dari keahlian man
 
 ## Book Building
 
-Book Building adalah proses yang digunakan dalam penawaran umum perdana (IPO) untuk menentukan harga saham awal berdasarkan permintaan dari investor institusi maupun ritel.
-
-## Securities and Exchange (SEC)
-
-Securities and Exchange Commission (SEC) adalah lembaga pemerintah Amerika Serikat yang bertugas mengawasi dan mengatur bursa saham.
+Book building adalah proses yang digunakan dalam penawaran umum perdana (IPO) untuk menentukan harga saham awal berdasarkan permintaan dari investor institusi maupun ritel.
 
 ## Security Token Offering (STO)
 
