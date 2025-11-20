@@ -1,70 +1,100 @@
-# ADVERTISING STRATEGY
+## Affiliate Marketing
 
-## AIDA
+Affiliate Marketing adalah strategi pemasaran digital di mana seseorang mendapatkan komisi dengan mempromosikan produk atau layanan milik orang lain.
 
-Awareness, Interest, Desire, Action (AIDA) adalah model dalam pemasaran dan periklanan yang menggambarkan tahapan psikologis konsumen dari pertama kali mengenal produk hingga akhirnya memutuskan untuk membeli.
+## Multi Level Marketing (MLM)
+
+Multi Level Marketing (MLM) adalah strategi pemasaran di mana penjualan produk dilakukan oleh jaringan distributor yang juga bisa merekrut orang lain untuk menjadi distributor baru. Setiap anggota bisa mendapatkan komisi dari penjualan pribadinya dan juga komisi dari penjualan tim yang ia rekrut.
+
+## Segmentation Targeting Positioning (STP)
+
+Segmentation Targeting Positioning (STP) adalah strategi pemasaran yang digunakan untuk memahami pasar, memilih target pelanggan yang paling sesuai, dan menentukan cara menyampaikan nilai produk agar menarik bagi mereka.
+
+## Omnichannel Ritel
+
+Omnichannel ritel adalah strategi pemasaran yang menggabungkan berbagai saluran penjualan, baik online maupun offline agar pelanggan bisa berbelanja dengan pengalaman yang mulus dan terhubung di mana pun mereka berada.
+
+Contoh:
+
+1. Pelanggan melihat produk di website, lalu membelinya langsung di toko fisik.
+2. Pelanggan membeli lewat aplikasi, lalu mengambil barang di toko (click & collect).
+3. Pelanggan mengembalikan barang online, di toko terdekat.
+4. Sistem stok dan promosi sama di semua saluran.
+
+## Family Branding
+
+Family branding adalah strategi pemasaran di mana satu merek utama digunakan untuk beberapa produk dalam satu perusahaan, sehingga semua produk terkait memakai nama merek yang sama.
+
+Tujuannya adalah memanfaatkan reputasi dan kepercayaan merek yang sudah ada untuk produk baru. Mempermudah pemasaran karena konsumen sudah mengenal merek utama.
+
+Risikonya adalah jika salah satu produk gagal, bisa mempengaruhi citra merek lainnya.
+
+Deskripsi:
+
+1. Satu merek digunakan untuk beberapa produk.
+2. Produk biasanya masih sejenis atau berhubungan dengan kategori utama.
+3. Mempercepat pengenalan produk baru di pasar.
+
+Contoh:
+
+Apple menggunakan merek Apple pada produk seperti iPhone, iPad, MacBook, Apple Watch.
+
+## Corporate Branding
+
+Corporate Branding adalah strategi pemasaran untuk membangun dan memasarkan citra seluruh perusahaan (bukan hanya produknya) sebagai satu merek utama yang mewakili nilai, visi, dan reputasi perusahaan tersebut.
+
+Fokusnya bukan pada satu produk, tetapi pada nama dan identitas perusahaan secara keseluruhan. Tujuannya untuk menciptakan kepercayaan dan loyalitas jangka panjang terhadap perusahaan, sehingga produk apa pun yang dikeluarkan akan lebih mudah diterima pasar.
+
+Deskripsi:
+
+1. Nama perusahaan digunakan sebagai merek utama.
+2. Komunikasi merek menonjolkan nilai, budaya, dan reputasi perusahaan.
+3. Mencakup seluruh lini produk dan layanan.
+4. Digunakan untuk membangun kepercayaan publik, investor, dan karyawan.
+
+Contoh:
+
+Google menggunakan nama perusahaannya sebagai merek mesin pencari mereka.
+
+## Co-branding
+
+Co-branding adalah strategi pemasaran di mana dua atau lebih merek bekerja sama untuk menciptakan satu produk atau layanan bersama, dengan tujuan memperkuat citra, menjangkau pasar baru, dan meningkatkan nilai merek masing-masing.
+
+Tujuan:
+
+1. Menarik pelanggan baru dari merek partner.
+2. Meningkatkan kredibilitas dengan asosiasi positif.
+3. Berbagi biaya promosi dan risiko bisnis.
+4. Menciptakan inovasi produk melalui kolaborasi.
+
+Jenis:
+
+1. Product-based Co-Branding
+Dua merek menciptakan satu produk baru.
+Contohnya, Nike + Apple yaitu Nike Run Club terintegrasi dengan Apple Watch.
+
+2. Communications-based Co-Branding
+Dua merek berkolaborasi dalam promosi atau kampanye iklan.
+Contohnya, GoPay x Tokopedia dalam promo cashback.
+
+## Personal Branding
+
+Personal Blbranding adalah strategi pemasaran untuk membentuk citra diri yang kuat dan konsisten agar dikenal, dipercaya, dan diingat publik sesuai keinginanmu.
+
+Tujuan:
+
+1. Meningkatkan kepercayaan dan kredibilitas.
+2. Menonjolkan keunikan diri di antara banyak orang lain.
+3. Membangun peluang karier, seperti pekerjaan, kolaborasi, atau klien baru.
+4. Mengontrol persepsi publik terhadap diri sendiri.
+
+Contoh:
+
+Elon Musk dikenal sebagai visioner teknologi dan inovator.
 
 Tahapan:
 
-1. Awareness
-Tahap di mana konsumen mengetahui keberadaan produk atau merek.
-Tujuannya adalah menarik perhatian. Contoh, melihat iklan smartphone baru di media sosial.
-
-2. Interest
-Setelah sadar, konsumen mulai tertarik dan ingin tahu lebih banyak. Contoh, mencari review atau spesifikasi smartphone tersebut di YouTube.
-
-3. Desire
-Konsumen mulai ingin memiliki produk itu karena merasa cocok atau butuh. Contoh, mulai berpikir, “Smartphone ini kamera dan fiturnya pas banget buatku.”
-
-4. Action
-Tahap akhir di mana konsumen mengambil keputusan membeli. Contoh, membeli smartphone tersebut secara online.
-
-## Hierarchy of Effects
-
-Hierarchy of effects atau hirarki efek adalah model komunikasi pemasaran yang menjelaskan tahapan proses yang dilalui konsumen dari saat mereka pertama kali menyadari keberadaan suatu produk hingga akhirnya melakukan pembelian dan menjadi pelanggan setia.
-
-Model ini menunjukkan bahwa pembelian tidak terjadi secara langsung, melainkan melalui beberapa langkah psikologis dari kognitif (berpikir), afektif (merasa), hingga konatif (bertindak). Model ini pertama kali diperkenalkan oleh Robert Lavidge dan Gary Steiner (1961).
-
-Tahapan:
-
-1. Awareness (Cognitive)
-Konsumen mulai tahu bahwa produk atau merek itu ada. Contoh, melihat iklan sepatu Nike.
-
-2. Knowledge (Cognitive)
-Konsumen mencari informasi dan memahami produk lebih dalam. Contoh, membaca detail sepatu di website.
-
-3. Liking (Affective)
-Konsumen mulai menyukai produk secara emosional. Contoh, tertarik dengan desain dan gaya Nike.
-
-4. Preference (Affective)
-Konsumen membandingkan dengan merek lain dan mulai memiliki pilihan favorit. Contoh, memilih Nike daripada Adidas.
-
-5. Conviction (Affective)
-Konsumen yakin bahwa produk itu pilihan terbaik. Contoh, yakin sepatu Nike cocok untuk olahraga.
-
-6. Purchase (Conative)
-Konsumen mengambil tindakan membeli produk. Contoh, membeli sepatu Nike di toko online.
-
-## DAGMAR
-
-Defining Advertising Goals for Measured Advertising Results (DAGMAR) adalah kerangka kerja dalam periklanan yang digunakan untuk menetapkan, mengukur, dan mengevaluasi efektivitas iklan berdasarkan tujuan komunikasi yang jelas dan terukur.
-
-Model ini diperkenalkan oleh Russell H. Colley pada tahun 1961 melalui bukunya yang berjudul “Defining Advertising Goals for Measured Advertising Results”.
-
-Tahapan;
-
-1. Awareness
-Konsumen menyadari adanya merek atau produk. Contoh, melihat iklan smartphone baru di YouTube.
-
-2. Comprehension
-Konsumen memahami informasi, fitur, dan manfaat produk. Contoh, mengetahui bahwa smartphone itu punya kamera 108 MP dan baterai besar.
-
-3. Conviction
-Konsumen mulai percaya dan yakin bahwa produk itu layak dibeli Contoh, yakin smartphone itu lebih bagus dibanding pesaing.
-
-4. Action
-Konsumen akhirnya melakukan pembelian. Contoh, membeli smartphone tersebut di toko online.
-
-## Integrated Marketing Communication (IMC)
-
-Integrated Marketing Communication (IMC) atau Komunikasi Pemasaran Terpadu adalah strategi menyatukan semua bentuk komunikasi pemasaran seperti iklan, promosi, media sosial, PR, dan penjualan agar pesan yang diterima konsumen konsisten dan saling mendukung.
+1. Tentukan nilai dan keunikan diri yang membedakan kamu dari orang lain.
+2. Bangun kehadiran online.
+3. Tunjukkan kompetensi dan konsistensi dalam bidangmu.
+4. Jaga reputasi dan komunikasi publik.
