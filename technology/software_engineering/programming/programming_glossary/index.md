@@ -1,35 +1,438 @@
-# SOFTWARE ENGINEERING
+## Intermediate Language
 
-Software engineering adalah bidang ilmu dan praktik yang fokus pada perancangan, pengembangan, pengujian, dan pemeliharaan perangkat lunak secara sistematis, terstruktur, dan efisien.
+## Profiling
 
-## Programming
+## Hotfix
 
-Programming atau pemrograman adalah proses menulis, menguji, dan memelihara kode yang digunakan untuk memberi instruksi kepada komputer agar melakukan tugas tertentu.
+Hotfix adalah perbaikan cepat terhadap masalah kritis dalam perangkat lunak yang dilakukan segera setelah bug ditemukan, tanpa menunggu rilis besar berikutnya.
 
-## Programming Language
+## Over-the-air (OTA)
 
-Programming language atau bahasa pemrograman adalah bahasa khusus yang digunakan untuk memberi instruksi kepada komputer agar melakukan tugas tertentu, seperti menghitung, menampilkan data, menjalankan aplikasi, atau mengontrol perangkat keras.
+Over-the-air (OTA) adalah metode untuk mendistribusikan data atau pembaruan perangkat lunak ke perangkat secara nirkabel, biasanya melalui koneksi Wi-Fi, seluler, atau bluetooth.
+
+## Symbol Files
+
+Symbol files adalah file yang berisi informasi simbolik tentang kode program seperti nama fungsi, variabel, dan baris kode sumber yang digunakan untuk proses debugging. File ini membantu developer memahami apa yang sedang terjadi dalam program saat dijalankan atau saat terjadi error.
+
+## Patch
+
+Patch adalah perbaikan kecil atau pembaruan pada perangkat lunak yang bertujuan untuk mmperbaiki bug, menutup celah keamanan, meningkatkan performa stabilitas sistem.
+
+## Compiler
+
+Compiler adalah program yang berfungsi untuk menerjemahkan seluruh kode sumber dari bahasa pemrograman tingkat menengah seperti C/C++ menjadi bahasa mesin.
+
+## Decompiler
+
+Decompiler adalah program atau alat yang bertugas melakukan decompiling, yaitu mengubah file bytecode seperti .exe, .dll, .class, .dex menjadi kode sumber tingkat tinggi misalnya C, Java, Python.
+
+Contoh:
+
+```
+// Bytecode
+55 48 89 E5 48 83 EC 10 ...
+
+// C Code
+int add(int a, int b) {
+    return a + b;
+}
+```
+
+## Disassembler
+
+Disassembler adalah sebuah alat yang digunakan untuk mengubah kode mesin menjadi assembly code yang lebih mudah dibaca manusia.
+
+Contoh:
+
+```
+// Bytecode
+55 48 89 E5
+
+
+// Assembly Code
+push rbp
+mov rbp, rsp
+```
+
+## Compiling
+
+Compiling adalah proses mengubah seluruh kode sumber menjadi kode mesin atau binari yang bisa dijalankan oleh komputer.
+
+## Decompiling
+
+Decompiling adalah proses mengubah file biner atau bytecode menjadi kode sumber dalam bahasa tingkat tinggi seperti C, Java, atau Python.
+
+## Lexical Analysis
+
+Lexical analysis adalah tahap pertama dalam proses kompilasi atau interpretasi kode program, di mana kode sumber dipecah menjadi bagian-bagian kecil yang disebut token.
+
+## Parsing
+
+Parsing adalah proses di mana kode sumber yang sudah dipecah menjadi token oleh lexical analysis akan dianalisis strukturnya berdasarkan aturan tata bahasa oleh bahasa pemrograman tersebut.
+
+## Linking
+
+Linking adalah proses dalam pengembangan perangkat lunak yang menggabungkan berbagai bagian program seperti kode yang dikompilasi, pustaka/libraries dan dependensi lainnya menjadi satu file executable atau program yang bisa dijalankan.
+
+## Interpreter
+
+Interpreter atau Virtual Machine (VM) adalah program yang berfungsi untuk membaca dan menjalankan kode sumber secara langsung baris per baris, tanpa perlu mengubahnya menjadi kode mesin.
+
+## Bytecode
+
+Bytecode adalah kode perantara antara kode sumber dan kode mesin yang dijalankan langsung oleh virtual machine atau interpreter.
+
+Example:
+
+```
+// Java Code
+public class Test {
+    public static void main(String[] args) {
+        System.out.println("Hello");
+    }
+}
+
+// Java Bytecode
+0: getstatic     #2   // Field java/lang/System.out:Ljava/io/PrintStream;
+3: ldc           #3   // String Hello
+5: invokevirtual #4   // Method java/io/PrintStream.println:(Ljava/lang/String;)V
+8: return
+```
+
+## Machine Code
+
+Machine code adalah bahasa paling dasar yang bisa dimengerti langsung oleh prosesor. Kode ini terdiri dari angka biner, yang memberi instruksi spesifik ke hardware untuk melakukan tugas seperti menghitung, menyimpan data, atau menampilkan output.
+
+Example:
+
+```
+// HEX Machine Code
+B8 04 00 00 00
+BB 01 00 00 00
+B9 00 10 60 00
+BA 0D 00 00 00
+CD 80
+B8 01 00 00 00
+31 DB
+CD 80
+
+// Binary Machine Code
+10111000 00000001 00000000 00000000 00000000
+```
+
+## Feature Flag
+
+Feature flag atau feature toggle adalah mekanisme untuk mengaktifkan atau menonaktifkan fitur aplikasi secara dinamis tanpa perlu mengubah atau redeploy kode. Dengan feature flag, developer bisa mengontrol perilaku aplikasi lewat konfigurasi.
+
+Contoh:
+
+Bayangkan kamu punya aplikasi dan sedang mengembangkan fitur Mode Gelap (Dark Mode). Daripada langsung merilis fitur itu ke semua pengguna, kamu bisa menyembunyikannya di balik feature flag.
 
 Jenis:
 
-1. Low-level Language
-Dekat dengan bahasa mesin, tapi sulit dipahami manusia, tapi eksekusinya sangat cepat. Contohnya, Assembly Language, Machine Code.
+1. Release Flag
+Untuk mengontrol perilisan fitur baru secara bertahap, hanya beberapa pengguna saja yang dapat melihat fitur baru.
 
-2. High-level Language
-Lebih mudah dibaca manusia, karena menyerupai bahasa alami. Harus diterjemahkan ke bahasa mesin melalui compiler atau interpreter.Contohnya, C++, C#, Python, Java, JavaScript.
+2. Experiment Flag
+Untuk menguji versi fitur yang berbeda dan melihat hasil performanya.
 
-## Programming Paradigm
+3. Ops Flag
+Untuk mengaktifkan/menonaktifkan komponen penting saat darurat. Contohnya, mematikan sistem pembayaran saat maintenance, agar pengguna tidak mengalami kerugian saat sistem diperbaiki.
 
-Programming paradigm adalah gaya atau pendekatan dalam menulis dan menyusun kode program.
+4. Permission Flag
+Untuk memberi akses fitur tertentu hanya ke user tertentu.
+
+## Bug
+
+Bug adalah kesalahan, cacat, atau kelemahan dalam kode program yang menyebabkan program tidak berjalan sesuai harapan.
+
+## Debugging
+
+Debugging adalah proses mencari, menemukan, dan memperbaiki kesalahan dalam kode program agar program dapat berjalan dengan benar.
+
+## Remote Debugging
+
+Remote debugging adalah proses men-debug yang berjalan di komputer lain dari jarak jauh, biasanya melalui jaringan lokal atau internet.
+
+## Handling Programs
+
+Handling Program adalah cara program menangani situasi atau kondisi tertentu, terutama errors, input tak terduga, atau peristiwa khusus selama program berjalan.
+
+## Syntax
+
+Syntax adalah aturan dan tata cara penulisan kode dalam suatu bahasa pemrograman. Syntax menentukan bagaimana struktur kode harus ditulis agar bisa dimengerti dan dijalankan oleh komputer.
+
+## Variable
+
+Variable adalah tempat untuk menyimpan data dalam program. Kamu bisa membayangkan variabel seperti kotak yang diberi nama, dan di dalam kotak itu kamu bisa menyimpan nilai seperti angka, teks, atau objek.
+
+## Identifier
+
+Identifier adalah nama yang digunakan untuk menamai elemen dalam program, seperti variabel, fungsi, metode, properti, kelas, objek, konstanta.
+
+## Data Types
+
+Data types adalah klasifikasi nilai dalam pemrograman yang menentukan jenis data yang bisa disimpan dan dioperasikan oleh suatu variabel.
+
+## Expression
+
+Expression adalah kombinasi dari nilai, variabel, operator, atau fungsi yang menghasilkan sebuah nilai.
+
+## Statement
+
+Statement adalah instruksi lengkap yang dijalankan oleh program untuk melakukan suatu aksi.
+
+## Class
+
+Class atau kelas adalah cetakan untuk membuat objek. Class mendefinisikan struktur dan perilaku yang dimiliki oleh objek yang dibuat dari class tersebut.
+
+## Object
+
+Object atau oobjek adalah instansi dari sebuah class. Jika class adalah cetakannya, maka object adalah produk jadi dari cetakan itu.
+
+## Constructor
+
+Constructor adalah metode khusus dalam sebuah class yang dipanggil secara otomatis saat object dibuat. Tujuan dari constructor adalah untuk menginisialisasi dari atribut-atribut dalam object.
+
+## Destructor
+
+Destructor adalah metode khusus dalam sebuah class yang akan dipanggil secara otomatis saat sebuah objek dihapus dari memori atau tidak lagi digunakan. Tujuan dari destructor adalah untuk membersihkan resource seperti file, koneksi jaringan, memori, dll.
+
+## Method
+
+Method atau metode adalah fungsi yang didefinisikan di dalam sebuah class dan bekerja pada objek dari class tersebut.
+
+## Property
+
+Property atau properti adalah atribut milik sebuah objek yang menyimpan nilai dan biasanya mewakili ciri atau keadaan objek tersebut.
+
+## Function
+
+Function atau fungsi adalah blok kode yang dirancang untuk melakukan tugas tertentu dan bisa dipanggil berulang kali. Function membantu membuat kode lebih terorganisir, mudah dibaca, dan tidak perlu ditulis ulang.
+
+## Parameter
+
+Parameter adalah variabel yang ditulis di dalam tanda kurung saat mendefinisikan fungsi. Parameter berfungsi untuk menerima input yang dikirim ke fungsi agar fungsi bisa bekerja secara fleksibel.
+
+## Argument
+
+Argument adalah nilai nyata yang kamu kirim ke dalam function saat memanggilnya. Argument akan mengisi parameter yang didefinisikan di fungsi.
+
+## Looping
+
+Looping adalah proses menjalankan blok kode secara berulang selama kondisi tertentu masih terpenuhi.
+
+## Scoping
+
+Scoping adalah aturan yang menentukan di mana sebuah variabel bisa diakses atau digunakan dalam kode. Singkatnya scope adalah wilayah hidup sebuah variabel.
+
+## Concatenating
+
+Concatenating adalah proses menggabungkan dua atau lebih string menjadi satu string baru.
+
+## Method Chaining
+
+Method chaining adalah teknik dalam pemrograman di mana beberapa metode dipanggil berurutan dalam satu baris, karena setiap metode mengembalikan objek yang sama atau objek lain yang juga punya metode.
+
+Sederhananya, method chaining adalah cara memanggil banyak metode berurutan, titik ke titik (.), tanpa harus menyimpan hasil tiap langkah ke variabel.
+
+## Property Chaining
+
+Property Chaining adalah proses mengakses properti yang bersarang di dalam objek lain, dengan menggunakan tanda titik (.) secara berurutan. Sederhananya, property chaining adalah cara untuk mengakses data yang ada di dalam struktur objek yang bertingkat.
+
+## Binding
+
+Binding adalah proses mengaitkan nama variabel, fungsi, metode dengan entitas nyata seperti lokasi memori, implementasi fungsi, atau tipe data. Binding terbagi menjadi dua jenis utama, yaitu:
+
+1. Static Binding
+2. Dynamic Binding
+
+## Regular Expression (Regex)
+
+Regular Expression (Regex) adalah pola khusus yang digunakan untuk mencari, mencocokkan, dan memanipulasi teks atau string.
+
+## Nesting
+
+Nesting adalah proses menempatkan satu struktur kode di dalam struktur kode lain.
+
+## Boxing & Unboxing
+
+Boxing adalah proses mengubah nilai primitif menjadi objek, sedangkan unboxing adalah proses mengambil nilai primitif dari dalam objek wrapper.
+
+## Casting
+
+Casting adalah proses mengubah tipe data suatu nilai ke tipe data lain dalam pemrograman.
+
+## Loop Unrolling
+
+Loop unrolling adalah teknik optimisasi dalam pemrograman di mana isi loop ditulis ulang secara eksplisit beberapa kali untuk mengurangi overhead kontrol loop dan meningkatkan performa.
+
+## Operator Notation
+
+Operator notation adalah cara penulisan ekspresi matematika atau logika yang melibatkan operator seperti +, -, *, / dan operand. 
+
+Jenis:
+
+1. Infix Notation
+2. Prefix Notation
+3. Postfix Notation
+
+## Refactoring
+
+Refactoring adalah proses mengubah struktur internal kode program tanpa mengubah perilaku luarnya. Tujuannya adalah untuk membuat kode lebih bersih, mudah dipahami, dan mudah dirawat, tanpa mengganggu fungsionalitas yang sudah berjalan.
+
+## Object-oriented Programming (OOP)
+
+Object-oriented Programming (OOP) adalah paradigma atau cara berpikir dari pemrograman yang mengorganisasi kode ke dalam objek-objek yang meniru benda atau konsep dunia nyata.
 
 Paradigma:
 
-1. Imperative
-2. Procedural
-3. Object-oriented Programming
-4. Functional
-5. Declarative
-6. Logic
+1. Inheritance
+2. Encapsulation
+3. Polymorphism
+4. Abstraction
+
+## Interface
+
+Interface adalah perjanjian yang menentukan metode apa saja yang harus dimiliki oleh suatu kelas, tanpa menentukan bagaimana cara kerjanya. Dengan kata lain interface mendefinisikan apa yang harus dilakukan, tapi tidak menjelaskan bagaimana melakukannya.
+
+Contoh:
+
+Misalnya kamu membuat interface bernama Hewan:
+
+interface Hewan {
+    void makan();
+    void bergerak();
+}
+
+Lalu kamu punya dua kelas yang mengimplementasikan interface ini:
+
+class Kucing implements Hewan {
+    public void makan() {
+        System.out.println("Kucing makan ikan");
+    }
+
+    public void bergerak() {
+        System.out.println("Kucing berjalan dengan empat kaki");
+    }
+}
+
+class Burung implements Hewan {
+    public void makan() {
+        System.out.println("Burung makan biji-bijian");
+    }
+
+    public void bergerak() {
+        System.out.println("Burung terbang di udara");
+    }
+}
+
+Setiap kelas wajib memiliki metode makan() dan bergerak(), karena sudah dijanjikan oleh interface Hewan.
+
+
+Tujuan:
+
+1. Standarisasi perilaku antar kelas.
+2. Memisahkan definisi dari implementasi.
+3. Mempermudah pengembangan sistem besar, agar berbagai bagian program bisa bekerja sama dengan aturan yang sama.
+4. Mendukung prinsip OOP (Object-Oriented Programming) seperti abstraction dan polymorphism.
+
+## Programming Interfaces
+
+Programming Interfaces adalah cara sebuah bagian program berinteraksi dengan bagian lain, biasanya melalui fungsi, method, atau API.
+
+## Application Programming Interfaces (API)
+
+Application programming interface (API) adalah sekumpulan aturan dan protokol yang digunakan untuk berkomunikasi antara satu aplikasi dengan aplikasi lainnya.
+
+Jenis:
+
+1. REST API
+2. SOAP API
+3. GraphQL API
+4. WebSocket API
+
+## Foreign Function Interface (FFI)
+
+Foreign Function Interface (FFI) adalah mekanisme yang memungkinkan satu bahasa pemrograman memanggil fungsi atau library dari bahasa lain.
+
+## Hashing
+
+Hashing adalah proses mengubah data seperti teks, file, angka menjadi serangkaian karakter tetap menggunakan fungsi matematika tertentu yang disebut hash function.
+
+## Source Code
+
+Source code adalah sekumpulan instruksi tertulis dalam bahasa pemrograman yang dibuat oleh programmer untuk memberi tahu komputer apa yang harus dilakukan.
+
+## Dependency
+
+Dependency adalah komponen, library, atau modul lain yang dibutuhkan oleh suatu program agar bisa berjalan dengan baik
+
+## Library
+
+Library adalah kumpulan fungsi siap pakai yang bisa kamu gunakan untuk menyelesaikan tugas tertentu dalam pemrograman, tanpa perlu menulis semuanya dari nol..
+
+## Framework
+
+Framework adalah kerangka kerja yang sudah disiapkan untuk membantu developer membuat aplikasi dengan lebih cepat dan teratur.
+
+Tanpa framework, kamu harus membuat semua fitur dari nol seperti login, routing, atau koneksi database. Dengan framework, hal-hal itu sudah disediakan. Kamu tinggal menyesuaikan dan menambahkan logika programmu.
+
+## Flowchart
+
+Flowchart adalah diagram visual yang menggambarkan alur proses atau langkah-langkah logika dalam menyelesaikan suatu tugas atau program.
+
+## Wireframe
+
+Wireframe adalah rancangan awal dari tampilan antarmuka sebuah aplikasi atau website yang menunjukkan struktur, layout, dan elemen utama tanpa detail visual seperti warna atau gambar.
+
+## Mockup
+
+Mockup adalah representasi visual statis dari tampilan akhir sebuah aplikasi, website, atau produk, yang menunjukkan desain secara detail.
+
+## Layout
+
+Layout adalah susunan atau tata letak elemen-elemen seperti teks, gambar, tombol, dll, dalam sebuah halaman baik itu halaman web, dokumen, aplikasi, maupun desain grafis.
+
+## Carousel
+
+Carousel adalah komponen tampilan yang memungkinkan pengguna melihat beberapa konten dalam satu area secara bergulir, baik secara otomatis maupun manual.
+
+## Pagination
+
+Pagination adalah proses membagi konten panjang menjadi beberapa halaman, sehingga pengguna bisa menavigasi konten secara bertahap melalui tombol nomor urut, next dan previous.
+
+## Software Driven UI (SDUI)
+
+Software Driven UI (SDUI) adalah pendekatan dalam pengembangan antarmuka pengguna di mana tampilan aplikasi dikontrol oleh server atau software logic, bukan hanya ditentukan secara statis di sisi klien.
+
+Dengan SDUI, server mengirimkan struktur, komponen, dan logika tampilan UI dalam bentuk data, lalu aplikasi klien merender tampilan berdasarkan data tersebut.
+
+Kelebihan:
+
+1. Update Ui Tanpa Update Aplikasi
+Jika ingin mengubah tampilan atau layout, cukup ubah di server, tidak perlu rilis versi baru app.
+
+2. Konsistensi Antar Platform
+Server bisa mengirim data yang sama untuk Android, iOS, atau web.
+
+3. Fleksibilitas
+Bisa menyesuaikan UI untuk user berbeda tanpa mengubah kode app.
+
+Kekurangan:
+
+1. Ketergantungan Pada Server
+Jika server lambat atau down, UI bisa gagal render.
+
+2. Keterbatasan Kontrol Lokal
+Beberapa efek UI kompleks mungkin sulit dilakukan hanya dari data server.
+
+3. Debugging Lebih Sulit
+Karena UI bisa berubah dari server, tracking bug bisa lebih rumit.
+
+## Drag & Drop
+
+Drag and drop adalah fitur antarmuka pengguna yang memungkinkan kamu memindahkan suatu elemen di layar ke tempat lain dengan cara klik, tahan dan geser.
 
 ## Development & Operations (DevOps)
 

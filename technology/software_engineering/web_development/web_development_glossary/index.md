@@ -18,23 +18,6 @@ Full-stack Developer adalah pengembang perangkat lunak yang menguasai dan bekerj
 
 Hyperlink atau link adalah tautan yang menghubungkan satu halaman web ke halaman lain, baik dalam situs yang sama maupun ke situs lain di internet.
 
-## Uniform Resources Locator (URL)
-
-Uniform Resource Locator (URL) adalah alamat lengkap yang digunakan untuk mengakses sumber daya (resource) di internet, seperti halaman web, gambar, video, atau file lainnya.
-
-Contoh:
-
-https://www.contoh.com/product view?id=12345&ref=google&utm_source=ads
-
-Struktur:
-
-Protocol = https://
-Subdomain = www.
-Domain = https://www.contoh.com
-Top-level Domain = .com
-Path = /product/view
-Query String = ?id=12345&ref=google&utm_source=ads
-
 ## Tracking Paramaters:
 
 Tracking parameter atau parameter pelacakan adalah bagian tambahan di akhir URL yang digunakan untuk melacak sumber, perilaku, atau kampanye pengunjung di sebuah situs web. Biasanya muncul setelah tanda tanya ? di URL.

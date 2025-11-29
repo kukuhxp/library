@@ -21,3 +21,9 @@ Analisa pasar bukan soal benar atau salah, tapi soal bagaimana kita membaca dan 
 
 “Inflation game adalah permainan di mana yang memegang aset menang, dan yang memegang uang kalah.”
 - Inflation Game
+
+"Derivative adalah negative-sum game"
+- Derivative
+
+"Jangan berinvestasi di tempat kita bekerja"
+- Investing

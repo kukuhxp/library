@@ -15,3 +15,6 @@ STATEMENT
 
 "Cintailah pekerjaanmu bukan perusahaanmu"
 - Work
+
+"Menentukan sektor bisnis itu tergantung ekosistem dari negara yang kita tinggali"
+- Business Sector

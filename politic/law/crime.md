@@ -99,7 +99,7 @@ Under-invoicing berarti melaporkan nilai barang atau jasa lebih rendah dari harg
 
 Contoh: Barang sebenarnya senilai $10.000, tapi invoice yang dikirim ke bea cukai ditulis $6.000 agar bayar pajak impor lebih kecil.
 
-## Over-imvoicing
+## Over-invoicing
 
 Over-invoicing adalah praktik mencatat nilai barang atau jasa di faktur lebih tinggi dari harga sebenarnya. Biasanya dilakukan untuk tujuan ilegal seperti pencucian uang, pengalihan dana ke luar negeri, atau penghindaran pajak.
 

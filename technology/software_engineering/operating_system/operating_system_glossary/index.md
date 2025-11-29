@@ -72,10 +72,6 @@ Storage data unit adalah satuan ukuran yang digunakan untuk mengukur jumlah data
 - 1 Zetta Byte (ZB) = 1024 EB
 - 1 Yotta Byte (YB) = 1024 ZB
 
-## Path
-
-Path adalah alamat lengkap atau lokasi suatu file atau folder di dalam sistem file komputer.
-
 ## Root
 
 Root adalah istilah yang digunakan dalam dunia komputer dan jaringan, biasanya merujuk pada tingkat tertinggi akses atau kontrol dalam sebuah sistem.
