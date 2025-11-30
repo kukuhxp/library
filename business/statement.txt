@@ -18,3 +18,9 @@ STATEMENT
 
 "Menentukan sektor bisnis itu tergantung ekosistem dari negara yang kita tinggali"
 - Business Sector
+
+"Media digital adalah bisnis ilusi terbesar abad ini"
+- Illusion Business
+
+"Algoritma bukanlah milik konten kreator. Konten kreator sebenarnya bekerja di tanah orang lain. Jika besok TikTok, Instagram, atau YouTube ganti algoritma, lenyaplah mereka"
+- Content Creator
