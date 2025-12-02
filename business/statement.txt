@@ -1,6 +1,9 @@
 -------------------------------------------------------------------
 STATEMENT
 -------------------------------------------------------------------
+"Pebisnis itu bukan manusia"
+- Businessman
+
 "Harga jual lebih rendah dari harga beli"
 - Spread
 
