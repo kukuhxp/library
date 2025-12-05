@@ -1,4 +1,4 @@
-# MANUFACTURER SECTOR
+# MANUFACTURER
 
 ## Foundry
 

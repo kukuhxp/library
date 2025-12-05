@@ -1,4 +1,4 @@
-# ADVERTISEMENT SECTOR
+# ADVERTISER
 
 ## Advertising Agency
 

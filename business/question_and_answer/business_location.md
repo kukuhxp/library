@@ -1,13 +1,37 @@
--------------------------------------------------------------------
-QUESTION & ANSWER
--------------------------------------------------------------------
-Q: Lokasi mana saja yang strategis untuk berbisnis di kota bekasi?
+# BUSINESS LOCATION
 
-A: Berikut ini adalah lokasi strategis untuk berbisnis di kota bekasi:
+## Q: Lokasi mana saja yang strategis untuk berbisnis di kota bekasi?
 
-Bekasi Barat: Kalimalang, Galaxy, Harapan Indah.
-Bekasi Timur: Pondok Ungu, Margahayu, Duren Jaya.
-Bekasi Selatan: Grand Galaxy City, Jatibening, Pekayon.
-Bekasi Utara: Harapan Indah, Teluk Pucung, Kaliabang.
-Medansatria: Taman Harapan Baru, Boulevard Harapan Indah.
-Wilayah Industri: Cibitung, Cikarang, Jababeka.
+## A: Berikut ini adalah lokasi strategis untuk berbisnis di kota bekasi:
+
+### Bekasi Barat
+
+- Kalimalang.
+
+- Galaxy.
+
+- Harapan Indah.
+
+### Bekasi Timur
+
+- Pondok Ungu.
+
+- Margahayu.
+
+- Duren Jaya.
+
+### Bekasi Selatan
+
+- Grand Galaxy City.
+
+- Jatibening.
+
+- Pekayon.
+
+### Bekasi Utara
+
+- Harapan Indah.
+
+- Teluk Pucung.
+
+- Kaliabang.
