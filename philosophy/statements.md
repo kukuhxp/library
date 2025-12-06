@@ -1,80 +1,59 @@
--------------------------------------------------------------------
-STATEMENT
-------------------------------------------------------------------
-"Health > Ambition"
-- Health
+# STATEMENT
 
-"Belajarlah untuk menerima hal yang diluar ekspetasimu"
-- Expectation
+## Principles
 
-"Mengejar ambisi harus dengan akal sehat"
-- Ambition
+- Jangan pernah merasa paling hebat
 
-"Jangan pernah merasa paling hebat"
-- Humble
+- Jangan biarkan psikologimu dikendalikan oleh orang lain
 
-"Saya percaya ada pencipta, tapi tidak dengan agama"
-- Faith
+- Aku tidak akan lagi membiarkan seseorang menentukan nilai diriku
 
-"Hidup hanya untuk orang yang berani"
-- Brave
+- Aku tidak bisa memilih seberapa adil dunia memperlakukanku, tapi aku bisa memilih bagaimana aku memperlakukan dunia
 
-"Jika hidup ini tidak adil, akan aku buat menjadi adil"
-- Justice
+- Health > Ambition
 
-"No Win, No Happy"
-- Addiction
+- Belajarlah untuk menerima hal yang diluar ekspetasimu
 
-"Gagal, ditolak, dan dibohongi adalah bagian paling menyakitkan dari kehidupan"
-- Life
+- Mengejar ambisi harus dengan akal sehat
 
-"Manusia sekarang mudah dikendalikan oleh media sosial"
-- Brain Washing
+- Saya percaya ada pencipta, tapi tidak dengan agama
 
-Karma bukan hanya tentang nasib atau hukuman, tapi tentang hukum sebab-akibat moral. Artinya, "apa yang kamu lakukan baik atau buruk, pada akhirnya akan kembali kepadamu, entah dalam kehidupan ini atau kehidupan berikutnya.
-- Karma
+- Jika hidup ini tidak adil, akan aku buat menjadi adil
 
-"Aku percaya ada kekuatan ilahi yang menciptakan alam ini, tapi aku tidak percaya agama manusia bisa sepenuhnya mewakili kehendak-Nya."
-- Deist
+- Bijaklah dalam bersosialisasi
 
-"Aku tidak akan lagi membiarkan seseorang menentukan nilainya diriku."
-- Self Love
+## Facts
 
- “Ketika hati pria patah, dunia sebaiknya bersiap, karena dari reruntuhan itu lahir seorang penakluk.”
-- Warrior
+- Hidup hanya untuk orang yang berani
 
-"Hidup untuk menunggu antrian kematian"
-- Death
+- Hidup itu pilihan kita sendiri
 
-"Bermula dari lahir, berakhir pada mati"
-- Born & Dead
+- Hidup hanya untuk menunggu antrian kematian
 
-"Aku tidak bisa memilih seberapa adil dunia memperlakukanku, tapi aku bisa memilih bagaimana aku memperlakukan dunia.”
-- Injustice
+- Manusia sekarang mudah dikendalikan oleh media sosial
 
-"Bijaklah dalam bersosialisasi"
-- Society
+- Manusia suka sekali dengan spekulasi
 
-"Hidup itu pilihan kita sendiri"
-- Choose
+- Agama indentik dengan putih, tapi ketika digunakan untuk politik menjadi abu-abu
 
-"Jangan biarkan psikologimu dikendalikan oleh orang lain"
-- Psychology
+- Agama hanyalah alat politik dan bisnis
 
-"Belajar ikhlas itu sulit"
-- Sincere
+- Rasa ingin belajar itu berasal dari rasa penasaran, ketika rasa penasaran itu hilang, maka keinginan untuk melanjutkan belajar juga hilang
 
-"Agama indentik dengan putih, tapi ketika digunakan untuk politik menjadi abu-abu"
-- Religion
+- Rasa depresi itu tercipta karena ada banyak kesulitan yang tidak dapat dihadapi
 
-"Manusia suka sekali dengan spekulasi"
-- Speculation
+- Menyadarkan manusia adalah hal yang percuma
 
-"Rasa ingin belajar itu berasal dari rasa penasaran, ketika rasa penasaran itu hilang, maka keinginan untuk melanjutkan belajar juga hilang"
-- Learn
+- No Win, No Happy
 
-"Rasa depresi itu tercipta karena ada banyak kesulitan yang tidak dapat dihadapi"
-- Depression
+- Gagal, ditolak, dan dibohongi adalah bagian paling menyakitkan dari kehidupan
 
-"Agama hanyalah alat politik dan bisnis"
-- Religion
+- Karma bukan hanya tentang nasib atau hukuman, tapi tentang hukum sebab-akibat moral. Artinya, "apa yang kamu lakukan baik atau buruk, pada akhirnya akan kembali kepadamu, entah dalam kehidupan ini atau kehidupan berikutnya
+
+- Aku percaya ada kekuatan ilahi yang menciptakan alam ini, tapi aku tidak percaya agama manusia bisa sepenuhnya mewakili kehendak-Nya
+
+- Ketika hati pria patah, dunia sebaiknya bersiap, karena dari reruntuhan itu lahir seorang penakluk
+
+- Bermula dari kelahiran, berakhir pada kematian
+
+- Belajar ikhlas itu sulit

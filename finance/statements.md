@@ -33,3 +33,9 @@ Analisa pasar bukan soal benar atau salah, tapi soal bagaimana kita membaca dan 
 
 "Jangan menolong orang lain dengan kita berutang"
 - Help
+
+- Jangan pernah beri tahu penghasilanmu ke orang lain
+
+- Bunga pinjaman adalah cara mencetak uang baru bagi bank
+
+- Emas bukanlah alat pembayaran, tapi aset penyimpanan nilai
