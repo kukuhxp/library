@@ -1,41 +1,33 @@
--------------------------------------------------------------------
-STATEMENT
--------------------------------------------------------------------
-"Jaga kesehatan jaga finansial"
-- Success
+# STATEMENT
 
-"Uangmu untuk membangun apa?"
-- Investing
+## Principles
 
-"Mendapatkan keuntungan cepat dari pergerakan harga"
-- Speculate
+- Jaga kesehatan jaga finansial
 
-"Buy when others are fearful, sell when others are greedy."
-- Warren Buffett
+- Buy when others are fearful, sell when others are greedy
 
-Analisa pasar bukan soal benar atau salah, tapi soal bagaimana kita membaca dan menyesuaikan diri dengan kondisi yang sedang terjadi.
-- Market Analysis
+- Capital gain untuk meningkatkan modal, dan return untuk mendapatkan passive income
 
-"Capital gain untuk meningkatkan modal, dan return untuk mendapatkan passive income"
-- Investing
+- Jangan berinvestasi di tempat kita bekerja
 
-“Inflation game adalah permainan di mana yang memegang aset menang, dan yang memegang uang kalah.”
-- Inflation Game
+- Jangan menolong orang lain saat finansial kita sendiri sedang susah
 
-"Derivative adalah negative-sum game"
-- Derivative
-
-"Jangan berinvestasi di tempat kita bekerja"
-- Investing
-
-"Jangan menolong orang lain saat finansial kita sendiri sedang susah"
-- Logic
-
-"Jangan menolong orang lain dengan kita berutang"
-- Help
+- Jangan menolong orang lain dengan kita berutang
 
 - Jangan pernah beri tahu penghasilanmu ke orang lain
+
+## Facts
+
+- Spekulasi adalah aktivitas untuk mendapatkan keuntungan cepat dari pergerakan harga
+
+- Analisa pasar bukan soal benar atau salah, tapi soal bagaimana kita membaca dan menyesuaikan diri dengan kondisi yang sedang terjadi
+
+- Inflation game adalah permainan di mana yang memegang aset menang, dan yang memegang uang kalah
+
+- Derivative adalah negative-sum game
 
 - Bunga pinjaman adalah cara mencetak uang baru bagi bank
 
 - Emas bukanlah alat pembayaran, tapi aset penyimpanan nilai
+
+- Obligasi itu unik, kita berutang tapi kita sendiri yang menentukan bunganya

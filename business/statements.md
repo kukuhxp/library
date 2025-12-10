@@ -6,6 +6,7 @@
 
 - Cintailah pekerjaanmu bukan perusahaanmu
 
+- Utamakan penggunaan teknologi untuk produksi bukan konsumsi
 
 ## Facts
 

@@ -24,6 +24,14 @@
 
 ## Facts
 
+- Niat baik tidak selalu berujung diterima dengan baik juga
+
+- Niat baik tidak kehilangan nilainya hanya karena ditolak
+
+- Kita tidak bisa mengendalikan respons orang lain
+
+- Menjadi orang baik tidak menjamin hidup mudah
+
 - Hidup hanya untuk orang yang berani
 
 - Hidup itu pilihan kita sendiri
