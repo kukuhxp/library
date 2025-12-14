@@ -10,6 +10,10 @@ Setiap candlestick menggambarkan 4 data utama dalam satu periode waktu, yaitu:
 3. Low – Harga terendah dalam periode
 4. Close – Harga saat akhir periode
 
+## Drawdown
+
+Drawdown adalah sebuah persentase dari nilai pullback atau koreksi penurunan. Drawdown biasa digunakan untuk memberi gambaran akan resiko investasi dari reksadana.
+
 ## Pullback
 
 Pullback adalah pergerakan harga yang sementara berlawanan arah dengan tren utama, sebelum harga melanjutkan tren tersebut lagi.

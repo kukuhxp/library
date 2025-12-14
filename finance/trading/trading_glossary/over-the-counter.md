@@ -1,1 +1,0 @@
-# OVER-THE-COUNTER (OTC)

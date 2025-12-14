@@ -1,3 +1,0 @@
-# METAL PAIRS
-
-Metal Pairs adalah instrumen trading yang memperdagangkan logam mulia terhadap mata uang, biasanya dalam format logam/mata uang, mirip seperti pasangan forex. Contohnya, XAUUSD adalah sebuah pasangan dari instrumen logam emas dan mata uang U.S.Dollar. Selain XAU, ada beberapa logam lainnya yang diperdagangkan di pasar forex, seperti perak (XAG), palladium (XPD, platinum (XPT) dan tembaga (XCU).

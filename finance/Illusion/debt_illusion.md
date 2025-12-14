@@ -1,0 +1,3 @@
+# DEBT ILLUSION
+
+Hutang adalah bentuk ilusi finansial yang menambah kekayaan pemodal bertambah tanpa melakukan apapun.
