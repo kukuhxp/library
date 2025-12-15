@@ -33,3 +33,5 @@
 - Restrukturisasi hutang adalah cara bankir menciptakan hutang warisan turun-temurun ke para debitur
 
 - Relative Deprivation: Psikologi di mana manusia sudah mulai bunuh-membunuh hanya karena uang
+
+- Bankir: Nasabah adalah produk

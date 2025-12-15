@@ -17,3 +17,7 @@
 - Apa bedanya negara dengan penjajah, jika orang-orang yang ingin merdeka mereka bunuh!
 
 - Pejabat, apakah kalian takut jatuh miskin!
+
+- Kalau mereka tidak menjajah negara lain, mereka menjajah negara sendiri
+
+- Para pejabat membuat harga tanah melambung dengan cara membeli tanah sebanyak mungkin dan membiarkan pembangunan hunian mewah yang tidak ada manfaatnya sama sekali

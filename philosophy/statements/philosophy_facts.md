@@ -1,5 +1,7 @@
 # PHILOSOPHY FACTS
 
+- Manusia yang kuat adalah manusia yang tidak takut hidup sendirian
+
 - Misanthrophy: Manusia tidak layak untuk dipercaya dan dicintai sepenuhnya, karena manusia hanya mementingkan ego mereka sendiri
 
 - Health > Ambition
