@@ -1,5 +1,7 @@
 # CRIME
 
+## Tipikor
+
 ## Gratification
 
 Gratification atau suap adalah sesuatu yang diberikan kepada pejabat atau pegawai negeri sebagai hadiah, janji, uang, barang, jasa, atau fasilitas lain, yang dapat memengaruhi keputusan atau tindakan jabatannya.

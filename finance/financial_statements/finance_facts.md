@@ -4,6 +4,8 @@
 
 - Orang yang hancur mentalnya sulit naik kelas
 
+- Orang zaman dahulu itu bisa punya aset tanah bukan karena hasil membeli, tapi hasil nemu
+
 - Manusia sudah mampu menciptakan kelimpahan, tapi belum mampu membagi hasilnya secara adil
 
 - Spekulasi adalah aktivitas untuk mendapatkan keuntungan cepat dari pergerakan harga
@@ -22,16 +24,14 @@
 
 - Hutang bisa menjadi negative-sum game atau menjadi positive-sum game
 
-- Wealth Inequality: Masalah di abad 21 adalah wealth inequality, kekayaan negara ada tapi distribusi kekayaan tidak ada. Cashflow berpindah ke sektor finansial (aset dan utang), bukan ke upah para pekerja, sehingga menimbulkan harga aset seperti properti, emas, tanah dan lainnya menjadi tinggi
+- Masalah di abad 21 adalah wealth inequality, kekayaan negara ada tapi distribusi kekayaan tidak ada. Cashflow berpindah ke sektor finansial (aset dan utang), bukan ke upah para pekerja, sehingga menimbulkan harga aset seperti properti, emas, tanah dan lainnya menjadi tinggi
 
 - Kredit, paylater, leasing, dan sejenisnya sudah menjamur. Orang-orang merasa punya barang yang mereka miliki, tapi menciptakan ilusi finansial yaitu hutang
 
 - Modernisasi membutuhkan kapitalisme, kapitalisme membutuhkan tenaga buruh yang murah, ketika tenaga buruh sudah tidak diperlukan (digantikan oleh humanoid), manusia akan mengalami depresiasi ekstrim
 
-- Orang zaman dahulu itu bisa punya aset tanah bukan karena hasil membeli, tapi hasil nemu
-
 - Restrukturisasi hutang adalah cara bankir menciptakan hutang warisan turun-temurun ke para debitur
 
 - Relative Deprivation: Psikologi di mana manusia sudah mulai bunuh-membunuh hanya karena uang
 
-- Bankir: Nasabah adalah produk
+- Nasabah adalah produk

@@ -21,3 +21,9 @@
 - Kalau mereka tidak menjajah negara lain, mereka menjajah negara sendiri
 
 - Para pejabat membuat harga tanah melambung dengan cara membeli tanah sebanyak mungkin dan membiarkan pembangunan hunian mewah yang tidak ada manfaatnya sama sekali
+
+- Rakyat dan umat merupakan komoditas
+
+- Cukup jadi orang munafik, maka pengikut akan datang dengan sendirinya
+
+- KKN adalah cara mempertahankan kekuasaan

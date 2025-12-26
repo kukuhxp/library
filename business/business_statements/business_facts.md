@@ -1,5 +1,7 @@
 # BUSINESS FACTS
 
+- Korporassi adalah mesin penghasil uang yang serakah
+
 - Pahami algoritma platform dan optimalkan produk agar disukai algoritma
 
 - Bisnis itu antara menjadi inovator atau menjadi kompetitor

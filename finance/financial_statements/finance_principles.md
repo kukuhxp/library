@@ -2,7 +2,7 @@
 
 - Jaga kesehatan jaga finansial
 
-- Buy when others are fearful, sell when others are greedy
+- Beli ketika orang lain takut, jual ketika orang lain serakah
 
 - Capital gain untuk meningkatkan modal, dan return untuk mendapatkan passive income
 
