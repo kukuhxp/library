@@ -4,8 +4,6 @@
 
 - Beli ketika orang lain takut, jual ketika orang lain serakah
 
-- Capital gain untuk meningkatkan modal, dan return untuk mendapatkan passive income
-
 - Jangan berinvestasi di tempat kita bekerja
 
 - Jangan menolong orang lain saat finansial kita sendiri sedang susah

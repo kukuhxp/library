@@ -1,3 +1,3 @@
-# WORKING STATEMENTS
+# WORKING STATEMENTS 01
 
-K3 dalam bekerja: keberuntungan, kesempatan, dan kecerdasan.
+Tempat kerja bukanlah tempat untuk mencari prestasi.

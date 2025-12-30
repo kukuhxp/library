@@ -1,0 +1,3 @@
+# AXIOLOGY STATEMENTS 07
+
+Niat baik tidak selalu berujung diterima dengan baik juga.
