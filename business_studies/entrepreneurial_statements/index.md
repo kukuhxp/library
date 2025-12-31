@@ -13,3 +13,11 @@
 - Algoritma bukanlah milik konten kreator
 
 - Komoditas adalah barang standar yang tidak bisa dibedakan
+
+- Beli di harga murah, jual di harga mahal
+
+- Cintailah pekerjaanmu bukan perusahaanmu
+
+- Utamakan penggunaan teknologi untuk produksi bukan konsumsi
+
+- No Risk, No Life
