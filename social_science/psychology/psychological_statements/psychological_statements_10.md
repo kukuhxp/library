@@ -1,0 +1,3 @@
+# PSYCHOLOGICAL STATEMENTS 10
+
+No Win, No Happy.

@@ -1,0 +1,3 @@
+# PSYCHOLOGICAL STATEMENTS 09
+
+Health > Ambition.
