@@ -1,3 +1,0 @@
-# ENTREPRENEURIAL STATEMENTS 08
-
-No Risk, No Life.
