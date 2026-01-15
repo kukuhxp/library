@@ -1,3 +1,3 @@
-# ECONOMIC STATEMENTS 06
+# ECONOMIC DECLARATION 06
 
 Inflasi mustahil untuk punah.

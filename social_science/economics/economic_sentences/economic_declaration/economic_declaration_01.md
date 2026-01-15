@@ -1,3 +1,3 @@
-# ECONOMIC STATEMENTS 02
+# ECONOMIC DECLARATION 01
 
 Cintailah pekerjaanmu bukan perusahaanmu

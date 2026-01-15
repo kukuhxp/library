@@ -1,3 +1,3 @@
-# POLITICAL STATEMENTS 19
+# POLITICAL DECLARATION 19
 
-Agama hanyalah propaganda.
+Agama adalah alat propaganda dan bisnis.

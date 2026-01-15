@@ -1,3 +1,3 @@
-# ECONOMIC STATEMENTS 04
+# ECONOMIC DECLARATION 04
 
 Utamakan penggunaan teknologi untuk produksi bukan konsumsi.

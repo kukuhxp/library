@@ -1,3 +1,3 @@
-# ONTOLOGY STATEMENTS 06
+# ONTOLOGICAL DECLARATION 06
 
-Manusia suka sekali dengan spekulasi. Mereka rela kehilangan apapun demi memuaskan rasa penasaran mereka.
+Bermula dari kelahiran, berakhir pada kematian.

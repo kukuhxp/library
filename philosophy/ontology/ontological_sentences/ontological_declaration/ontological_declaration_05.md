@@ -1,3 +1,3 @@
-# ONTOLOGY STATEMENTS 05
+# ONTOLOGICAL DECLARATION 05
 
-Hidup itu hanya untuk menunggu antrian kematian yang tanpa kita sadari selalu mengintai kita setiap saat.
+Hidup itu hanya untuk menunggu antrian kematian. Tanpa kita sadari, kematian itu selalu berada di samping kita dan siap untuk mengeksekusi kita kapan saja.

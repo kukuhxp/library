@@ -1,3 +1,3 @@
-# ANTHROPOLOGY STATEMENTS 04
+# ANTHROPOLOGICAL DECLARATION 04
 
 Manusia yang kuat adalah manusia yang tidak takut hidup sendirian.

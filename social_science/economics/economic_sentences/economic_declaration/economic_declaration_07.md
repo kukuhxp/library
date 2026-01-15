@@ -1,3 +1,3 @@
-# ECONOMIC STATEMENTS 07
+# ECONOMIC DECLARATION 07
 
 Lebih baik memiliki alat produksi yang sederhana daripada tidak memiliki sama sekali.
